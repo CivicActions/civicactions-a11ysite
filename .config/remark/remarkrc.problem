@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "listItemIndent": "1",
+    "bullet": "*",
+    "strong": "*",
+    "emphasis": "_",
+    "fences": true
+  },
+  "plugins": [
+      "remark-preset-lint-markdown-style-guide",
+      "remark-preset-lint-recommended",
+      "remark-preset-prettier",
+      ["remark-lint-maximum-heading-length", 100],
+      "remark-frontmatter",
+      "remark-validate-links",
+      "remark-comment-config",
+      "remark-normalize-headings",
+      "remark-lint-no-duplicate-headings-in-section",
+      "remark-lint-no-empty-url",
+      "remark-lint-no-tabs",
+      ["remark-lint-checkbox-character-style", "consistent"],
+      ["remark-lint-first-heading-level", 1],
+      "./retext.problem.js"
+    ]
+}
