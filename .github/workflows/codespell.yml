@@ -14,4 +14,4 @@ jobs:
       - uses: codespell-project/actions-codespell@master
         with:
           path: ./
-          ignore_words_file: .config/codespell-ignore
+          ignore_words_file: .codespell-ignore

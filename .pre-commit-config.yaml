@@ -27,14 +27,14 @@ repos:
         language_version: default
         types: [markdown]
         args:
-          - "--config=.config/pre-commit-search-and-replace.yaml"
+          - "--config=.pre-commit-search-and-replace.yaml"
   - repo: https://github.com/codespell-project/codespell
     rev: v2.4.1
     hooks:
       - id: codespell
         types: [markdown]
         args:
-          - "--ignore-words=.config/codespell-ignore"
+          - "--ignore-words=.codespell-ignore"
 ci:
   # We skip checks that have their own actions or external dependencies.
   skip: [codespell]
