@@ -17,10 +17,30 @@ services:
         - sed -i 's/AllowOverride None/AllowOverride All/' /usr/local/apache2/conf/httpd.conf
         - sed -i 's/#LoadModule rewrite_module modules\/mod_rewrite\.so/LoadModule rewrite_module modules\/mod_rewrite\.so/' /usr/local/apache2/conf/httpd.conf
 
+        # Install node.js version 18.
+        - apt-get update
+        - apt-get install -yq ca-certificates curl gnupg
+        - mkdir -p /etc/apt/keyrings
+        - curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | gpg --dearmor -o
+          /etc/apt/keyrings/nodesource.gpg
+        - echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.com/node_18.x nodistro main" |
+          tee /etc/apt/sources.list.d/nodesource.list
+        - apt-get update
+        - apt-get install -yq nodejs
+
+        # Set the webroot for the 11ty public folder.
+        # Change this if you specify a different root for your public site.
+        - ln -snf "${TUGBOAT_ROOT}/_site" "${DOCROOT}"
+
+      # Load dependent libraries and assets to prepare the site for build.
+      update:
+        # Run the node.js installer to install 11ty and its dependencies.
+        - npm install
+
+      # Run any commands needed to build the site.
       build:
-        # Link the document root to the expected path. This example links the
-        # root of the git repository to the docroot
-        - ln -snf "${TUGBOAT_ROOT}" "${DOCROOT}"
+        # Build the static 11ty site.
+        - npm run build
 
         # Error occurred when implementing Tugboat preview.
         # Solution: Inject .htaccess file to mimic GitHub pages behavior with URLs.
