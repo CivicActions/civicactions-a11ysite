@@ -4,7 +4,7 @@ A collection of resources about digital accessibility and how it aligns with ope
 
 ## 11ty
 
-Site is build with [11ty](https://www.11ty.dev/). Files in the `.eleventyignore` file are not processed by 11ty.
+Site is built with [11ty](https://www.11ty.dev/). Files in the `.eleventyignore` file are not processed by 11ty.
 
 ## How to set up a local 11ty environment
 
