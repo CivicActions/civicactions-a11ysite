@@ -8,6 +8,7 @@
   },
   "scripts": {
     "build": "npx @11ty/eleventy",
-    "build-ghpages": "npx @11ty/eleventy --pathprefix=/civicactions-a11ysite/"
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/civicactions-a11ysite/",
+    "serve": "npx @11ty/eleventy --serve"
   }
 }
