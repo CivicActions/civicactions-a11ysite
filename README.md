@@ -34,3 +34,7 @@ Tugboat is used to preview pull requests. It builds the site and provides a temp
 ## Dependabot
 
 We use [Dependabot](https://docs.github.com/en/code-security/dependabot) to keep our dependencies up to date. It will automatically create pull requests for dependency updates. You can find the configuration in the `.github/dependabot.yml` file.
+
+## GitHub Pages
+
+This site is hosted on GitHub Pages. The source code is in the `main` branch, and the built site is in the `gh-pages` branch. The `gh-pages` branch is automatically updated by the GitHub action `.github/workflows/deploy-to-ghpages` when changes are pushed to the `main` branch.
