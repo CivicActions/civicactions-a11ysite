@@ -20,7 +20,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 ## Section 2 – Scope
 
-1.  **License grant**
+1.  License grant
 
     1.  Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
         1.  reproduce and Share the Licensed Material, in whole or in part; and
@@ -36,7 +36,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
     6.  No endorsement. Nothing in this Public License constitutes or may be construed as permission to assert or imply that You are, or that Your use of the Licensed Material is, connected with, or sponsored, endorsed, or granted official status by, the Licensor or others designated to receive attribution as provided in Section [3(a)(1)(A)(i)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3a1Ai).
 
-2.  **Other rights**
+2.  Other rights
 
     1.  Moral rights, such as the right of integrity, are not licensed under this Public License, nor are publicity, privacy, and/or other similar personality rights; however, to the extent possible, the Licensor waives and/or agrees not to assert any such rights held by the Licensor to the limited extent necessary to allow You to exercise the Licensed Rights, but not otherwise.
     2.  Patent and trademark rights are not licensed under this Public License.
@@ -46,7 +46,7 @@ By exercising the Licensed Rights (defined below), You accept and agree to be bo
 
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 
-1.  **Attribution**
+1.  Attribution
 
     1.  If You Share the Licensed Material (including in modified form), You must:
 
@@ -62,7 +62,7 @@ Your exercise of the Licensed Rights is expressly made subject to the following 
     2.  You may satisfy the conditions in Section [3(a)(1)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3a1) in any reasonable manner based on the medium, means, and context in which You Share the Licensed Material. For example, it may be reasonable to satisfy the conditions by providing a URI or hyperlink to a resource that includes the required information.
     3.  If requested by the Licensor, You must remove any of the information required by Section [3(a)(1)(A)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3a1A) to the extent reasonably practicable.
 
-2.  **ShareAlike**
+2.  ShareAlike
 
     In addition to the conditions in Section [3(a)](https://creativecommons.org/licenses/by-sa/4.0/legalcode#s3a), if You Share Adapted Material You produce, the following conditions also apply.
 
