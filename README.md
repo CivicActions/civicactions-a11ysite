@@ -24,7 +24,6 @@ Pre-commit configuration file is `.pre-commit-config.yaml`. It includes hooks so
 
 - [remark-lint](https://github.com/remarkjs/remark-lint)
 - [codespell](https://github.com/codespell-project/codespell)
-- [prettier](https://prettier.io/) (Prettier configuration is in `.prettierrc.json` and ignore file is `.prettierignore`)
 - [search-and-replace](https://github.com/mattlqx/pre-commit-search-and-replace) (Configuration is in `.config/pre-commit-search-and-replace.yaml`)
 
 ## Tugboat
