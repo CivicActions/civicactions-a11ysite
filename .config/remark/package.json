@@ -1,8 +1,11 @@
 {
   "type": "module",
+  "scripts": {
+    "remark-changed": "node scripts/remark-changed.js"
+  },
+  "license": "GPL-3.0-only",
   "dependencies": {
     "markdown-link-check": "^3.13.7",
-    "prettier": "^3.6.2",
     "remark-cli": "^12.0.1",
     "remark-comment-config": "^8.0.0",
     "remark-frontmatter": "^5.0.0",
@@ -68,7 +71,6 @@
     "remark-normalize-headings": "^4.0.0",
     "remark-preset-lint-markdown-style-guide": "^6.0.0",
     "remark-preset-lint-recommended": "^7.0.0",
-    "remark-preset-prettier": "^2.0.1",
     "remark-retext": "^6.0.1",
     "remark-validate-links": "^13.0.2",
     "retext-contractions": "^6.0.0",
