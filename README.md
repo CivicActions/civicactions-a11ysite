@@ -19,7 +19,7 @@ We use pre-commit hooks to ensure code quality and consistency. Follow these ste
 1. Run `pre-commit install` to set up pre-commit hooks
 2. Commit your changes with a descriptive message
 
-Pre-commit configuration file is `.pre-commit-config.yaml`. It includes hooks some available pre-commit hooks and the following tools:
+Pre-commit configuration file is `.pre-commit-config.yaml`. It includes some available pre-commit hooks and the following tools:
 
 - [remark-lint](https://github.com/remarkjs/remark-lint)
 - [codespell](https://github.com/codespell-project/codespell)
