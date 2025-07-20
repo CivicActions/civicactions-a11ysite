@@ -17,8 +17,7 @@ Site is built with [11ty](https://www.11ty.dev/). Files in the `.eleventyignore`
 We use pre-commit hooks to ensure code quality and consistency. Follow these steps to install it and then commit your changes:
 
 1. Run `pre-commit install` to set up pre-commit hooks
-2. Run `./.config/remark/build-remark-image.sh` to build the Docker image for the remark linter
-3. Commit your changes with a descriptive message
+2. Commit your changes with a descriptive message
 
 Pre-commit configuration file is `.pre-commit-config.yaml`. It includes hooks some available pre-commit hooks and the following tools:
 
