@@ -2739,19 +2739,7 @@ remark-lint-table-pipes@^5.0.0, remark-lint-table-pipes@^5.0.1:
     unist-util-position "^5.0.0"
     unist-util-visit-parents "^6.0.0"
 
-remark-lint-unordered-list-marker-style@^3.1.2:
-  version "3.1.2"
-  resolved "https://registry.npmjs.org/remark-lint-unordered-list-marker-style/-/remark-lint-unordered-list-marker-style-3.1.2.tgz"
-  integrity sha512-JFiyB4ZprJGGndCaFB8FssXd48m4Kh+CUqzNgu3lBLEiW8dEAGRlD9M2AzyyA+Q29WJP/FntDCbP22DeON91UA==
-  dependencies:
-    "@types/mdast" "^3.0.0"
-    unified "^10.0.0"
-    unified-lint-rule "^2.0.0"
-    unist-util-generated "^2.0.0"
-    unist-util-position "^4.0.0"
-    unist-util-visit "^4.0.0"
-
-remark-lint-unordered-list-marker-style@^4.0.0:
+remark-lint-unordered-list-marker-style@^4.0.0, remark-lint-unordered-list-marker-style@^4.0.1:
   version "4.0.1"
   resolved "https://registry.npmjs.org/remark-lint-unordered-list-marker-style/-/remark-lint-unordered-list-marker-style-4.0.1.tgz"
   integrity sha512-HMrVQC0Qbr8ktSy+1lJGRGU10qecL3T14L6s/THEQXR5Tk0wcsLLG0auNvB4r2+H+ClhVO/Vnm1TEosh1OCsfw==
