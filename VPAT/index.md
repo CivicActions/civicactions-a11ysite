@@ -2,7 +2,10 @@
 title: "VPAT"
 description: "Placeholder page"
 layout: base
+eleventyNavigation:
+  key: "Index"
 ---
+
 
 # VPAT
 

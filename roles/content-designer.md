@@ -2,7 +2,11 @@
 title: "content-designer"
 description: "Placeholder migrated page"
 layout: base
+eleventyNavigation:
+  key: "Content Designer"
+  parent: "Roles"
 ---
+
 
 # content-designer
 
