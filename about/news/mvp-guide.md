@@ -2,7 +2,10 @@
 title: "mvp-guide"
 description: "Placeholder migrated page"
 layout: base
+eleventyNavigation:
+  key: "Mvp Guide"
 ---
+
 
 # mvp-guide
 

@@ -1,12 +1,12 @@
 ---
-title: "opensource-automated-accessibility-testing"
+title: "Talking-Drupal-Podcast"
 description: "Placeholder migrated page"
 layout: base
 eleventyNavigation:
-  key: "Opensource Automated Accessibility Testing"
+  key: "Talking Drupal Podcast"
 ---
 
 
-# opensource-automated-accessibility-testing
+# Talking-Drupal-Podcast
 
 Placeholder migrated stub. Expand with content from original site.

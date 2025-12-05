@@ -1,12 +1,12 @@
 ---
-title: "opensource-automated-accessibility-testing"
+title: "social-media-accessibility-guide"
 description: "Placeholder migrated page"
 layout: base
 eleventyNavigation:
-  key: "Opensource Automated Accessibility Testing"
+  key: "Social Media Accessibility Guide"
 ---
 
 
-# opensource-automated-accessibility-testing
+# social-media-accessibility-guide
 
 Placeholder migrated stub. Expand with content from original site.

@@ -2,7 +2,10 @@
 title: "plain-language-accessibility-guide"
 description: "Placeholder migrated page"
 layout: base
+eleventyNavigation:
+  key: "Plain Language Accessibility Guide"
 ---
+
 
 # plain-language-accessibility-guide
 

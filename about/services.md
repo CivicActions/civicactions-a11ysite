@@ -1,13 +1,13 @@
 ---
-title: "Who We Are"
+title: "Services"
 description: "Placeholder stub"
 layout: base
 eleventyNavigation:
-  key: Who We Are
+  key: Services
   parent: About
 ---
 
-# Who We Are
+# Services
 
 Placeholder migrated stub.
 

@@ -2,7 +2,10 @@
 title: "mvp-playbook"
 description: "Placeholder migrated page"
 layout: base
+eleventyNavigation:
+  key: "Mvp Playbook"
 ---
+
 
 # mvp-playbook
 

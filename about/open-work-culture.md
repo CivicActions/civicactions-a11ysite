@@ -10,3 +10,5 @@ eleventyNavigation:
 # Open Work Culture
 
 Placeholder migrated stub.
+
+Content pending migration per plan.

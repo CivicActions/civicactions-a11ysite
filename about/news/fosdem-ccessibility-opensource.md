@@ -2,7 +2,10 @@
 title: "fosdem-ccessibility-opensource"
 description: "Placeholder migrated page"
 layout: base
+eleventyNavigation:
+  key: "Fosdem Ccessibility Opensource"
 ---
+
 
 # fosdem-ccessibility-opensource
 

@@ -2,7 +2,10 @@
 title: "engineer-emery"
 description: "Placeholder migrated page"
 layout: base
+eleventyNavigation:
+  key: "Engineer Emery"
 ---
+
 
 # engineer-emery
 
