@@ -3,6 +3,31 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if title %}{{ title }} — {% endif %}CivicActions Accessibility</title>
+    <link rel="stylesheet" href="{{ '/assets/styles.css' | url }}">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="{{ '/' | url }}">Home</a>
+        <a href="{{ '/about' | url }}">About</a>
+        <a href="{{ '/guides' | url }}">Guides</a>
+        <a href="{{ '/champions' | url }}">Champions</a>
+      </nav>
+    </header>
+    <main>
+      <h1>{{ title }}</h1>
+      {{ content | safe }}
+    </main>
+    <footer>
+      <p><a href="{{ '/site/accessibility-statement' | url }}">Accessibility statement</a></p>
+    </footer>
+  </body>
+</html><!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ title | safe }}</title>
   </head>
   <body>
