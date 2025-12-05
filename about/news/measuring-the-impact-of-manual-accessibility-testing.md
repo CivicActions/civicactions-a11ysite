@@ -1,0 +1,9 @@
+---
+title: "measuring-the-impact-of-manual-accessibility-testing"
+description: "Placeholder migrated page"
+layout: base
+---
+
+# measuring-the-impact-of-manual-accessibility-testing
+
+Placeholder migrated stub. Expand with content from original site.
