@@ -1,0 +1,99 @@
+# CivicActions Accessibility Site - Redirect Planning
+# Generated from Content Redesign Migration Plan - December 2025
+# 
+# Format: SOURCE_URL -> DESTINATION_URL [HTTP_STATUS] (ACTION_TYPE)
+# 
+# Notes:
+# - All redirects should be implemented at server/hosting level
+# - 301 redirects preserve SEO value
+# - 410 Gone signals permanent deletion
+# - Archive directory content should return 404 or be password protected
+
+## HOMEPAGE & MAIN SECTIONS
+https://accessibility.civicactions.com/ -> / [200] (Update later - Homepage)
+
+## ABOUT SECTION REDIRECTS
+https://accessibility.civicactions.com/agile -> /about/agile-product-development [301] (Combine with existing)
+https://accessibility.civicactions.com/about/contact -> /about/contact [200] (Update in place)
+https://accessibility.civicactions.com/help -> /about/get-accessibility-help [301] (Combine with existing)
+https://accessibility.civicactions.com/about/join -> /about/join-us [301] (Combine with existing)
+https://accessibility.civicactions.com/join -> /about/join-us [301] (Combine with existing)
+
+## NEWS & POSTS REDIRECTS
+https://accessibility.civicactions.com/posts/ -> /about/news [301] (Delete and abandon original, redirect to news)
+https://accessibility.civicactions.com/news/ -> /about/news [301] (Update later)
+https://accessibility.civicactions.com/posts/at-banter-podcast -> /about/news/at-banter-podcast [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe -> /about/news/automated-accessibility-testing-github-actions-pa11y-ci-axe [301] (Update later)
+https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge -> /about/news/civicactions-creates-open-product-accessibility-template [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/CivicActions-Creates-Open-Product-Accessibility-Template -> /about/news/civicactions-creates-open-product-accessibility-template [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/launching-a-community-of-practice-for-accessibility-in-government-services -> /about/news/community-practice-accessibility-government-services [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/daniel-mundra-diving-into-drupal -> /about/news/daniel-mundra-diving-into-drupal [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/delivering-digital-first-turning-21st-century-idea-into-action -> /about/news/delivering-digital-first-turning-21st-century-idea-into-action [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/helping-disabled-veterans-check-in-designing-an-accessibility-map -> /about/news/disabled-veterans-check-in-designing-accessibility-map [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/fix-accessibility-bugs -> /about/news/fix-accessibility-bugs [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/FOSDEM-ccessibility-OpenSource -> /about/news/fosdem-ccessibility-opensource [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/gcn-accessibility-compliance-as-code -> /about/news/gcn-accessibility-compliance-as-code [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/government-accessibility-and-the-cms-problem -> /about/news/government-accessibility-and-the-cms-problem [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/how-we-helped-a-government-website-achieve-zero-accessibility-errors -> /about/news/government-website-zero-accessibility-errors [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/five-reasons-to-get-excited-about-governmentwide-section-508-assessment-criteria -> /about/news/government-wide-section-508-assessment-criteria [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/governments-accessibility-opensource -> /about/news/governments-accessibility-opensource [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/gsa-machine-readable-acr -> /about/news/gsa-machine-readable-acr [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/heart-accessibility -> /about/news/heart-accessibility [301] (No changes its perfect)
+https://accessibility.civicactions.com/posts/hello-world -> /about/news/hello-world [301] (No changes its perfect)
+
+## ACCESSIBILITY GUIDES REDIRECTS
+https://accessibility.civicactions.com/guide/ -> /accessibility-guides [301] (Update later)
+https://accessibility.civicactions.com/playbook/ -> /accessibility-guides [301] (Update later)
+https://accessibility.civicactions.com/guide/design -> /accessibility-guides/design-systems [200] (Update in place now - Topic format)
+https://accessibility.civicactions.com/guide/history -> /accessibility-guides/history [200] (Update in place now - Detail format)
+https://accessibility.civicactions.com/guide/plain-language -> /accessibility-guides/plain-language [200] (Update in place now - Guide format)
+https://accessibility.civicactions.com/guide/tools -> /accessibility-guides/tools [200] (Update in place now - Detail format)
+https://accessibility.civicactions.com/playbook/automated-testing -> /accessibility-guides/automated-testing [200] (Update in place now - Guide format)
+https://accessibility.civicactions.com/guide/documents -> /accessibility-guides/documents [200] (Update in place now - Topic format)
+https://accessibility.civicactions.com/guide/semantic-html -> /accessibility-guides/semantic-html [200] (Update in place now - Detail format)
+https://accessibility.civicactions.com/guide/social-media -> /accessibility-guides/social-media [200] (Update in place now - Detail format)
+https://accessibility.civicactions.com/playbook/AT -> /accessibility-guides/assistive-technology [200] (Update in place now - Detail format)
+https://accessibility.civicactions.com/playbook/authoring -> /accessibility-guides/authoring [200] (Update in place now - Detail format)
+https://accessibility.civicactions.com/playbook/checklists -> /accessibility-guides/checklists [200] (Update in place now - Detail format)
+
+## CHAMPION ACCESSIBILITY REDIRECTS
+https://accessibility.civicactions.com/guide/champions-program -> /champion-accessibility/champions-program [200] (Update in place now - Detail format)
+https://accessibility.civicactions.com/guide/onboarding-staff -> /champion-accessibility/onboarding-staff [200] (Update in place now - Guide format)
+https://accessibility.civicactions.com/guide/training -> /champion-accessibility/training [200] (Update in place now - Topic format)
+https://accessibility.civicactions.com/playbook/roles -> /champion-accessibility/roles [200] (Update in place now - Topic format)
+https://accessibility.civicactions.com/guide/resources -> /champion-accessibility/resources [200] (Update in place now - Detail format)
+
+## PEOPLE PAGES
+https://accessibility.civicactions.com/about/people/ -> /about/people [200] (Update in place)
+https://accessibility.civicactions.com/about/people/mike-gifford -> /about/people/mike-gifford [200] (Update in place now)
+# Note: Other people pages will be migrated with similar pattern
+
+## DELETE AND ABANDON (Move to Archive)
+# These URLs should return 410 Gone after archiving content
+https://accessibility.civicactions.com/roles/ -> [410] (Delete and abandon - moved to /archive/roles/)
+
+## SEARCH & UTILITY PAGES
+https://accessibility.civicactions.com/search -> /search [200] (Update in place)
+
+# IMPLEMENTATION NOTES:
+# 1. Test all redirects in staging environment
+# 2. Monitor for 404 errors after implementation
+# 3. Update internal links to use new URLs
+# 4. Archive original site at accessibility-archive.civicactions.com
+# 5. Preserve GitHub repository at github.com/civicactions/accessibility for historical reference
+
+# EDITOR ASSIGNMENTS:
+# Note: Laura Flannery passed away and cannot complete assigned work
+# - Jordan Wood: Multiple guides and champion content
+# - Adrian Cooke: Design systems, documents
+# - Daniel Mundra: Automated testing
+# - Jenna Waszak: Authoring tools
+# - Mike Gifford: Personal page updates
+# - Jacqueline Quintanilla: Champions program
+
+# PRIORITY ORDER:
+# 1. High traffic pages (Mike Gifford profile, training, tools)
+# 2. Guide format conversions
+# 3. Topic page expansions  
+# 4. News content migration
+# 5. Archive cleanup
