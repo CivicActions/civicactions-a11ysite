@@ -2,7 +2,10 @@
 title: "services"
 description: "Placeholder migrated page"
 layout: base
+eleventyNavigation:
+  key: "Services"
 ---
+
 
 # services
 

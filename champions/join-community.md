@@ -10,3 +10,5 @@ eleventyNavigation:
 # Join Community
 
 Placeholder migrated stub.
+
+Content pending migration per plan.

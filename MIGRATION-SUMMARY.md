@@ -2,7 +2,10 @@
 title: "Migration Summary"
 description: "Complete documentation of the CivicActions Accessibility site migration"
 layout: base
+eleventyNavigation:
+  key: "Migration Summary"
 ---
+
 
 # CivicActions Accessibility Site Migration - Implementation Summary
 

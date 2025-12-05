@@ -2,7 +2,10 @@
 title: "heart"
 description: "Placeholder migrated page"
 layout: base
+eleventyNavigation:
+  key: "Heart"
 ---
+
 
 # heart
 
