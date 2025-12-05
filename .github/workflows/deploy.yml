@@ -5,6 +5,8 @@ on:
     branches: [ main ]
   workflow_dispatch:
 
+concurrency: pages-${{ github.ref }}
+
 permissions:
   contents: read
   pages: write
@@ -24,6 +26,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
       - name: Install deps
         run: |
@@ -31,7 +34,7 @@ jobs:
 
       - name: Build site
         run: |
-          PATH_PREFIX='civicactions-a11ysite' npx @11ty/eleventy --output _site
+          PATH_PREFIX='${{ github.event.repository.name }}' npx @11ty/eleventy --output _site
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
