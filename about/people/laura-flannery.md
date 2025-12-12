@@ -1,6 +1,6 @@
 ---
 title: "Laura Flannery"
-description: "Remembering Laura Flannery, Content Strategist (1979-2024)"
+description: "Remembering Laura Flannery, Content Strategist (1979-2025)"
 layout: base
 eleventyNavigation:
   key: "Laura Flannery"
