@@ -27,4 +27,4 @@ For Microsoft Word/Powerpoint, portable document formats and electronic publicat
 *   [AbilityNet: Creating Accessible Documents](https://abilitynet.org.uk/factsheets/creating-accessible-documents-0) (UK's AbilityNet)
 
 ## See also
-* [Document Playbook](/playbook/documents)
+* [Document Playbook](/guides/design/documents)

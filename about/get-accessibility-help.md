@@ -30,7 +30,7 @@ Whether you're facing specific accessibility challenges or need general guidance
 
 ### Internal Resources
 - **Accessibility Practice Team**: Reach out through internal Slack channels for consultation
-- **Champions Network**: Connect with [Accessibility Champions](/champion-accessibility/champions-program) across practice areas
+- **Champions Network**: Connect with [Accessibility Champions](/champions/champions-program) across practice areas
 - **Training Resources**: Access internal training materials and workshops
 - **Project Consultation**: Request accessibility reviews and guidance for client work
 

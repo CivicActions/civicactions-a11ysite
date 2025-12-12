@@ -1,4 +1,3 @@
-
 ---
 layout: role
 title: Developer
@@ -32,4 +31,4 @@ Developers make accessibility real by shipping usable, resilient components. Foc
 - [Semantic HTML guide](/guides/development/semantic-html/)
 - [Automated testing](/guides/development/automated-testing/)
 - [Manual testing checklist](/guides/development/manual-testing/)
-- [Defect priority](/guide/defect-priority/)
+- [Defect priority](/guides/development/defect-priority/)

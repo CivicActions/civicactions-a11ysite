@@ -330,7 +330,7 @@ const results = await new AxePuppeteer(page).analyze();
 
 ### CivicActions Resources
 - **Accessibility testing guide**: [Our automated testing documentation](/guides/development/automated-testing/)
-- **Government accessibility**: [Section 508 compliance approaches](/champion-accessibility/training/)
+- **Government accessibility**: [Section 508 compliance approaches](/champions/training-certifications/)
 - **Team consultation**: [Get accessibility help](/about/get-accessibility-help/)
 
 Automated accessibility testing transforms how government teams approach accessibility compliance, making it a continuous practice rather than a periodic audit. The investment in setting up comprehensive testing pays dividends in reduced remediation costs, improved user experiences, and consistent compliance with accessibility standards.

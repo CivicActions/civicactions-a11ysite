@@ -1,4 +1,3 @@
-
 ---
 layout: role
 title: Executive
@@ -29,7 +28,7 @@ Executives set the tone and resourcing for accessibility. Clear priorities, budg
 
 ## Helpful references
 
-- [Accessibility statement template](/site/accessibility-statement/)
+- [Accessibility statement template](/accessibility-statement/)
 - [Training and certifications](/guides/strategy/training/)
 - [Procurement role guidance](/roles/procurement/)
-- [Accessibility glossary](/guide/glossary/)
+- [Accessibility glossary](/guides/strategy/glossary/)

@@ -1,4 +1,3 @@
-
 ---
 layout: role
 title: Product manager
@@ -29,7 +28,7 @@ Product managers turn accessibility into roadmap reality. They balance user need
 
 ## Helpful references
 
-- [Defect priority](/guide/defect-priority/)
+- [Defect priority](/guides/development/defect-priority/)
 - [Manual testing](/guides/development/manual-testing/)
 - [Automated testing](/guides/development/automated-testing/)
 - [Design systems](/guides/design/design-systems/)

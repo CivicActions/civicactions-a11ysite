@@ -23,7 +23,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addCollection('navPrimary', (collectionApi) => {
     const excludePrefixes = [
       './guide/',
-      './champion-accessibility/'
+      './champions/'
     ];
     return collectionApi.getAll().filter((item) => {
       if (!item.data || !item.data.eleventyNavigation) return false;

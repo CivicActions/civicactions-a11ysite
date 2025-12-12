@@ -56,8 +56,8 @@ If you're interested in working with CivicActions on accessibility or digital tr
 ### Accessibility Support
 For immediate accessibility support or questions:
 - Check our [accessibility guides](/guides) for self-service resources
-- Review our [training resources](/champion-accessibility/training) for learning opportunities
-- Connect with the broader accessibility community through our recommended [professional networks](/champion-accessibility/resources)
+- Review our [training resources](/champions/training-certifications) for learning opportunities
+- Connect with the broader accessibility community through our recommended [professional networks](/champions/accessibility-resources)
 
 ---
 

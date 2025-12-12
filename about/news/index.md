@@ -39,7 +39,7 @@ CivicActions accessibility experts discuss assistive technology and inclusive de
 **[CivicActions Creates Open Product Accessibility Template](/about/news/civicactions-creates-open-product-accessibility-template/)**
 Open source template to help organizations create comprehensive product accessibility documentation.
 
-**[Hello World - Welcome to CivicActions Accessibility](/about/news/hello-world/)**
+**[Hello World - Welcome to CivicActions Accessibility](/about/news/)**
 Introduction to our accessibility practice mission, approach, and commitment to inclusive government services.
 
 **[Delivering Digital-First: Turning 21st Century IDEA Into Action](/about/news/delivering-digital-first-turning-21st-century-idea-into-action/)**

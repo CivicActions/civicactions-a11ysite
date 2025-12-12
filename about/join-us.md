@@ -32,7 +32,7 @@ How to get involved with CivicActions Accessibility, whether you're already part
 ## Already Working for CivicActions?
 
 ### Become an Accessibility Champion
-Join our internal [Champions Program](/champion-accessibility/champions-program) to:
+Join our internal [Champions Program](/champions/champions-program) to:
 - **Build accessibility expertise** in your practice area
 - **Advocate for inclusive design** on your projects  
 - **Connect with the accessibility community** beyond CivicActions

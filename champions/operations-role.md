@@ -1,4 +1,3 @@
-
 ---
 layout: role
 title: Operations
@@ -31,5 +30,5 @@ Operations leaders keep accessibility sustainable by standardizing processes, to
 
 - [Design systems](/guides/design/design-systems/)
 - [Automated testing](/guides/development/automated-testing/)
-- [Defect priority](/guide/defect-priority/)
+- [Defect priority](/guides/development/defect-priority/)
 - [Website statements](/guides/strategy/website-statements/)

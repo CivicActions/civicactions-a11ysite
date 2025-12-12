@@ -1,9 +1,8 @@
 ---
-title: "accessibility"
-description: "Placeholder migrated page"
+title: "Accessibility statement"
+description: "Our commitment to accessibility and information about this website."
 layout: base
-eleventyNavigation:
-  key: "Accessibility"
+permalink: /accessibility-statement/
 migration_notes: "Migrated Markdown from old-site on 2025-12-05."
 editor_notes: "Source: https://accessibility.civicactions.com/accessibility"
 ---

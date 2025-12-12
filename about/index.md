@@ -32,6 +32,8 @@ CivicActions is a digital services company focused on outcomes that matter. Our 
 
 We help government agencies and mission-driven organizations create digital services that work for everyone, including people with disabilities.
 
+- [Learn about our services](/about/services)
+
 ## Get Involved
 
 - [Contact us](/about/contact)

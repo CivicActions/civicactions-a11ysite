@@ -1,8 +1,4 @@
 ---
-
----
-
----
 layout: playbook
 title: Consider AI & IA
 description: 

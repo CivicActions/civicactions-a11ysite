@@ -1,4 +1,3 @@
-
 ---
 layout: role
 title: Project manager

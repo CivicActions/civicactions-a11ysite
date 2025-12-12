@@ -17,6 +17,6 @@ This archived ACR reflects the state of our Drupal 9 distribution as of December
 
 ## Notes on currency
 
-The distribution has evolved since this report. For current conformance details, refer to the latest [Drupal 9 ACR](./Drupal9AccessibilityConformanceReport/) or request an updated VPAT.
+The distribution has evolved since this report. For current conformance details, refer to the latest [Drupal 9 ACR](/ACR/Drupal9AccessibilityConformanceReport/) or request an updated VPAT.
 
 For archived PDFs or attestation, email [accessibility@civicactions.com](mailto:accessibility@civicactions.com).
