@@ -22,7 +22,7 @@ The people driving accessibility excellence at CivicActions and in the broader c
 Leading accessibility strategy and open source accessibility contributions.
 
 ### [Laura Flannery](/about/people/laura-flannery)
-*Content Strategist (1979-2024)*
+*Content Strategist (1979-2025)*
 
 Laura made significant contributions to our accessibility content, particularly in the areas of semantic HTML guidance and accessibility fundamentals. Her work continues to help teams build more accessible digital experiences.
 
