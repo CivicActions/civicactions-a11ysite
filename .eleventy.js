@@ -18,13 +18,11 @@ module.exports = function(eleventyConfig) {
   // Passthrough static assets (CSS, etc.)
   eleventyConfig.addPassthroughCopy("assets");
   eleventyConfig.addPassthroughCopy("_redirects");
-  eleventyConfig.addPassthroughCopy("accessibility-guides/*.html");
 
   // Collection: primary nav pages (exclude legacy/duplicate dirs)
   eleventyConfig.addCollection('navPrimary', (collectionApi) => {
     const excludePrefixes = [
       './guide/',
-      './accessibility-guides/',
       './champion-accessibility/'
     ];
     return collectionApi.getAll().filter((item) => {

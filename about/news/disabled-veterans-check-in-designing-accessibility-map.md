@@ -276,7 +276,7 @@ Interested in accessibility mapping or veterans' digital accessibility projects?
 - **Case study consultation**: [Contact our team](/about/contact/)
 - **Veterans accessibility expertise**: [Our accessibility services](/about/)
 - **User research approaches**: [Get accessibility help](/about/get-accessibility-help/)
-- **Technical implementation**: [Accessibility guides](/accessibility-guides/)
+- **Technical implementation**: [Accessibility guides](/guides/)
 
 This project demonstrates how thoughtful accessibility design can transform complex navigation challenges into empowering, independent experiences for people with disabilities. The success with veterans' accessibility mapping provides a model for similar challenges in other government services and public spaces.
 

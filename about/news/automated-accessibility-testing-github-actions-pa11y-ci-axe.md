@@ -107,7 +107,7 @@ jobs:
   },
   "urls": [
     "http://localhost:8080/",
-    "http://localhost:8080/accessibility-guides/",
+    "http://localhost:8080/guides/",
     "http://localhost:8080/about/contact/"
   ]
 }
@@ -329,7 +329,7 @@ const results = await new AxePuppeteer(page).analyze();
 - **WCAG 2.1 Guidelines**: [w3.org/WAI/WCAG21/quickref](https://www.w3.org/WAI/WCAG21/quickref/)
 
 ### CivicActions Resources
-- **Accessibility testing guide**: [Our automated testing documentation](/accessibility-guides/automated-testing/)
+- **Accessibility testing guide**: [Our automated testing documentation](/guides/development/automated-testing/)
 - **Government accessibility**: [Section 508 compliance approaches](/champion-accessibility/training/)
 - **Team consultation**: [Get accessibility help](/about/get-accessibility-help/)
 

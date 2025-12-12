@@ -48,8 +48,8 @@ Accessibility is everyone's responsibility, but different roles have different o
 **Essential skills**: HTML semantics, CSS accessibility, JavaScript interactions, testing tools
 
 **Recommended resources**:
-- [Automated Testing Guide](/accessibility-guides/automated-testing)
-- [Tools for Developers](/accessibility-guides/tools)
+- [Automated Testing Guide](/guides/development/automated-testing)
+- [Tools for Developers](/guides/strategy/recommended-tools)
 
 ### Designers
 **Primary responsibilities**: Visual design, user experience, inclusive design patterns
@@ -64,7 +64,7 @@ Accessibility is everyone's responsibility, but different roles have different o
 **Essential skills**: Contrast testing, inclusive design principles, prototyping accessible interactions
 
 **Recommended resources**:
-- [Design Systems Guide](/accessibility-guides/design-systems)
+- [Design Systems Guide](/guides/design/design-systems)
 - [Visual Design Accessibility Patterns](https://inclusive.microsoft.design/)
 
 ### Content Creators
@@ -80,8 +80,8 @@ Accessibility is everyone's responsibility, but different roles have different o
 **Essential skills**: Plain language writing, alternative text creation, document structure
 
 **Recommended resources**:
-- [Plain Language Guide](/accessibility-guides/plain-language)
-- [Content Quality Guidelines](/accessibility-guides/social-media)
+- [Plain Language Guide](/guides/design/plain-language)
+- [Content Quality Guidelines](/guides/design/social-media)
 
 ### Project Managers
 **Primary responsibilities**: Requirements, timeline, quality assurance, stakeholder communication
@@ -112,8 +112,8 @@ Accessibility is everyone's responsibility, but different roles have different o
 **Essential skills**: Manual testing techniques, assistive technology familiarity, test case development
 
 **Recommended resources**:
-- [Testing Tools and Methods](/accessibility-guides/tools)
-- [Manual Testing Approaches](/accessibility-guides/checklists)
+- [Testing Tools and Methods](/guides/strategy/recommended-tools)
+- [Manual Testing Approaches](/guides/strategy/checklists)
 
 ## Collaborative Approaches
 

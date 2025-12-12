@@ -150,7 +150,7 @@ Since release, the template has been:
 - **WCAG Guidelines**: [Web Content Accessibility Guidelines 2.1](https://www.w3.org/WAI/WCAG21/quickref/)
 - **Section 508**: [section508.gov](https://www.section508.gov/)
 - **CivicActions Accessibility Practice**: [Our accessibility services](/about/)
-- **Accessibility Testing**: [Our automated testing guide](/accessibility-guides/automated-testing/)
+- **Accessibility Testing**: [Our automated testing guide](/guides/development/automated-testing/)
 
 ---
 

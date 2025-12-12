@@ -232,7 +232,7 @@ Interested in comprehensive accessibility improvement for your government websit
 - **Accessibility consulting**: [Our services](/about/)
 - **Training and capability building**: [Get accessibility help](/about/get-accessibility-help/)
 - **Case study consultation**: [Contact our team](/about/contact/)
-- **Resource sharing**: [Accessibility guides](/accessibility-guides/)
+- **Resource sharing**: [Accessibility guides](/guides/)
 
 This case study demonstrates that comprehensive accessibility compliance is achievable with the right approach, resources, and organizational commitment. The result is not just legal compliance, but genuinely improved user experiences for all citizens accessing government services.
 

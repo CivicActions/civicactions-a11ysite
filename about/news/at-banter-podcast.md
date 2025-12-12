@@ -76,7 +76,7 @@ In this episode, our accessibility team discusses:
 Interested in more accessibility insights from our team?
 
 - **CivicActions Blog**: [civicactions.com/blog](https://civicactions.com/blog)
-- **Accessibility Resources**: [This site's accessibility guides](/accessibility-guides/)
+- **Accessibility Resources**: [This site's accessibility guides](/guides/)
 - **Training and Consultation**: [Get accessibility help](/about/get-accessibility-help/)
 
 ---
