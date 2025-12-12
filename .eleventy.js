@@ -17,6 +17,7 @@ module.exports = function(eleventyConfig) {
 
   // Passthrough static assets (CSS, etc.)
   eleventyConfig.addPassthroughCopy("assets");
+  eleventyConfig.addPassthroughCopy("_redirects");
 
   // Collection: primary nav pages (exclude legacy/duplicate dirs)
   eleventyConfig.addCollection('navPrimary', (collectionApi) => {
