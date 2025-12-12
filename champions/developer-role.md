@@ -1,21 +1,35 @@
+
 ---
-title: Developer Role
-layout: layout
-eleventyNavigation:
-  key: Developer Role
-  parent: Champions
+layout: role
+title: Developer
+description: 
+excerpt: 
+sidenav: docs
+categories:
+  - Development
+hero:
+  image: 
+  callout:
+    alt:
+    text: "Developer"
+  link:
+    text: Link to more about that priority
+    href: /link/
+  content: Accessibility resources for developers.
 ---
 
-Guidance for developers leading accessibility efforts. Content pending migration.
----
-title: "Developer Role"
-description: "Placeholder stub"
-layout: base
-eleventyNavigation:
-  key: Developer Role
-  parent: Champions
----
+Developers make accessibility real by shipping usable, resilient components. Focus on semantic HTML first, progressive enhancement, and guardrails like linting and CI checks.
 
-# Developer Role
+## How developers move accessibility forward
 
-Placeholder migrated stub.
+- Build semantic structures (landmarks, headings, lists, form labels) so assistive tech has a reliable model of the page.
+- Ensure all interactions are keyboard-friendly with visible focus and logical tab order.
+- Integrate automated testing (axe, pa11y-ci) plus a small manual checklist (screen reader smoke test, zoom/contrast check) in every change.
+- Collaborate with designers and content authors to catch issues before code freeze.
+
+## Helpful references
+
+- [Semantic HTML guide](/guides/development/semantic-html/)
+- [Automated testing](/guides/development/automated-testing/)
+- [Manual testing checklist](/guides/development/manual-testing/)
+- [Defect priority](/guide/defect-priority/)

@@ -1,12 +1,26 @@
 ---
-title: "mvp-guide"
-description: "Placeholder migrated page"
-layout: base
-eleventyNavigation:
-  key: "Mvp Guide"
+layout: post
+title:  "CivicActions Accessibility Guide now available"
+date: 2021-04-15T08:00:00-08:00
+description: The first iteration of the CivicActions Accessibility Guide is now available for public use.
+author: jack-haas
+categories: 
+image: card-power.png
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
+The first iteration of the [CivicActions Accessibility Guide](/guide) is now available for public use. This is an evolving effort, and we will continue to update it based on community feedback and internal efforts to improve its usefulness.
 
-# mvp-guide
+To contribute to the guide:
 
-Placeholder migrated stub. Expand with content from original site.
+* [Submit an issue at our GitHub queue](https://github.com/CivicActions/accessibility/issues)
+* Submit a pull request
+* [Start a discussion](https://github.com/CivicActions/accessibility/discussions)

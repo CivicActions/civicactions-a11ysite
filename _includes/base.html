@@ -3,160 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ title or "CivicActions Accessibility" }}</title>
-    <meta name="description" content="{{ description or 'CivicActions Accessibility site - resources for digital inclusion' }}">
-    <style>
-        body {
-            font-family: system-ui, -apple-system, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background: #fff;
-            color: #333;
-        }
-        
-        .skip-link {
-            position: absolute;
-            top: -40px;
-            left: 6px;
-            background: #000;
-            color: #fff;
-            padding: 8px;
-            text-decoration: none;
-            z-index: 1000;
-        }
-        
-        .skip-link:focus {
-            top: 6px;
-        }
-        
-        header {
-            background: #1f2937;
-            color: #fff;
-            padding: 1rem 0;
-            border-bottom: 3px solid #3b82f6;
-        }
-        
-        .header-content {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 1rem;
-        }
-        
-        .site-title {
-            font-size: 1.5rem;
-            font-weight: bold;
-            margin: 0 0 1rem 0;
-        }
-        
-        .site-title a {
-            color: #fff;
-            text-decoration: none;
-        }
-        
-        nav ul {
-            list-style: none;
-            padding: 0;
-            margin: 0;
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0;
-        }
-        
-        nav li {
-            margin: 0;
-        }
-        
-        nav a {
-            display: block;
-            color: #e5e7eb;
-            text-decoration: none;
-            padding: 0.75rem 1rem;
-            border-radius: 4px;
-            transition: background-color 0.2s;
-        }
-        
-        nav a:hover,
-        nav a:focus {
-            background: #374151;
-            color: #fff;
-        }
-        
-        nav a[aria-current="page"] {
-            background: #3b82f6;
-            color: #fff;
-        }
-        
-        main {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 2rem 1rem;
-        }
-        
-        .breadcrumb {
-            margin-bottom: 1.5rem;
-            font-size: 0.9rem;
-        }
-        
-        .breadcrumb a {
-            color: #3b82f6;
-            text-decoration: none;
-        }
-        
-        .breadcrumb a:hover {
-            text-decoration: underline;
-        }
-        
-        h1 {
-            color: #1f2937;
-            border-bottom: 2px solid #e5e7eb;
-            padding-bottom: 0.5rem;
-            margin-bottom: 1.5rem;
-        }
-        
-        h2 {
-            color: #374151;
-            margin-top: 2rem;
-        }
-        
-        .editorial-notes {
-            background: #f3f4f6;
-            border-left: 4px solid #fbbf24;
-            padding: 1rem;
-            margin: 2rem 0;
-            font-size: 0.9rem;
-        }
-        
-        .editorial-notes h3 {
-            margin-top: 0;
-            color: #92400e;
-        }
-        
-        footer {
-            background: #f9fafb;
-            border-top: 1px solid #e5e7eb;
-            padding: 2rem 0;
-            margin-top: 3rem;
-        }
-        
-        .footer-content {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 0 1rem;
-            text-align: center;
-            color: #6b7280;
-        }
-        
-        @media (max-width: 768px) {
-            nav ul {
-                flex-direction: column;
-            }
-            
-            nav a {
-                padding: 0.5rem 0;
-            }
-        }
-    </style>
+    <title>{{ title | default: "CivicActions Accessibility" }}</title>
+    <meta name="description" content="{{ description | default: 'CivicActions Accessibility site - resources for digital inclusion' }}">
+    <link rel="stylesheet" href="/assets/styles.css">
 </head>
 <body>
     <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -177,22 +26,20 @@
         </div>
     </header>
     
-    <main id="main-content">
+        <div style="display:flex; gap: 1rem; align-items:flex-start; max-width: 1200px; margin: 0 auto; padding: 2rem 1rem;">
+            <aside aria-label="Section navigation" style="min-width: 260px; border-right: 1px solid #e5e7eb; padding-right: 1rem;">
+                <h2 style="font-size:1.1rem; margin-top:0">Navigation</h2>
+                <ul>
+                    <li><a href="/about/">About</a></li>
+                    <li><a href="/guides/">Guides</a></li>
+                    <li><a href="/champions/">Champions</a></li>
+                    <li><a href="/search/">Search</a></li>
+                </ul>
+            </aside>
+            <main id="main-content" style="flex:1;">
         {% if page.url != "/" %}
         <nav class="breadcrumb" aria-label="Breadcrumb">
-            <a href="/">Home</a>
-            {% assign url_parts = page.url | split: "/" | slice: 1, 10 %}
-            {% assign current_path = "" %}
-            {% for part in url_parts %}
-                {% unless part == "" %}
-                    {% assign current_path = current_path | append: "/" | append: part %}
-                    {% if forloop.last %}
-                        > {{ title or part | replace: "-", " " | capitalize }}
-                    {% else %}
-                        > <a href="{{ current_path }}/">{{ part | replace: "-", " " | capitalize }}</a>
-                    {% endif %}
-                {% endunless %}
-            {% endfor %}
+            <a href="/">Home</a>{% assign url_parts = page.url | split: "/" | slice: 1, 10 %}{% assign current_path = "" %}{% for part in url_parts %}{% unless part == "" %}{% assign current_path = current_path | append: "/" | append: part %}{% if forloop.last %} <span aria-hidden="true">›</span> <span>{{ title | default: page.fileSlug | replace: "-", " " | capitalize }}</span>{% else %} <span aria-hidden="true">›</span> <a href="{{ current_path }}/">{{ part | replace: "-", " " | capitalize }}</a>{% endif %}{% endunless %}{% endfor %}
         </nav>
         {% endif %}
         
@@ -214,9 +61,10 @@
             {% if original_author %}
             <p><strong>Original author:</strong> {{ original_author }}</p>
             {% endif %}
+                </div>
+                {% endif %}
+            </main>
         </div>
-        {% endif %}
-    </main>
     
     <footer>
         <div class="footer-content">

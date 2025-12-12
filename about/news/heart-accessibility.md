@@ -1,31 +1,27 @@
+
 ---
-title: "Heart: Accessibility"
-description: "Exploring the HEART framework and its application to accessibility measurement and outcomes."
-layout: base
-eleventyNavigation:
-  key: HEART Accessibility
-  parent: News
-
-# Migration Metadata
-original_url: "https://accessibility.civicactions.com/posts/heart-accessibility"
-audit_category: "News"
-audit_format: "Article"
-audit_topic: "Measurement"
-audit_value: "2 Normal"
-audit_notes: "Migrated as stub - expand with original content"
-audit_action: "Migrate"
-content_status: "Migrate"
-http_status: 301
-migration_approved: true
-
-# Article Metadata
-publish_date: "2023-10-05"
-author: "CivicActions Research Team"
-tags: ["HEART", "measurement", "accessibility"]
+layout: post
+title:  "HEART: Ensuring government digital services accessibility"
+date:   2021-06-01 06:00:00 -0800
+description: Holistic Enterprise Accessibility Review Technique is a proactive, interactive process to ensure government digital services are accessible to everyone.
+author: mike-gifford
+categories: 
+image: card-power.png
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
-# Heart: Accessibility
+To help government agencies holistically address digital accessibility, we've developed a phased organizational framework we call [HEART](/heart).
 
-This article will explain how the HEART framework (Happiness, Engagement, Adoption, Retention, Task success) can be applied to accessibility measurement programs to track outcomes that matter to users and agencies.
+Holistic Enterprise Accessibility Review Technique is a proactive, interactive process to ensure government digital services are accessible to everyone.
 
-**Editorial notes:** placeholder migrated; expand with examples, metrics mapping, and case study data.
+HEART provides guidance for all stakeholders and aims to address every aspect of organizational operations, including policy, procurement, technical, resourcing and culture.
+
+[Learn more about HEART](/heart) and [contact us](/contact) if you need accessibility support in your organization.

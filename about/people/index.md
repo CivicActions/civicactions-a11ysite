@@ -33,8 +33,6 @@ Meet the humans behind CivicActions Accessibility practice.
 The people driving accessibility excellence at CivicActions and in the broader civic tech community.
 
 ### [Mike Gifford](/about/people/mike-gifford)
-
-- **Laura Flannery** - Content Strategist (1979-2024)
 *Senior Strategist, Accessibility*
 
 Leading accessibility strategy and open source accessibility contributions.
@@ -42,12 +40,23 @@ Leading accessibility strategy and open source accessibility contributions.
 ### Daniel Mundra  
 *Accessibility Engineer*
 
-Focused on automated testing and technical accessibility implementation.
+Daniel works with teams on improving how accessibility testing is included in projects and community. He set up automated testing on the CivicActions Accessibility website using Pa11y CI, cypress, axe, and GitHub actions. Daniel advocates for automated testing and shares solutions with colleagues outside of CivicActions, including the General Services Administration's 18F team.
+
+**Connect:** [GitHub](https://github.com/dmundra) • [GitLab](https://gitlab.com/dmundra) • [Drupal](https://drupal.org/u/dmundra) • [Website](https://danielmundra.com/)
 
 ### Jack Haas
 *Accessibility Advocate*  
 
-Champion for accessibility awareness and community building.
+Jack champions accessibility awareness and community building at CivicActions.
+
+**Connect:** [LinkedIn](https://www.linkedin.com/in/johnehaas)
+
+### Jonathan Bourland
+*Team Member, Accessibility*
+
+Jonathan contributes to accessibility initiatives at CivicActions.
+
+**Connect:** [GitHub](https://github.com/jonbot) • [LinkedIn](https://www.linkedin.com/in/jonathan-bourland-6896334/)
 
 ## Contributors and Champions
 

@@ -1,6 +1,6 @@
 ---
 title: Champions
-layout: layout
+layout: base
 eleventyNavigation:
   key: Champions
 ---

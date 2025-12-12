@@ -7,7 +7,7 @@ eleventyNavigation:
 ---
 
 
-# Laura Flannery (1979-2024)
+# Laura Flannery (1979-2025)
 
 Laura was a dedicated content strategist and accessibility advocate whose work on semantic HTML and accessibility fundamentals helped many teams improve their digital experiences. Her clear, practical guidance continues to influence our site content and practices.
 

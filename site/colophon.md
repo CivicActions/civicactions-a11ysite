@@ -1,21 +1,12 @@
 ---
+layout: page
 title: Colophon
-layout: layout
-eleventyNavigation:
-  key: Colophon
-  parent: Site
+description: Giving thanks.
+permalink: /colophon/
+
 ---
 
-About this site and how it is built. Content pending migration.
----
-title: "Colophon"
-description: "Placeholder stub"
-layout: base
-eleventyNavigation:
-  key: Colophon
-  parent: Resources
----
-
-# Colophon
-
-Placeholder migrated stub.
+* Design system: [U.S. Web Design System](https://designsystem.digital.gov/)
+* Icons: 18F Visual Identity Icons and [Font Awesome](https://fontawesome.com/)
+* CMS: [Jekyll](https://jekyllrb.com/)
+* Host: [GitHub](https://github.com)

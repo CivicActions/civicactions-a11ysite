@@ -1,12 +1,14 @@
 ---
-title: "Talking-Drupal-Podcast"
-description: "Placeholder migrated page"
-layout: base
-eleventyNavigation:
-  key: "Talking Drupal Podcast"
+layout: post
+title: Mike Gifford & Daniel Mundra interviewed on the Talking Drupal podcast
+date: 2022-05-31T08:00:00-08:00
+description: A discussion about Accessibility Scanning & Testing in Drupal.
+author: daniel-mundra
+categories: 
+image: card-power.png
+roles:
+  - Developer
+  - Operations
 ---
 
-
-# Talking-Drupal-Podcast
-
-Placeholder migrated stub. Expand with content from original site.
+Mike and I were interviewed on the [Talking Drupal podcast #350](https://talkingdrupal.com/350) on Accessibility Scanning & Testing. We discussed various tools, strategies, OpenACR, and so on.

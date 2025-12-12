@@ -10,37 +10,37 @@
     <header>
       <nav>
         <a href="{{ '/' | url }}">Home</a>
-        <a href="{{ '/about' | url }}">About</a>
-        <a href="{{ '/guides' | url }}">Guides</a>
-        <a href="{{ '/champions' | url }}">Champions</a>
+        <a href="{{ '/about/' | url }}">About</a>
+        <a href="{{ '/guides/' | url }}">Guides</a>
+        <a href="{{ '/champions/' | url }}">Champions</a>
+        <a href="{{ '/search/' | url }}">Search</a>
       </nav>
     </header>
-    <main>
-      <h1>{{ title }}</h1>
-      {{ content | safe }}
-    </main>
+    <div style="display:flex; gap: 1rem; align-items:flex-start">
+      <aside aria-label="Section navigation" style="min-width: 260px; border-right: 1px solid #e5e7eb; padding-right: 1rem;">
+        <h2 style="font-size:1.1rem; margin-top:0">Navigation</h2>
+        {% set nav = collections.navPrimary | eleventyNavigation %}
+        <ul>
+          {% for entry in nav %}
+            <li>
+              <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+              {% if entry.children and entry.children.length %}
+                <ul>
+                  {% for child in entry.children %}
+                    <li><a href="{{ child.url | url }}">{{ child.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </aside>
+      <main style="flex:1;">
+        {{ content | safe }}
+      </main>
+    </div>
     <footer>
-      <p><a href="{{ '/site/accessibility-statement' | url }}">Accessibility statement</a></p>
-    </footer>
-  </body>
-</html><!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ title | safe }}</title>
-  </head>
-  <body>
-    <header>
-      <nav>
-        <a href="{{ '/' | url }}">Home</a>
-      </nav>
-    </header>
-    <main>
-      {{ content | safe }}
-    </main>
-    <footer>
-      <p><a href="{{ '/search/' | url }}">Search</a></p>
+      <p><a href="{{ '/site/accessibility-statement/' | url }}">Accessibility statement</a></p>
     </footer>
   </body>
 </html>

@@ -1,6 +1,6 @@
 ---
 title: Accessibility Guides
-layout: layout
+layout: base
 eleventyNavigation:
   key: Guides
 ---

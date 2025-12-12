@@ -60,7 +60,6 @@ Mike Gifford is a leading voice in open source accessibility and civic technolog
 
 - **GitHub**: [mgifford](https://github.com/mgifford)
 - **LinkedIn**: [Mike Gifford](https://www.linkedin.com/in/mgifford/)
-- **Twitter**: [@mgifford](https://twitter.com/mgifford)
 - **Drupal.org**: [mgifford](https://www.drupal.org/u/mgifford)
 
 ## Recent Work

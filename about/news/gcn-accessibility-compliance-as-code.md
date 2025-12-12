@@ -1,31 +1,20 @@
+
 ---
-title: "GCN: Accessibility Compliance as Code"
-description: "Exploring machine-enforceable accessibility checks and compliance-as-code approaches for government networks."
-layout: base
-eleventyNavigation:
-  key: GCN Accessibility Compliance as Code
-  parent: News
-
-# Migration Metadata
-original_url: "https://accessibility.civicactions.com/posts/gcn-accessibility-compliance-as-code"
-audit_category: "News"
-audit_format: "Article"
-audit_topic: "Automated testing"
-audit_value: "2 Normal"
-audit_notes: "Migrated as stub - expand with original content"
-audit_action: "Migrate"
-content_status: "Migrate"
-http_status: 301
-migration_approved: true
-
-# Article Metadata
-publish_date: "2023-07-01"
-author: "CivicActions Accessibility Team"
-tags: ["compliance-as-code", "automation", "government"]
+layout: post
+title:  "GCN: The need for accessibility compliance as code"
+date:   2021-02-08 08:00:00 -0800
+description: GCN published a guest editorial we wrote that was inspired by a conversation we had on a recent CivicActions Accessibility practice area call.
+author: luke-fretwell
+categories: 
+image: card-power.png
+roles:
+  - Developer
 ---
 
-# GCN: Accessibility Compliance as Code
+*GCN* (Now called Route-Fifty) published a guest editorial we wrote that was inspired by a conversation we had on a recent CivicActions Accessibility practice area call.
 
-This article will cover approaches for defining accessibility compliance rules as machine-enforceable checks, integrating them into CI/CD pipelines, and exploring how government agencies can adopt compliance-as-code to scale accessibility assurance across multiple services.
+From the post:
 
-**Editorial notes:** placeholder migrated; expand from original site content and add examples (lint rules, policy-as-code snippets, enforcement strategies).
+> Baking VPAT into the code-as-compliance process isn't a panacea. But it is a humble beginning to prioritizing accessibility and making a cumbersome process less so. By shifting the mindset and approach to one of open principles, machine-readable accessibility can become equally important to security in the compliance process.
+
+Full post: [The need for accessibility compliance as code](https://www.route-fifty.com/digital-government/2021/02/the-need-for-accessibility-compliance-as-code/315514/))

@@ -1,12 +1,28 @@
 ---
-title: "plain-language-accessibility-guide"
-description: "Placeholder migrated page"
-layout: base
-eleventyNavigation:
-  key: "Plain Language Accessibility Guide"
+layout: post
+title:  "Plain language page added to CivicActions Accessibility Guide"
+date: 2021-05-28T06:00:00-08:00
+description: This includes quick tips, tools and community information.
+author: nira-datta
+categories: Social media
+image: card-power.png
+roles:
+  - Executive
+  - Content designer
+  - Developer
+  - Operations
+  - Procurement
+  - Product manager
+  - Project manager
+  - UX designer
 ---
 
+We've added a [plain language page](/guide/plain-language) to the [CivicActions Accessibility Guide](/guide).
 
-# plain-language-accessibility-guide
+You can find:
 
-Placeholder migrated stub. Expand with content from original site.
+* quick tips on how to keep simplify your content
+* helpful automated tools that check for plain language
+* plain language communities you can join to learn more.
+
+If you have feedback or would like to improve this page, we encourage you to [submit an issue](https://github.com/CivicActions/accessibility/issues/new/choose) or pull request.

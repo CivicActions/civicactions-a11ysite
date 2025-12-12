@@ -1,0 +1,86 @@
+path,destination_url,expected_title,title_found
+about/news/fosdem-ccessibility-opensource.md,/about/news/fosdem-ccessibility-opensource,Mike Gifford gave a presentation at FOSDEM on Accessibility and Open Source,fosdem-ccessibility-opensource
+about/news/how-drupal-helps-bake-accessibility-into-every-project.md,/about/news/how-drupal-helps-bake-accessibility-into-every-project,How Drupal helps us bake accessibility into every project,How Drupal Helps Bake Accessibility Into Every Project
+about/news/how-omb-can-improve-gov-accessibility.md,/about/news/how-omb-can-improve-gov-accessibility,How OMB can improve .gov accessibility,how-omb-can-improve-gov-accessibility
+about/news/improve-government-accessibility-through-open-source.md,/about/news/improve-government-accessibility-through-open-source,4 ways to improve government accessibility through open source,improve-government-accessibility-through-open-source
+about/news/improve-government-accessibility-through-open-source.md,/about/news/improve-government-accessibility-through-open-source,Improving government accessibility through open source,improve-government-accessibility-through-open-source
+about/news/measuring-the-impact-of-manual-accessibility-testing.md,/about/news/measuring-the-impact-of-manual-accessibility-testing,Measuring the impact of manual accessibility testing,measuring-the-impact-of-manual-accessibility-testing
+about/news/mvp-guide.md,/about/news/mvp-guide,CivicActions accessibility guide now available,mvp-guide
+about/news/mvp-playbook.md,/about/news/mvp-playbook,CivicActions accessibility playbook now available,mvp-playbook
+about/news/opensource-automated-accessibility-testing.md,/about/news/opensource-automated-accessibility-testing,Opensource.com: How I do automated accessibility testing for my website,opensource-automated-accessibility-testing
+about/news/plain-language-accessibility-guide.md,/about/news/plain-language-accessibility-guide,Plain language page added to CivicActions accessibility guide,plain-language-accessibility-guide
+about/news/pre-gaad-authoring-tools-built-in-accessibility.md,/about/news/pre-gaad-authoring-tools-built-in-accessibility,Pre-GAAD event: Authoring tools with built-in accessibility,pre-GAAD-Authoring-Tools-Built-in-Accessibility
+about/news/prioritizing-accessibility-bugs-for-maximum-impact.md,/about/news/prioritizing-accessibility-bugs-for-maximum-impact,Prioritizing accessibility bugs for maximum impact,prioritizing-accessibility-bugs-for-maximum-impact
+about/news/qa-with-mike-gifford-accessibility-in-civic-tech.md,/about/news/qa-with-mike-gifford-accessibility-in-civic-tech,Q&A with Mike Gifford: Accessibility in civic tech,qa-with-mike-gifford-accessibility-in-civic-tech
+about/news/scale-inclusive-content-automated-testing-open-source-tools.md,/about/news/scale-inclusive-content-automated-testing-open-source-tools,How we scale inclusive website content with automated testing and open source tools,Scale Inclusive Content Automated Testing Open Source Tools
+about/news/scanning-over-two-million-gov-pages.md,/about/news/scanning-over-two-million-gov-pages,What we learned about accessibility by scanning more than 2 million federal .gov web pages,scanning-over-two-million-gov-pages
+about/news/smashingmag-baking-in-accessibility-testing.md,/about/news/smashingmag-baking-in-accessibility-testing,Smashing Magazine: How to bake layers of accessibility testing into your process,smashingmag-baking-in-accessibility-testing
+about/news/social-media-accessibility-guide.md,/about/news/social-media-accessibility-guide,Social media page added to CivicActions accessibility guide,social-media-accessibility-guide
+about/news/talking-drupal-podcast.md,/about/news/talking-drupal-podcast,Mike Gifford and Daniel Mundra interviewed on the Talking Drupal podcast,Talking-Drupal-Podcast
+about/news/talking-drupal-podcast-382.md,/about/news/talking-drupal-podcast-382,Daniel Mundra interviewed on the Talking Drupal podcast,Talking-Drupal-Podcast-382
+about/news/whitehouse-gov-beginning-accessibility-journey.md,/about/news/whitehouse-gov-beginning-accessibility-journey,WhiteHouse.gov: Beginning an accessibility journey,Whitehouse Gov Beginning Accessibility Journey
+about/news/will-biden-transform-government-website-accessibility.md,/about/news/will-biden-transform-government-website-accessibility,Government technology: How will Biden transform government website accessibility,Will Biden Transform Government Website Accessibility
+about/open-work-culture.md,/about/open-work-culture,Open work culture,Open Work Culture
+about/services.md,/about/services,Services,Services
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+about/who-we-are.md,/about/who-we-are,Who we are,Who We Are
+champions/accessibility-focused-organizations.md,/champions/accessibility-focused-organizations,Accessibility-focused organizations,Accessibility-Focused Organizations
+champions/accessibility-resources.md,/champions/accessibility-resources,Accessibility resources,Accessibility Resources
+champions/build-community.md,/champions/build-community,Build a community of practice,Build Community
+champions/champions-program.md,/champions/champions-program,CivicActions' Accessibility Champions program,Champions Program
+champions/designer-role.md,/champions/designer-role,The designer role,Designer Role
+champions/designer-role.md,/champions/designer-role,The designer role,Designer Role
+champions/designer-role.md,/champions/designer-role,The designer role,Designer Role
+champions/developer-role.md,/champions/developer-role,The developer role,Developer Role
+champions/executive-role.md,/champions/executive-role,The executive role,Executive Role
+champions/holistic-enterprise-accessibility-review-technique.md,/champions/holistic-enterprise-accessibility-review-technique,Holistic Enterprise Accessibility Review Technique (HEART),Holistic Enterprise Accessibility Review Technique
+champions/identity-language.md,/champions/identity-language,Identity and language,Identity Language
+champions/join-community.md,/champions/join-community,Join the global accessibility community,Join Community
+champions/onboarding-staff.md,/champions/onboarding-staff,Onboarding staff,Onboarding Staff
+champions/operations-role.md,/champions/operations-role,The operations role,Operations Role
+champions/procurement-role.md,/champions/procurement-role,The procurement role,Procurement Role
+champions/product-manager-role.md,/champions/product-manager-role,The product manager role,Product Manager Role
+champions/project-manager-role.md,/champions/project-manager-role,The project manager role,Project Manager Role
+champions/role-based-evaluations.md,/champions/role-based-evaluations,Provide role based evaluations,Role-Based Evaluations
+champions/training-certifications.md,/champions/training-certifications,Training and certifications,Training and Certifications
+guides/design/design-systems.md,/guides/design/design-systems,Design systems and accessibility,Design Systems
+guides/design/documents.md,/guides/design/documents,Creating accessible documents,Documents
+guides/design/documents.md,/guides/design/documents,Creating accessible documents,Documents
+guides/design/pdf.md,/guides/design/pdf,Avoid PDF documents,PDF
+guides/design/plain-language.md,/guides/design/plain-language,Plain language,Plain Language
+guides/design/social-media.md,/guides/design/social-media,Social media,Social Media
+guides/development/authoring.md,/guides/development/authoring,Improve authoring tools,Authoring Tools
+guides/development/automated-testing.md,/guides/development/automated-testing,Automated testing,Automated Testing
+guides/development/defect-priority.md,/guides/development/defect-priority,Defect priority,Defect Priority
+guides/development/manual-testing.md,/guides/development/manual-testing,How to do manual testing,Manual Testing
+guides/development/personalization.md,/guides/development/personalization,Support personalization,Personalization
+guides/development/screen-reader.md,/guides/development/screen-reader,Screen reader testing,Screen Reader
+guides/development/semantic-html.md,/guides/development/semantic-html,Semantic HTML and accessibility,Semantic HTML
+guides/reporting/acr.md,/guides/reporting/acr,Accessibility Conformance Reports (ACR),Accessibility Conformance Report (ACR)
+guides/reporting/acr.md,/guides/reporting/acr,Accessibility Conformance Reports (ACR),Accessibility Conformance Report (ACR)
+guides/reporting/acr-report.md,/guides/reporting/acr-report,Drupal Accessibility Conformance Report,ACR Report
+guides/reporting/acr-report.md,/guides/reporting/acr-report,Drupal Accessibility Conformance Report,ACR Report
+guides/strategy/ai-and-ia.md,/guides/strategy/ai-and-ia,Consider AI and IA,AI and IA
+guides/strategy/checklists.md,/guides/strategy/checklists,Using checklists in an accessibility strategy,Checklists
+guides/strategy/distributed-teams.md,/guides/strategy/distributed-teams,Encourage accessible distributed teams,Distributed Teams
+guides/strategy/follow-global-initiatives.md,/guides/strategy/follow-global-initiatives,Follow global initiatives,Follow Global Initiatives
+guides/strategy/glossary.md,/guides/strategy/glossary,Accessibility glossary,Glossary
+guides/strategy/history.md,/guides/strategy/history,Web accessibility history,History
+guides/strategy/pwd.md,/guides/strategy/pwd,Include people with disabilities,Pwd
+guides/strategy/recommended-tools.md,/guides/strategy/recommended-tools,Recommended tools,Recommended Tools
+guides/strategy/training.md,/guides/strategy/training,Invest in accessibility training,Training
+guides/strategy/website-statements.md,/guides/strategy/website-statements,Writing accessibility statements,Website Statements
+site/accessibility-statement.md,/site/accessibility-statement,Accessibility statement,Accessibility Statement
+site/colophon.md,/site/colophon,Colophon,Colophon
+site/license.md,/site/license,License,License
