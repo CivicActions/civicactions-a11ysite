@@ -14,18 +14,18 @@ Social media is used to create and share ideas, information, and interests. Acce
 
 ## Basic guidelines for social media
 
-1. Keep text as clear and simple as possible by using [plain language](https://accessibility.civicactions.com/guide/plain-language). 
-     * Use short sentences and choose words your audience uses. 
-     * Don't use all-caps. 
-     * Spell out abbreviations or acronyms. 
+1. Keep text as clear and simple as possible by using [plain language](https://accessibility.civicactions.com/guide/plain-language).
+     * Use short sentences and choose words your audience uses.
+     * Don't use all-caps.
+     * Spell out abbreviations or acronyms.
      * Include descriptive text before links. For example, "Read the help page for more info: (LINK)"
-2. Add alternative text to all contextual images.  
+2. Add alternative text to all contextual images.
      * Avoid images with text on them.
      * Use static images instead of animated GIFs
      * Make sure images have strong color contrast.
      * **Bluesky**: Click the +ALT button on uploaded images to add descriptions (2,000 character limit)
      * **Mastodon**: Click "Edit" or "Description" on uploaded images; keep descriptions concise (1,500 character limit but aim for a short sentence or two)
-3. All videos should have captions and transcripts. 
+3. All videos should have captions and transcripts.
      * Don't forget to review any auto-generated text.
 4. Be thoughtful about the use of hashtags.
      * If using hashtags, write them in camel case (also called PascalCase). This means that each unique word in a hashtag should start with a capital letter. This makes it easier for assistive technology to pronounce hashtags and for everyone to read them. For example, #WebAccessibility

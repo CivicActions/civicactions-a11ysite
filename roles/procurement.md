@@ -12,13 +12,13 @@ editor_notes: "Source: https://accessibility.civicactions.com/roles/procurement"
 ---
 layout: role
 title: Procurement
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Procurement
 hero:
-  image: 
+  image:
   callout:
     alt:
     text: "Procurement"

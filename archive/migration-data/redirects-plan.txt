@@ -1,8 +1,8 @@
 # CivicActions Accessibility Site - Redirect Planning
 # Generated from Content Redesign Migration Plan - December 2025
-# 
+#
 # Format: SOURCE_URL -> DESTINATION_URL [HTTP_STATUS] (ACTION_TYPE)
-# 
+#
 # Notes:
 # - All redirects should be implemented at server/hosting level
 # - 301 redirects preserve SEO value
@@ -94,6 +94,6 @@ https://accessibility.civicactions.com/search -> /search [200] (Update in place)
 # PRIORITY ORDER:
 # 1. High traffic pages (Mike Gifford profile, training, tools)
 # 2. Guide format conversions
-# 3. Topic page expansions  
+# 3. Topic page expansions
 # 4. News content migration
 # 5. Archive cleanup

@@ -60,7 +60,7 @@ The assessment criteria specify:
 ```
 - Automated testing with validated tools (axe-core, Pa11y)
 - Manual testing procedures with screen readers
-- User testing requirements with people who have disabilities  
+- User testing requirements with people who have disabilities
 - Reporting formats for consistent documentation
 ```
 

@@ -12,13 +12,13 @@ editor_notes: "Source: https://accessibility.civicactions.com/roles/developer"
 ---
 layout: role
 title: Developer
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Development
 hero:
-  image: 
+  image:
   callout:
     alt:
     text: "Developer"

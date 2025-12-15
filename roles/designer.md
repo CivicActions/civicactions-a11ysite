@@ -13,9 +13,9 @@ The practice of design has an important role to play in moving accessibility thi
 
 ## User Experience (UX) Designer
 
-A UX designer focuses on how to best communicate information to users of their product. They improve accessibility by making content easy to understand. UX designers logically organize page content using headings and write in plain language to reduce cognitive load.  
+A UX designer focuses on how to best communicate information to users of their product. They improve accessibility by making content easy to understand. UX designers logically organize page content using headings and write in plain language to reduce cognitive load.
 
-Duties for this role include defining information architecture, creating journey maps, planning content strategy, or writing content. 
+Duties for this role include defining information architecture, creating journey maps, planning content strategy, or writing content.
 
 ### Other titles for this role
 
@@ -34,9 +34,9 @@ Duties for this role include defining information architecture, creating journey
 
 ## User Researcher
 
-User researchers study user needs and behaviors. They can gather feedback from all users, including those that have disabilities and use assistive technology. This feedback can help guide decisions on how to make a product more accessible. 
+User researchers study user needs and behaviors. They can gather feedback from all users, including those that have disabilities and use assistive technology. This feedback can help guide decisions on how to make a product more accessible.
 
-Duties for this role include conducting user interviews, testing designs for usability, and analyzing data collected from users. 
+Duties for this role include conducting user interviews, testing designs for usability, and analyzing data collected from users.
 
 ### Other titles for this role
 
@@ -47,13 +47,13 @@ Duties for this role include conducting user interviews, testing designs for usa
 ### Accessibility resources for user researchers
 
 * [Nielsen Norman Group's How to Conduct Usability Studies for Accessibility](https://www.nngroup.com/reports/how-to-conduct-usability-studies-accessibility/)
-* [UK Department of Work and Pensions' User Research Accessibility Manual](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/user-researcher) 
+* [UK Department of Work and Pensions' User Research Accessibility Manual](https://accessibility-manual.dwp.gov.uk/guidance-for-your-job-role/user-researcher)
 
 ## Visual Designer
 
-Visual designers define how a product looks and feels. They create designs that are engaging and aesthetically distinct. To improve accessibility, they use colors that pass contrast requirements, consider visual layout and hierarchy, choose legible typefaces, and much more. 
+Visual designers define how a product looks and feels. They create designs that are engaging and aesthetically distinct. To improve accessibility, they use colors that pass contrast requirements, consider visual layout and hierarchy, choose legible typefaces, and much more.
 
-Duties for this role include designing mockups and prototypes, creating user flows, and establishing style guides. 
+Duties for this role include designing mockups and prototypes, creating user flows, and establishing style guides.
 
 ### Other titles for this role
 
@@ -61,7 +61,7 @@ Duties for this role include designing mockups and prototypes, creating user flo
 * Interaction Designer
 * Product Designer
 * UI Designer
-* Web Designer 
+* Web Designer
 
 ### Accessibility resources for visual designers
 

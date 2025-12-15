@@ -1,8 +1,8 @@
 ---
 layout: base
 title: Procurement Parker
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 img: procurement-parker.png
 categories:
@@ -14,7 +14,7 @@ roles:
 ## Description
 Parker is responsible for evaluating large procurement projects for government departments. They've taken the DITAP course, so they are familiar with agile and how that plays into procurement. They aren't very familiar with accessibility, but they know they have to do more than insert a line about 508 into an RFP.
 
-Parker is hard of hearing and has trouble communicating with people over the phone. They prefer communications over email where they make sure they understand. 
+Parker is hard of hearing and has trouble communicating with people over the phone. They prefer communications over email where they make sure they understand.
 
 ## Goals
 Find appropriate accessibility provisions, clauses, and acceptance criteria for their report
@@ -23,7 +23,7 @@ Find appropriate accessibility provisions, clauses, and acceptance criteria for 
 Videos with Closed Captions, subtitles and/or transcripts
 
 ## Thoughts
-If there are videos with this site it would be captioned, right? 
+If there are videos with this site it would be captioned, right?
 
 ## Feelings
 Frustrated when closed captions are out of sync or have poor contrast

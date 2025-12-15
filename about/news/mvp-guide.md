@@ -4,7 +4,7 @@ title:  "CivicActions Accessibility Guide now available"
 date: 2021-04-15T08:00:00-08:00
 description: The first iteration of the CivicActions Accessibility Guide is now available for public use.
 author: jack-haas
-categories: 
+categories:
 image: card-power.png
 roles:
   - Executive

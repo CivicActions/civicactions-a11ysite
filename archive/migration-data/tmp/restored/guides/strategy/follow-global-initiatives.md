@@ -2,8 +2,8 @@
 ---
 layout: playbook
 title: Follow global initiatives
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Accessibility

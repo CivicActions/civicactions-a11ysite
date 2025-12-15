@@ -2,7 +2,7 @@
 layout: playbook
 title: Accessibility statements
 description: Information about accessibility statements, what they are, why a website should have one and what type of information should be included.
-excerpt: 
+excerpt:
 sidenav: docs
 categories:
   - Accessibility
@@ -15,11 +15,11 @@ A complete, well rounded accessibility strategy should include an accessibility 
 
 ## What is an accessibility statement?
 
-An accessibility statement is a public declaration that highlights the commitment of a company or organization to accessibility and inclusion. 
+An accessibility statement is a public declaration that highlights the commitment of a company or organization to accessibility and inclusion.
 
 Accessibility statements are intended to provide site visitors with information about the accessibility of the website. This information can help people use and navigate the site by setting expectations around site standards and providing details about potential known barriers or technical compatibility.
 
-The [CivicActions accessibility statement](https://civicactions.com/accessibility-statement/) can be found in the footer of our main website. 
+The [CivicActions accessibility statement](https://civicactions.com/accessibility-statement/) can be found in the footer of our main website.
 
 ## Why provide an accessibility statement?
 

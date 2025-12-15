@@ -5,8 +5,8 @@ description: The importance of using semantic HTML tags and the accessibility be
 excerpt: The importance of using semantic HTML tags and the accessibility benefits these can provide.
 sidenav: docs
 categories:
-- Accessibility 
-  
+- Accessibility
+
 roles:
 - Developer
 ---
@@ -60,10 +60,10 @@ In the second example we clearly see semantic tags for a navigation menu (`<nav>
 ## Why use semantic HTML?
 Besides providing clear structure and contextual information to your HTML document, semantic tags will also inherit default styles from the user-agent stylesheets. Each browser, or user-agent, provides a basic set of CSS rules that define how semantic HTML elements will visually render. These rules can include underlining links, a larger font-weight for bold text, backgrounds on buttons, etc. By already having basic styles on certain elements, specifying additional CSS is not always needed which can make your work more efficient.
 
-A further benefit of using semantic HTML tags is that along with the default CSS styles, they also provide some basic accessibility functionality, no additional custom code is required, 
+A further benefit of using semantic HTML tags is that along with the default CSS styles, they also provide some basic accessibility functionality, no additional custom code is required,
 
 ## Keyboard functionality
-One of the main benefits of using semantic HTML tags is that by default, they provide the required keyboard functionality needed for accessibility. At a minimum, all interactive elements on a webpage must be available and focusable using the TAB key. They must also respond appropriately to expected keyboard keys. Typically, these keys are ENTER and SPACE, however for certain elements the ARROW keys or ESC key, among others, are expected. Each element has different default behavior and by using the standard semantic tag, you will be getting this default functionality and behavior for free. 
+One of the main benefits of using semantic HTML tags is that by default, they provide the required keyboard functionality needed for accessibility. At a minimum, all interactive elements on a webpage must be available and focusable using the TAB key. They must also respond appropriately to expected keyboard keys. Typically, these keys are ENTER and SPACE, however for certain elements the ARROW keys or ESC key, among others, are expected. Each element has different default behavior and by using the standard semantic tag, you will be getting this default functionality and behavior for free.
 
 For example, if an element is created using the `<button>` tag, a user will be able to tab to the button and will be able to activate it using both the SPACE and ENTER keys. However, another element styled to visually look like a button but created using a generic `<div>` tag will not have this default keyboard functionality and this interaction will need to be added using additional code, typically JavaScript.
 
@@ -98,4 +98,3 @@ However, only the elements built using semantic HTML tags will be available to t
 * [Semantic Structure](https://webaim.org/techniques/semanticstructure/)
 * [More information about the div tag](https://www.scottohara.me/blog/2022/01/20/divisive.html)
 * [HTML and landmark roles](https://developer.mozilla.org/en-US/blog/aria-accessibility-html-landmark-roles/)
-

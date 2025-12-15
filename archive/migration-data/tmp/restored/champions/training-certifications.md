@@ -2,8 +2,8 @@
 ---
 layout: guide
 title: Training and Certifications
-description: Resources that can help increase your accessibility knowledge. 
-excerpt: 
+description: Resources that can help increase your accessibility knowledge.
+excerpt:
 sidenav: docs
 categories:
   - Accessibility
@@ -17,8 +17,8 @@ roles:
   - Project manager
   - UX designer
 ---
- 
-Ready to learn more about accessibility? Whether you're just starting or already have some basic knowledge of accessibility, we have resources that can help with your continued education.  
+
+Ready to learn more about accessibility? Whether you're just starting or already have some basic knowledge of accessibility, we have resources that can help with your continued education.
 
 ## Certificates for demonstrating accessibility knowledge
 

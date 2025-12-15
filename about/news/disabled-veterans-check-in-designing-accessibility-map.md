@@ -33,7 +33,7 @@ When the Department of Veterans Affairs (VA) asked CivicActions to improve the d
 ### Veterans' Unique Needs
 Veterans accessing VA healthcare services face multiple challenges:
 - **Service-connected disabilities** requiring specific accommodations and assistance
-- **Trauma-related conditions** that can make navigation and wayfinding particularly difficult  
+- **Trauma-related conditions** that can make navigation and wayfinding particularly difficult
 - **Age-related accessibility needs** as many veterans are older adults with vision, hearing, or mobility challenges
 - **Technology gaps** with varying levels of comfort and experience with digital interfaces
 
@@ -190,7 +190,7 @@ We conducted multiple rounds of testing with veterans:
 
 ### Quantitative Improvements
 - **78% reduction** in time to reach first appointment for veterans with disabilities
-- **92% task completion rate** for digital check-in among participating veterans  
+- **92% task completion rate** for digital check-in among participating veterans
 - **65% decrease** in requests for staff wayfinding assistance
 - **89% user satisfaction** score for the accessibility mapping system
 

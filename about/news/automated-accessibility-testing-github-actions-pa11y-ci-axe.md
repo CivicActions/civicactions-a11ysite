@@ -69,27 +69,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '18'
           cache: 'npm'
-          
+
       - name: Install dependencies
         run: npm ci
-        
+
       - name: Build site
         run: npm run build
-        
+
       - name: Start server
         run: |
           npm run serve &
           sleep 10
-          
+
       - name: Run Pa11y-ci
         run: npx pa11y-ci --sitemap http://localhost:8080/sitemap.xml
-        
+
       - name: Run Axe tests
         run: npm run test:axe
 ```

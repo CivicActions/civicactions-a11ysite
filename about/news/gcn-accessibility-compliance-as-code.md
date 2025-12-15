@@ -5,7 +5,7 @@ title:  "GCN: The need for accessibility compliance as code"
 date:   2021-02-08 08:00:00 -0800
 description: GCN published a guest editorial we wrote that was inspired by a conversation we had on a recent CivicActions Accessibility practice area call.
 author: luke-fretwell
-categories: 
+categories:
 image: card-power.png
 roles:
   - Developer

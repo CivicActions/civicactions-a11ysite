@@ -5,17 +5,17 @@ author: jennifer-aube
 name: Jennifer Houde
 image: jennifer-aube.jpg
 categories:
- - 
+ -
 sidenav: docs
 permalink: /about/people/jennifer-houde
 redirect_from:
   - /about/people/jennifer-aube
 linkedin: https://ca.linkedin.com/in/jennifer-houde-81119a91
-twitter: 
+twitter:
 github: https://github.com/jhoude5
-gitlab: 
+gitlab:
 drupal: https://www.drupal.org/u/jenniferhoude
-speakerdeck: 
+speakerdeck:
 website:
 external: true
 

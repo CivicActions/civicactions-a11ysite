@@ -3,7 +3,7 @@
 layout: guide
 title: Resources
 description: Accessibility resources.
-excerpt: 
+excerpt:
 sidenav: docs
 categories:
   - Accessibility
@@ -50,22 +50,22 @@ General and digital-specific accessibility books we recommend.
 
 Accessibility related podcasts we recommend.
 
-*   [13 letters](https://www.bemyeyes.com/podcasts-show/13-letters) - Engaging interviews about the people behind assistive technology. Produced by Be My Eyes. 
+*   [13 letters](https://www.bemyeyes.com/podcasts-show/13-letters) - Engaging interviews about the people behind assistive technology. Produced by Be My Eyes.
 *   [Be My Eyes Podcast](https://www.bemyeyes.com/podcasts-show/the-be-my-eyes-podcast) -  Stories about living blind in a sighted world.
-*   [A11yrules](https://a11yrules.com/) - Interviews with people with lived experience of technology. 
-*   [AT Banter](https://atbanter.com/) - Lively discussion about issues related to assistive technology. 
-*   [Human Potential at Work](https://www.ruhglobal.com/podcasthuman-potential-work/) - Episodes with people addressing issues of accessibility in the workplace. 
-*   [IAP Podcast](https://interactiveaccessibility.com/iap-podcasts) - Interviews on accessibility digital accessibility supported by TPGi. 
+*   [A11yrules](https://a11yrules.com/) - Interviews with people with lived experience of technology.
+*   [AT Banter](https://atbanter.com/) - Lively discussion about issues related to assistive technology.
+*   [Human Potential at Work](https://www.ruhglobal.com/podcasthuman-potential-work/) - Episodes with people addressing issues of accessibility in the workplace.
+*   [IAP Podcast](https://interactiveaccessibility.com/iap-podcasts) - Interviews on accessibility digital accessibility supported by TPGi.
 
 
 ## Videos {#videos}
 
 *   [AXSChat](https://www.youtube.com/channel/UCtXmNJEMGmHK9VArQNnvxAw/videos) - The videos behind the weekly [#axschat Twitter chat](https://twitter.com/search?q=%23axschat&src=typed_query&f=live)
 *   [A11yTalks](https://www.youtube.com/channel/UC__nH6oZrFXcUevljYJKbsw)
-*   [Accessibility London](https://www.youtube.com/channel/UCDIVL2ytbhD9ZCn8GaEIi_g) 
+*   [Accessibility London](https://www.youtube.com/channel/UCDIVL2ytbhD9ZCn8GaEIi_g)
 *   [AbilityNet](https://www.youtube.com/user/abilitynet/videos)
 *   [DigitalGov Accessibility Playlist](https://www.youtube.com/playlist?list=PLd9b-GuOJ3nFHykZgRBZ7_bzwfZ526rxm) - A YouTube Playlist built by the USA Government
-*   [Eric Eggert](https://www.youtube.com/c/EricEggert) series - Eric Eggert walks through many high level 
+*   [Eric Eggert](https://www.youtube.com/c/EricEggert) series - Eric Eggert walks through many high level
 *   [Erik Kroes](https://www.youtube.com/channel/UCwrpGO76k2HyUQspl-rG2eQ/videos) series - Eric Kroes does live reviews of websites and teaches by doing
 *   [Heydon's Webbed Briefs](https://briefs.video/) series - A very entertaining and informative series of videos
 *   [WAI Web Accessibility Perspectives Videos](https://www.w3.org/WAI/perspective-videos/) - A short list of videos from the W3C

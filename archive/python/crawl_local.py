@@ -28,39 +28,39 @@ def is_internal_link(url):
 def crawl_page(url):
     """Crawl a single page and find all links"""
     normalized_url = normalize_url(url)
-    
+
     if normalized_url in visited:
         return
-    
+
     visited.add(normalized_url)
-    
+
     try:
         response = requests.get(url, timeout=5)
         if response.status_code != 200:
             print(f"❌ {response.status_code}: {url}")
             return
-        
+
         all_pages.add(normalized_url)
         print(f"✓ Crawling: {url}")
-        
+
         soup = BeautifulSoup(response.content, 'html.parser')
-        
+
         # Find all links
         for link in soup.find_all('a', href=True):
             href = link['href']
-            
+
             # Skip external links, mailto, etc
             if href.startswith(('http://', 'https://')) and not href.startswith(BASE_URL):
                 continue
             if href.startswith(('mailto:', 'tel:', '#', 'javascript:')):
                 continue
-            
+
             # Convert relative URLs to absolute
             if href.startswith('/'):
                 full_url = BASE_URL + href
             else:
                 full_url = urljoin(url, href)
-            
+
             # Check if link exists
             try:
                 link_response = requests.head(full_url, timeout=5, allow_redirects=True)
@@ -73,20 +73,20 @@ def crawl_page(url):
             except requests.RequestException as e:
                 broken_links[url].append((href, full_url, str(e)))
                 print(f"  ❌ ERROR: {href} -> {e}")
-                
+
     except requests.RequestException as e:
         print(f"❌ Failed to crawl {url}: {e}")
 
 def main():
     print(f"Starting crawl of {BASE_URL}")
     print("=" * 80)
-    
+
     crawl_page(BASE_URL)
-    
+
     print("\n" + "=" * 80)
     print(f"Crawled {len(visited)} pages")
     print(f"Total pages found: {len(all_pages)}")
-    
+
     if broken_links:
         print(f"\n❌ Found {sum(len(links) for links in broken_links.values())} broken links:\n")
         for page, links in sorted(broken_links.items()):
@@ -95,7 +95,7 @@ def main():
                 print(f"  - {href} -> {full_url} ({status})")
     else:
         print("\n✅ No broken links found!")
-    
+
     print(f"\n📄 All pages crawled:")
     for page in sorted(all_pages):
         print(f"  {page}")

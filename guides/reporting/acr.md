@@ -7,15 +7,15 @@ redirect_from:
   - /VPAT/
 ---
 
-An Accessibility Conformance Report (ACR) is a document that measures how well  information and communication technology (ICT) products comply with [Section 508 Standards](https://www.access-board.gov/ict/). These reports are mainly used in government and education procurement, but can also be used by private sector organizations. During procurement, vendors are encouraged to create an ACR to show how an ICT meets the specific accessibility requirements that are being requested. 
+An Accessibility Conformance Report (ACR) is a document that measures how well  information and communication technology (ICT) products comply with [Section 508 Standards](https://www.access-board.gov/ict/). These reports are mainly used in government and education procurement, but can also be used by private sector organizations. During procurement, vendors are encouraged to create an ACR to show how an ICT meets the specific accessibility requirements that are being requested.
 
-An ACR is often created using a Voluntary Product Accessibility Template (VPAT), which comes in a few standard formats for reporting accessibility conformance. When evaluating our own work on websites, we use [OpenACR](https://github.com/GSA/openacr) along with the VPAT 2.5 WCAG (November 2023) template. OpenACR is a tool developed by CivicActions and maintained by the General Services Administration (GSA). To learn more about its development, [read our case study](https://civicactions.com/case-studies/open-acr/). 
+An ACR is often created using a Voluntary Product Accessibility Template (VPAT), which comes in a few standard formats for reporting accessibility conformance. When evaluating our own work on websites, we use [OpenACR](https://github.com/GSA/openacr) along with the VPAT 2.5 WCAG (November 2023) template. OpenACR is a tool developed by CivicActions and maintained by the General Services Administration (GSA). To learn more about its development, [read our case study](https://civicactions.com/case-studies/open-acr/).
 
-OpenACR reads and formats ACR results in YAML, a machine-readable format that can be easily stored and updated, and allows accessibility claims of digital products and services to be easily compared. Related to this, the [OpenACR web editor](https://acreditor.section508.gov/) provides a step-by-step interface for using OpenACR to create machine-readable ACR documents. 
+OpenACR reads and formats ACR results in YAML, a machine-readable format that can be easily stored and updated, and allows accessibility claims of digital products and services to be easily compared. Related to this, the [OpenACR web editor](https://acreditor.section508.gov/) provides a step-by-step interface for using OpenACR to create machine-readable ACR documents.
 
 ## Our example
 
-CivicActions prioritizes creating ACRs to show how the products we use meet accessibility standards set by Section 508. To see an example of how to create an ACR, view the report created for Drupal 9.1. 
+CivicActions prioritizes creating ACRs to show how the products we use meet accessibility standards set by Section 508. To see an example of how to create an ACR, view the report created for Drupal 9.1.
 
 [Drupal 9.1 Accessibility Conformance Report](https://accessibility.civicactions.com/ACR/Drupal9AccessibilityConformanceReport.html)
 

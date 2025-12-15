@@ -5,7 +5,7 @@ title:  "What we learned about accessibility by scanning more than 2 million fed
 date:   2021-07-30 06:00:00 -0800
 description: CivicActions scanned over 2 million federal .gov pages for accessibility barriers and this is what we found.
 author: mike-gifford
-categories: 
+categories:
 image: card-power.png
 roles:
   - Executive

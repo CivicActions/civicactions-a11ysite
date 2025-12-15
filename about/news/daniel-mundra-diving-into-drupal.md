@@ -119,7 +119,7 @@ Daniel continues contributing to Drupal's accessibility improvements:
 ### Government Accessibility Innovation
 Working on next-generation approaches to government accessibility:
 - **AI-assisted accessibility testing** exploring machine learning applications for accessibility validation
-- **Cross-platform accessibility** ensuring government services work across web, mobile, and emerging platforms  
+- **Cross-platform accessibility** ensuring government services work across web, mobile, and emerging platforms
 - **Performance accessibility** optimizing site performance for assistive technology users
 - **International standards alignment** helping U.S. government agencies adopt global accessibility best practices
 
@@ -173,7 +173,7 @@ Continuing to build accessibility expertise across the Drupal and government com
 
 Interested in Drupal accessibility or automated testing approaches?
 - **GitHub**: [Daniel's open source contributions](https://github.com/danielmundra)
-- **Drupal.org**: [Daniel's Drupal community profile](https://www.drupal.org/u/danielmundra)  
+- **Drupal.org**: [Daniel's Drupal community profile](https://www.drupal.org/u/danielmundra)
 - **Conference speaking**: Catch Daniel's presentations at DrupalCon and accessibility conferences
 - **Team consultation**: Reach out through our [contact page](/about/contact/) for Drupal accessibility projects
 
@@ -184,5 +184,5 @@ Daniel represents the kind of deep technical expertise and community commitment 
 **Editorial Notes:**
 - Format: Team member profile article highlighting Drupal accessibility expertise
 - Priority: Normal value - team showcase content
-- Action: No changes needed - content preserved as-is per audit recommendation  
+- Action: No changes needed - content preserved as-is per audit recommendation
 - Demonstrates CivicActions team depth in technical accessibility implementation

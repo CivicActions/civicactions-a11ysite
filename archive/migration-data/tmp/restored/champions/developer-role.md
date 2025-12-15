@@ -2,13 +2,13 @@
 ---
 layout: role
 title: Developer
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Development
 hero:
-  image: 
+  image:
   callout:
     alt:
     text: "Developer"

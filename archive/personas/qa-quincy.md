@@ -1,8 +1,8 @@
 ---
 layout: base
 title: QA Quincy
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 img: qa-quincy.png
 categories:
@@ -14,7 +14,7 @@ roles:
 ## Description
 Quincy is always on top of testing. They enjoy breaking websites to make sure they meet criteria for accessibility, and they care about security and performance of the site. They look at automation because testing can take time.
 
-Quincy has a rotator cuff injury and needs to use the keyboard exclusively for a few weeks. 
+Quincy has a rotator cuff injury and needs to use the keyboard exclusively for a few weeks.
 
 ## Goals
 Looking at best practices for QA automation

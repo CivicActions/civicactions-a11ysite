@@ -40,7 +40,7 @@ Accessibility is everyone's responsibility, but different roles have different o
 
 **Key focus areas**:
 - Semantic HTML and proper heading structure
-- ARIA implementation and screen reader compatibility  
+- ARIA implementation and screen reader compatibility
 - Keyboard navigation and focus management
 - Color contrast and responsive design
 - Automated testing integration
@@ -119,7 +119,7 @@ Accessibility is everyone's responsibility, but different roles have different o
 
 ### Cross-Role Collaboration
 - **Design + Development**: Ensuring designs are technically feasible and properly implemented
-- **Content + Design**: Balancing visual appeal with content accessibility needs  
+- **Content + Design**: Balancing visual appeal with content accessibility needs
 - **QA + Development**: Integrating accessibility testing into development workflows
 - **PM + All Roles**: Coordinating accessibility efforts across project lifecycle
 

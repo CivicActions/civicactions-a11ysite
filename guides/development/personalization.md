@@ -1,8 +1,8 @@
 ---
 layout: playbook
 title: Support personalization
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Accessibility
@@ -37,5 +37,5 @@ It is worth adding links to something like MCMW into accessibility statements to
 
 * How much responsibility do you want to have in educating your users?
 * How do you integrate this into your testing so it can be maintained?
-* How do you design your brand so that it can be conveyed even when the user is able to override how basic elements of your site are being displayed? 
+* How do you design your brand so that it can be conveyed even when the user is able to override how basic elements of your site are being displayed?
 * Are we putting the burden of technology on the user?

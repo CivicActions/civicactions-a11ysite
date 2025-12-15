@@ -90,7 +90,7 @@ Essential resources for building your accessibility expertise and staying curren
 
 ### Paid Tools and Services
 - **Deque axe Pro**: Enterprise accessibility testing
-- **Level Access AMP**: Comprehensive accessibility platform  
+- **Level Access AMP**: Comprehensive accessibility platform
 - **TPGi ARC Platform**: Testing and compliance management
 
 ---

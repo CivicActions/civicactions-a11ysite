@@ -2,7 +2,7 @@
 layout: guide
 title: Design systems
 description: A collection of government and corporate web and digital design systems from the United States and around the world.
-excerpt: 
+excerpt:
 sidenav: docs
 categories:
   — Design
@@ -12,7 +12,7 @@ roles:
 
 ## Government open design systems {#government-open-design-systems}
 
-Worldwide, government website design is being led by open source initiatives. 
+Worldwide, government website design is being led by open source initiatives.
 
 ### USA
 *   [U.S. Web Design System (USWDS)](https://designsystem.digital.gov/) — [USWDS on GitHub](https://github.com/uswds/uswds)

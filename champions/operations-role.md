@@ -1,13 +1,13 @@
 ---
 layout: role
 title: Operations
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Operations
 hero:
-  image: 
+  image:
   callout:
     alt:
     text: "Operations"

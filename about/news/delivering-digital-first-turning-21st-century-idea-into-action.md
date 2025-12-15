@@ -113,16 +113,16 @@ Digital-first services provide:
 <form class="usa-form" role="main">
   <fieldset class="usa-fieldset">
     <legend class="usa-legend">Benefit Application</legend>
-    
+
     <label class="usa-label" for="applicant-name">
       Full Name <span class="usa-required">*</span>
     </label>
-    <input class="usa-input" id="applicant-name" name="name" 
+    <input class="usa-input" id="applicant-name" name="name"
            type="text" required aria-describedby="name-help">
     <div class="usa-hint" id="name-help">
       Enter your full legal name as it appears on official documents
     </div>
-    
+
     <button class="usa-button" type="submit">
       Submit Application
     </button>

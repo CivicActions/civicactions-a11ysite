@@ -9,7 +9,7 @@
 </head>
 <body>
     <a class="skip-link" href="#main-content">Skip to main content</a>
-    
+
     <header>
         <div class="header-content">
             <div class="site-title">
@@ -25,21 +25,21 @@
             </nav>
         </div>
     </header>
-    
+
     <main id="main-content">
         {% if page.url != "/" %}
         <nav class="breadcrumb" aria-label="Breadcrumb">
             <a href="/">Home</a>{% assign url_parts = page.url | split: "/" | slice: 1, 10 %}{% assign current_path = "" %}{% for part in url_parts %}{% unless part == "" %}{% assign current_path = current_path | append: "/" | append: part %}{% if forloop.last %} <span aria-hidden="true">›</span> <span>{{ title | default: page.fileSlug | replace: "-", " " | capitalize }}</span>{% else %} <span aria-hidden="true">›</span> <a href="{{ current_path }}/">{{ part | replace: "-", " " | capitalize }}</a>{% endif %}{% endunless %}{% endfor %}
         </nav>
         {% endif %}
-        
+
         {{ content }}
-        
+
         {% if editor_assigned or audit_notes or recommendations %}
         <div class="editorial-notes">
             <h3>Editorial Notes</h3>
             {% if editor_assigned %}
-            <p><strong>Assigned editor:</strong> {{ editor_assigned }} 
+            <p><strong>Assigned editor:</strong> {{ editor_assigned }}
             {% if editor_status == "TRUE" %}<span style="color: #059669;">(completed)</span>{% else %}<span style="color: #dc2626;">(pending)</span>{% endif %}</p>
             {% endif %}
             {% if audit_notes %}
@@ -54,7 +54,7 @@
         </div>
         {% endif %}
     </main>
-    
+
     <footer>
         <div class="footer-content">
             <p>&copy; 2025 CivicActions. Content available under CC-BY-SA-4.0 license.</p>

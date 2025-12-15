@@ -48,7 +48,7 @@ All members of a team play a role in accessibility. Executives, procurement offi
 
 ### Holistic
 
-HEART addresses the following organization issues: policy, procurement, technical, resourcing and culture. We provide concrete improvements to internal processes and leave teams with artifacts that will make implementing accessibility easier. 
+HEART addresses the following organization issues: policy, procurement, technical, resourcing and culture. We provide concrete improvements to internal processes and leave teams with artifacts that will make implementing accessibility easier.
 
 
 ## Phases
@@ -72,7 +72,7 @@ HEART addresses the following organization issues: policy, procurement, technica
 ### Discover
 
 * Interview digital teams to understand stakeholders' processes
-* Identify common experiences and challenges 
+* Identify common experiences and challenges
 * Aggregate additional accessibility resources
 * Highlight strengths and weaknesses of the team
 
@@ -82,9 +82,9 @@ HEART addresses the following organization issues: policy, procurement, technica
 #### Policy
 
 * Examine organizational policy and procedures
-* Document accessibility work for Diversity, Equity & Inclusion 
+* Document accessibility work for Diversity, Equity & Inclusion
 * Ensure clear responsibilities in existing policies
-* Compare findings with global best practices 
+* Compare findings with global best practices
 * Engage digital stakeholders in reviewing recommendations
 
 
@@ -111,7 +111,7 @@ HEART addresses the following organization issues: policy, procurement, technica
 
 * Strategize: define next steps in your accessibility journey
 * Train: build accessibility confidence within your team
-* Coach: support all digital roles to incorporate accessibility 
+* Coach: support all digital roles to incorporate accessibility
 * Deploy: establish an evergreen approaches to remove barriers
 * Monitor: ensure your organization continues to improve
 

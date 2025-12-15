@@ -2,7 +2,7 @@
 layout: playbook
 title: Add accessibility to every role
 description: A guide to how every role on a digital team can contribute to accessibility.
-excerpt: 
+excerpt:
 sidenav: docs
 categories:
   - Accessibility
@@ -13,7 +13,7 @@ roles:
 
 Creating modern digital content involves a wide array of specialized roles, each contributing to the development process in unique ways. While several efforts have been made to define and categorize these roles, our approach builds on those frameworks by expanding the scope to include roles that are sometimes overlooked.
 
-For each role, we outline responsibilities and recommend tools that support accessibility practices. This guide aims to highlight how every role can contribute to accessibility, fostering collaboration toward more inclusive digital experiences. 
+For each role, we outline responsibilities and recommend tools that support accessibility practices. This guide aims to highlight how every role can contribute to accessibility, fostering collaboration toward more inclusive digital experiences.
 
 As of March, 2025 we are happy to announce a draft of [Accessibility Roles and Responsibilities Mapping (ARRM)](https://www.w3.org/WAI/planning/arrm/) has been released by the [Web Accessibility Initiative](https://www.w3.org/WAI/). This is recommended reading for all roles involved in accessibility.
 
@@ -23,10 +23,10 @@ Developers play a critical part in adding accessibility into the product develop
 [Learn more about developer roles](https://accessibility.civicactions.com/roles/developer)
 
 ### Other titles for this role
-* Accessibility specialist 
+* Accessibility specialist
 * Back-end engineer
 * DevOps engineer
-* Front-end engineer 
+* Front-end engineer
 * Full-stack developer
 * Quality assurance (QA) engineer
 
@@ -36,7 +36,7 @@ Developers play a critical part in adding accessibility into the product develop
 * [Accessibility specialist role](https://ddat-capability-framework.service.gov.uk/role/accessibility-specialist)
 
 ## Designer
-The practice of design has a vital role to play in moving accessibility thinking earlier in the product development process (a practice known as "shifting left"). Design encompasses a wide variety of tasks and skills. Depending on their area of expertise, a designer could plan and write content, conduct research, or create visual mockups, all while applying accessibility thinking to the design process. 
+The practice of design has a vital role to play in moving accessibility thinking earlier in the product development process (a practice known as "shifting left"). Design encompasses a wide variety of tasks and skills. Depending on their area of expertise, a designer could plan and write content, conduct research, or create visual mockups, all while applying accessibility thinking to the design process.
 
 [Learn more about designer roles](https://accessibility.civicactions.com/roles/designer)
 
@@ -66,7 +66,7 @@ Executives play a pivotal role in driving accessibility as a strategic priority 
 
 ### Executive resources
 * [Executive Guide to Federal IT Accessibility](https://www.section508.gov/manage/playbooks/exec-guide-accessibility/)
-* [Web accessibility guide for senior management](https://govtnz.github.io/web-a11y-guidance/roles/senior-management/) 
+* [Web accessibility guide for senior management](https://govtnz.github.io/web-a11y-guidance/roles/senior-management/)
 
 ## Manager
 Product and project managers are key to ensuring accessibility is prioritized throughout the product lifecycle. By shaping roadmaps and coordinating teams, they can embed accessibility into every stage of development. They help define requirements, track progress, and mitigate risks to ensure accessibility goals are achieved on time. PMs have a unique role to play in finding a cross-functional approach to accessibility that fits the project and the team.

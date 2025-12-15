@@ -3,7 +3,7 @@
 layout: guide
 title: CivicActions' Accessibility Champions Program
 description: Outlining the basics of CivicActions' Accessibility Champions Program
-excerpt: 
+excerpt:
 sidenav: docs
 categories:
   - Accessibility
@@ -42,7 +42,7 @@ Champions typically have interest in…
 
 ## Benefits of becoming a Champion
 The Champions program makes it easier to:
-* **Increase your organizational impact:** Many joined CivicActions because they wanted to work for an impact-driven organization. Helping make websites more accessible can have an impact on millions of people. 
+* **Increase your organizational impact:** Many joined CivicActions because they wanted to work for an impact-driven organization. Helping make websites more accessible can have an impact on millions of people.
 * **Advance your career:** We also want to support people in their growth within the company. "Accessibility Champion" looks good on your resume. It will help CivicActions become better innovators and win work.
 * **Build cross-functional relationships:** The work of accessibility is multidisciplinary and brings you into contact with specialists, leaders, and stakeholders from areas you may not otherwise interact with. These connections improve team communication and can have a lasting impact on your career and exposure to related expertise.
 
@@ -53,11 +53,11 @@ A champion will…
 * Take responsibility for iteratively making the client's project more accessible
 * Recommend process, tooling or other changes to make accessibility a bigger part of the client team's growth
 * Work with the Accessibility Practice Area group to surface and codify best practices to share across the company
-* Surface opportunities for learning and process improvement 
+* Surface opportunities for learning and process improvement
 * Help their functional role have a clear understanding of accessibility expectations for that role
 * Support team members in meeting accessibility goals including onboarding new members
 
-Specific examples include: 
+Specific examples include:
 * Raising accessibility issues in team meetings
 * Auditing projects for areas for improvement
 * Ensuring there is axe-core testing in our CI/CD process (pa11y with axe, Cypress-axe)
@@ -70,20 +70,20 @@ Specific examples include:
 * Leading [ARRM workshops](https://www.w3.org/WAI/EO/wiki/ARRM_Project_-_Accessibility_Roles_and_Responsibilities_Mapping) if useful for new project or addressing backlogs
 
 ## Champion levels
-There is an infinite amount that can be done on accessibility. And yet, we want the program to be a welcoming place for the accessibility-curious to be able to join without the need for advanced study or certifications. Levels provide an on-ramp for staff that may be less experienced with digital accessibility as well as leadership and mentorship opportunities for more experienced staff. The levels are set up to encourage people to push themselves to learn more with time and practice. 
+There is an infinite amount that can be done on accessibility. And yet, we want the program to be a welcoming place for the accessibility-curious to be able to join without the need for advanced study or certifications. Levels provide an on-ramp for staff that may be less experienced with digital accessibility as well as leadership and mentorship opportunities for more experienced staff. The levels are set up to encourage people to push themselves to learn more with time and practice.
 
 As champions gain skills, experience, and responsibility they can advance through three levels:
 
 ### Level 1 — Basic knowledge
 No previous accessibility knowledge or experience is necessary for this level, only an enthusiasm to learn. In addition to [Accessibility Onboarding](https://accessibility.civicactions.com/guide/onboarding-staff) for new employees, all CivicActions employees are encouraged to take an [Introduction to Web Accessibility course](https://www.edx.org/learn/web-accessibility/the-world-wide-web-consortium-w3c-introduction-to-web-accessibility). All employees are welcome to attend the practice area calls and engage in the Slack channel to keep up with best practices and internal accessibility discussions. At this level, the goal is to be able to articulate the importance of accessibility and to identify and prioritize common accessibility issues.
 
-### Level 2 — Experienced 
+### Level 2 — Experienced
 This level is for employees who are able to analyze the accessibility of a task across multiple pages and components and recommend solutions with confidence. Open to employees who have worked toward more in-depth accessibility certification through International Association of Accessibility Professionals (IAAP) [Certified Professional in Accessibility Core Competencies (CPACC)](https://www.accessibilityassociation.org/cpacc), [IAAP Web Accessibility Specialist (WAS)](https://www.accessibilityassociation.org/was-exam) or [DHS Trusted Tester](https://www.dhs.gov/trusted-tester). Level 2 Champions contribute to the website, write articles, and lead Accessibility Onboarding Workshops for new employees.
 
-### Level 3 — Taking leadership 
+### Level 3 — Taking leadership
 Level 3 is all about impact. At this level, Champions are able to evaluate the accessibility of a product systemically and prioritize approaches which will have the biggest impact. On projects they are expected to track down and advance issues and assist teammates in navigating complex solutions. Internally responsible for the innovation of our Accessibility Practice Area. Level 3 Champions contribute beyond CivicActions by maintaining modules or themes, contributing back to open source, engagement with the W3C Working Groups, and by coaching clients and partners.
 
-## Resources to start an Accessibility Champions program 
+## Resources to start an Accessibility Champions program
 Articles and talks about beginning and growing Accessibility Champion programs to get you started.
 * Minnesota State Government: [Accessibility Challenge - Nurture More Champions Part 1](https://mn.gov/mnit/media/blog/?id=38-516010) & [Part 2](https://mn.gov/mnit/media/blog/?id=38-518320)
 * [LinkedIN's Program](https://engineering.linkedin.com/blog/2019/05/scaling-accessibility-through-a11y-champions-program)

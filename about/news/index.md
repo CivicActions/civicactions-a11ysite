@@ -51,7 +51,7 @@ Why open source development accelerates accessible government technology.
 ### More Articles Coming Soon
 
 We're continuing to migrate additional articles covering:
-- **Automated accessibility testing** with GitHub Actions and pa11y-ci  
+- **Automated accessibility testing** with GitHub Actions and pa11y-ci
 - **Veterans accessibility** and designing inclusive check-in experiences
 - **Government CMS challenges** and accessibility solutions
 - **FOSDEM presentations** on accessibility and open source

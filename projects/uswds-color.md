@@ -12,8 +12,8 @@ editor_notes: "Source: https://accessibility.civicactions.com/projects/uswds-col
 ---
 layout: project
 title: USWDS Color Tool
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 external-url: https://github.com/CivicActions/uswds-color-tool
 categories:

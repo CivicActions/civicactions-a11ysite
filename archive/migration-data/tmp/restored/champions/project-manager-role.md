@@ -2,13 +2,13 @@
 ---
 layout: role
 title: Project manager
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Project management
 hero:
-  image: 
+  image:
   callout:
     alt:
     text: "Project manager"

@@ -1,8 +1,8 @@
 ---
 layout: playbook
 title: Implement automated testing
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Testing
@@ -47,7 +47,7 @@ The Axe accessibility engine is now built into [Google's Lighthouse](https://dev
 
 Government Digital Services in both the [United Kingdom](https://github.com/alphagov/accessibility-monitoring) and [Singapore](https://github.com/GovTechSG/purple-hats) have leveraged Deque's open-source axe-core accessibility engine to create tools that crawl and gather accessibility barriers for both public-facing websites and internal web-based communications. Similar open-source accessibility engines have been built by IBM & Deque, and there are proprietary tools available from firms like WebAim, Tenon & Siteimprove.
 
-### Automated testing caveat 
+### Automated testing caveat
 
 However, it is important to note that, no matter the tool, [automated testing only catches about one third of accessibility issues](https://alphagov.github.io/accessibility-tool-audit/), so it cannot be relied upon to determine if a site complies. To better ensure that their digital tools are accessible to keyboard-only and assistive technology users, automated tests need to be done along with a robust manual testing plan.
 
@@ -61,7 +61,7 @@ Currently CivicActions uses the following approaches that are open source.
 
 We are currently testing this [accessibility site using Pa11y CI](https://github.com/CivicActions/accessibility/blob/main/.github/workflows/pa11y.yml) and [we blogged about it here](/about/news/automated-accessibility-testing-github-actions-pa11y-ci-axe) and [on opensource.com](https://opensource.com/article/23/2/automated-accessibility-testing).
 
-Pa11y by default uses the [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) accessibility engine, but it is recommended to switch to Pa11y with axe, which is [described in this UK Government Accessibility Manual](https://accessibility-manual.dwp.gov.uk/best-practice/automated-testing-using-axe-core-and-pa11y).  
+Pa11y by default uses the [HTML_CodeSniffer](https://squizlabs.github.io/HTML_CodeSniffer/) accessibility engine, but it is recommended to switch to Pa11y with axe, which is [described in this UK Government Accessibility Manual](https://accessibility-manual.dwp.gov.uk/best-practice/automated-testing-using-axe-core-and-pa11y).
 
 ### Cypress testing with the axe core
 

@@ -4,7 +4,7 @@ title: Mike Gifford & Daniel Mundra interviewed on the Talking Drupal podcast
 date: 2022-05-31T08:00:00-08:00
 description: A discussion about Accessibility Scanning & Testing in Drupal.
 author: daniel-mundra
-categories: 
+categories:
 image: card-power.png
 roles:
   - Developer

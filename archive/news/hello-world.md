@@ -43,7 +43,7 @@ At CivicActions, we believe that **accessible government services are not just a
 ### Accessibility by Design
 We integrate accessibility considerations from the very beginning of every project:
 - **User research** that includes people with disabilities
-- **Design processes** that prioritize inclusive interaction patterns  
+- **Design processes** that prioritize inclusive interaction patterns
 - **Development workflows** with built-in accessibility testing
 - **Quality assurance** that validates real-world usability with assistive technology
 
@@ -66,7 +66,7 @@ We believe in sharing knowledge and tools that advance accessibility for everyon
 ### Diverse Expertise
 Our accessibility practice brings together professionals with complementary skills:
 - **User experience researchers** who specialize in inclusive design methods
-- **Front-end developers** with deep semantic HTML and ARIA expertise  
+- **Front-end developers** with deep semantic HTML and ARIA expertise
 - **Quality assurance engineers** experienced in assistive technology testing
 - **Project managers** who understand accessibility project planning and coordination
 
@@ -187,6 +187,6 @@ Welcome to the CivicActions accessibility community. Let's build government serv
 
 **Editorial Notes:**
 - Format: Introduction article establishing CivicActions accessibility practice mission and approach
-- Priority: Normal value - foundational content for site visitors  
+- Priority: Normal value - foundational content for site visitors
 - Action: No changes needed - content preserved as-is per audit recommendation
 - Author: Mike Gifford, establishing voice and approach for the practice

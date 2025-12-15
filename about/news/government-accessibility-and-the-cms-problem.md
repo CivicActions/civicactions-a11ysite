@@ -98,7 +98,7 @@ Many agencies work within:
 function mymodule_form_alter(&$form, &$form_state, $form_id) {
   if ($form_id == 'node_article_form') {
     $form['field_image']['widget'][0]['alt']['#required'] = TRUE;
-    $form['field_image']['widget'][0]['alt']['#description'] = 
+    $form['field_image']['widget'][0]['alt']['#description'] =
       t('Required: Describe the image for users who cannot see it.');
   }
 }
@@ -124,10 +124,10 @@ WordPress accessibility relies heavily on plugins:
 function government_accessibility_enhancements() {
   // Enforce alt text requirement
   add_filter('wp_handle_upload_prefilter', 'require_alt_text');
-  
+
   // Add accessibility help text
   add_action('media_upload_form', 'add_accessibility_guidance');
-  
+
   // Check color contrast in customizer
   add_action('customize_controls_print_scripts', 'add_contrast_checker');
 }
@@ -164,22 +164,22 @@ function government_accessibility_enhancements() {
 class AccessibilityWorkflow {
   validateContent(content) {
     const issues = [];
-    
+
     // Check for alt text
     if (this.hasImages(content) && !this.hasAltText(content)) {
       issues.push('Images missing alt text');
     }
-    
-    // Validate heading structure  
+
+    // Validate heading structure
     if (!this.hasProperHeadings(content)) {
       issues.push('Heading structure needs improvement');
     }
-    
+
     // Check color contrast
     if (!this.meetsContrastRequirements(content)) {
       issues.push('Color contrast insufficient');
     }
-    
+
     return issues;
   }
 }
@@ -220,22 +220,22 @@ Government CMS themes should include:
 ```php
 // Example: Drupal accessibility enforcement module
 class AccessibilityEnforcement {
-  
+
   public function validateNode($node) {
     $errors = [];
-    
+
     // Require alt text for images
     foreach ($node->field_images as $image) {
       if (empty($image->alt)) {
         $errors[] = 'Alt text required for all images';
       }
     }
-    
+
     // Validate heading structure
     if (!$this->validateHeadingStructure($node->body->value)) {
       $errors[] = 'Heading structure must be hierarchical';
     }
-    
+
     return $errors;
   }
 }
@@ -264,7 +264,7 @@ A federal agency approached CivicActions with:
 - **Technical analysis** identifying specific accessibility barriers in the CMS
 - **Compliance gap analysis** documenting requirements versus current capabilities
 
-#### Phase 2: Workflow Redesign  
+#### Phase 2: Workflow Redesign
 - **Accessibility-first templates** ensuring good structure by default
 - **Author training program** with role-specific accessibility guidance
 - **Quality assurance integration** with accessibility checks at multiple workflow stages

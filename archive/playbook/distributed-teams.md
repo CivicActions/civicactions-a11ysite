@@ -41,5 +41,5 @@ Another approach that some organizations are doing is helping to assign a minder
 
 * What is the most effective way to communicate at this time with those involved?
 * Are meetings organized before hand to allow people to prepare and fully participate?
-* How does the facilitator make room for people of all abilities to participate? 
+* How does the facilitator make room for people of all abilities to participate?
 * Have people with disabilities been asked if a minder would be beneficial?

@@ -54,7 +54,7 @@ Accessibility training builds the knowledge and confidence needed to create incl
 
 ### For Content Creators
 **Accessible Content** specialization:
-- Plain Language Principles  
+- Plain Language Principles
 - Document Accessibility
 - Alternative Text Best Practices
 
@@ -67,7 +67,7 @@ Accessibility training builds the knowledge and confidence needed to create incl
 - Offered by IAAP (International Association of Accessibility Professionals)
 - Best for: Anyone new to accessibility field
 
-**WAS (Web Accessibility Specialist)**  
+**WAS (Web Accessibility Specialist)**
 - Technical certification for web accessibility implementation
 - Requires hands-on coding and testing experience
 - Best for: Developers and technical implementers

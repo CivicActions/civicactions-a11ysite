@@ -16,7 +16,7 @@ roles:
 
 Screen reader users navigate and experience web pages differently than non-screen reader users typically do. While it takes considerable experience to use a screen reader in the same way as the average daily user, incorporating basic screen reader testing into your accessibility test plan can still be quite effective in finding potential issues.
 
-There is considerable variation, even within the blind and low vision community, on how screen reader users navigate the web due to the wide range of vision related disabilities and technologies available. Each screen reader also has different default functionality and behaviors and can be customized to the user's preferences. It's recommended to test with multiple screen readers and devices to account for as many of these variations as possible. 
+There is considerable variation, even within the blind and low vision community, on how screen reader users navigate the web due to the wide range of vision related disabilities and technologies available. Each screen reader also has different default functionality and behaviors and can be customized to the user's preferences. It's recommended to test with multiple screen readers and devices to account for as many of these variations as possible.
 
 ## Common screen readers
 
@@ -41,7 +41,7 @@ Using at least one of the common screen readers mentioned, complete the basic te
 
 1. Read through the web page start to finish.
    * Is everything read on the page that you expected? Is anything skipped or read in an incorrect order?
-   * Are all elements read in a way that is understandable? 
+   * Are all elements read in a way that is understandable?
 2. Tab through the webpage using the keyboard.
    * Are all the interactive elements on the page available using the keyboard?
    * Does each element respond to expected keys? WebAim has a good reference for expected keyboard interaction.

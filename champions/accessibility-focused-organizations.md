@@ -2,7 +2,7 @@
 layout: guide
 title: Organizations
 description: Accessibility organizations.
-excerpt: 
+excerpt:
 sidenav: docs
 categories:
   - Accessibility

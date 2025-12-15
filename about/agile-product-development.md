@@ -18,7 +18,7 @@ content_status: "Migrate"
 http_status: 301
 migration_approved: true
 
-# Editor Notes  
+# Editor Notes
 recommendations: "Combined content about agile accessibility approaches with practical implementation guidance"
 ---
 

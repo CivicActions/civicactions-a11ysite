@@ -1,8 +1,8 @@
 ---
 layout: playbook
 title: Join the global accessibility community
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Accessibility
@@ -25,7 +25,7 @@ The UK's Government Digital Service has proven regular inter-agency leadership o
 
 In isolation it is difficult for any one individual to get accessibility right, and maintain it over time. It really is important to find ways that multiple people within an organization or across related organizations, can have a community to lean on. The Section508.gov's Technology Accessibility Playbook includes a play on [collaborating with the federal accessibility community](https://section508.gov/tools/playbooks/technology-accessibility-playbook-intro/play06).
 
-Look outside and see where you can draw from outside of your team or department. 
+Look outside and see where you can draw from outside of your team or department.
 
 ## Checklist
 

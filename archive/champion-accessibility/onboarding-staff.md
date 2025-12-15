@@ -98,7 +98,7 @@ Effective accessibility onboarding ensures all team members understand their rol
 
 ### Knowledge Checkpoints
 - Basic accessibility concepts (Week 1)
-- Role-specific skills (Week 2)  
+- Role-specific skills (Week 2)
 - Practical application (Month 1)
 - Ongoing competency reviews (Quarterly)
 

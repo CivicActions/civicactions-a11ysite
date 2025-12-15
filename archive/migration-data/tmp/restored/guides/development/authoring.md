@@ -2,8 +2,8 @@
 ---
 layout: playbook
 title: Improve authoring tools
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Accessibility
@@ -33,5 +33,5 @@ ATAG 2.0 Part B identifies where a CMS can help authors create more accessible c
 ## Key questions
 
 * Are alt texts required? Can this be over-ridden for decorative images?
-* Are heading tags used semantically to describe the structure of the content? 
+* Are heading tags used semantically to describe the structure of the content?
 * Are authors given help on how to create accessible content (ie. how to write good alt text)?

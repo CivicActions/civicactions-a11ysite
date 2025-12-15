@@ -22,7 +22,7 @@ There are various types of manual testing that can be incorporated into your tes
 
 Keyboard testing can catch a high volume of potential accessibility issues. Keyboard testing can identify if semantic elements were not used—which typically lead to larger issues with other devices. It can also identify if the reading order is incorrect and if there are keyboard traps on the page, among other issues.
 
-Keyboard testing is easy to do and requires no specific expertise or hardware—other than a keyboard—so this type of  testing can be shared among various project team members. It is one of the most important manual tests that should be included in any testing plan. 
+Keyboard testing is easy to do and requires no specific expertise or hardware—other than a keyboard—so this type of  testing can be shared among various project team members. It is one of the most important manual tests that should be included in any testing plan.
 
 **To do keyboard testing:**
 1. Confirm that all interactive elements are available and actionable using the keyboard only.
@@ -54,7 +54,7 @@ Zoom testing is another testing type that can be completed without any specializ
 2. Confirm that all text on the page resizes appropriately based on the indicated browser size.
 
 ## Contrast and use of color
-The most basic rule in color contrast testing is to confirm that all elements have a contrast ratio of at least 4.5:1 against their background. There are some nuances with this requirement where a lower ratio can pass if necessary, however it is always best to aim higher whenever possible. 
+The most basic rule in color contrast testing is to confirm that all elements have a contrast ratio of at least 4.5:1 against their background. There are some nuances with this requirement where a lower ratio can pass if necessary, however it is always best to aim higher whenever possible.
 
 Color use within a page or product should also be evaluated to ensure that it is not the only means of conveying information. This is especially helpful for folks using your product who may be colorblind or have low vision.
 

@@ -5,7 +5,7 @@ title:  "HEART: Ensuring government digital services accessibility"
 date:   2021-06-01 06:00:00 -0800
 description: Holistic Enterprise Accessibility Review Technique is a proactive, interactive process to ensure government digital services are accessible to everyone.
 author: mike-gifford
-categories: 
+categories:
 image: card-power.png
 roles:
   - Executive

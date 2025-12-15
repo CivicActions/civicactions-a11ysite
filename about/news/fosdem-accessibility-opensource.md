@@ -71,7 +71,7 @@ Just as we use linters for code quality:
 eslint src/
 prettier --check src/
 
-# Accessibility quality  
+# Accessibility quality
 axe-core src/
 pa11y-ci --sitemap https://yoursite.com/sitemap.xml
 ```
@@ -123,7 +123,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Install dependencies
         run: npm ci
-      - name: Build project  
+      - name: Build project
         run: npm run build
       - name: Run accessibility tests
         run: npm run test:a11y
@@ -197,7 +197,7 @@ The power of open source assistive technology:
 
 #### Start with Foundations
 1. **Add accessibility linting** to your development process
-2. **Include accessibility in contributing guidelines** with examples and resources  
+2. **Include accessibility in contributing guidelines** with examples and resources
 3. **Test with screen readers** during development, not just before release
 4. **Document accessibility decisions** explaining choices for future contributors
 

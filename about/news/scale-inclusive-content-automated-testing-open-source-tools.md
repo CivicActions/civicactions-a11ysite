@@ -40,7 +40,7 @@ To achieve the testing we use the following technologies:
 
 For remark/retext we create a Docker image that installs the dependencies and sets up reviewdog to execute our configuration on a pull request. The details are [visible in our repository](https://github.com/CivicActions/accessibility/tree/main/lint) but here are the important bits.
 
-The following files (truncated for brevity) configure the plugins for testing markdown and text — and their individual settings. 
+The following files (truncated for brevity) configure the plugins for testing markdown and text — and their individual settings.
 
 Here are some of our example settings:
 * Markdown bullets denoted with an asterisk '*'.
@@ -156,7 +156,7 @@ We are interested in adding the [retext-simplify plugin](https://github.com/rete
 
 ## Conclusion
 
-Following this set-up can help you inject tools to help you test your content. But remember, automation can be devoid of context and can still contain our biases. 
+Following this set-up can help you inject tools to help you test your content. But remember, automation can be devoid of context and can still contain our biases.
 
 You should keep tweaking the tools and double-check your content to make sure it meets your values.
 

@@ -1,8 +1,8 @@
 ---
 layout: base
 title: Accessibility Avery
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 img: accessibility-avery.png
 categories:
@@ -11,9 +11,9 @@ categories:
 ---
 
 ## Description
-Avery is really up on the standards and best practices on accessibility in the world. They don't have a GitHub account, but they want to contribute to the community. Avery wants to ensure their government employer keeps up. 
+Avery is really up on the standards and best practices on accessibility in the world. They don't have a GitHub account, but they want to contribute to the community. Avery wants to ensure their government employer keeps up.
 
-Avery has terrible allergies in the spring, and they sometimes get massive migraines that stop them from being productive. 
+Avery has terrible allergies in the spring, and they sometimes get massive migraines that stop them from being productive.
 
 ## Goals
 Bring together recommendations for management about how to improve our site

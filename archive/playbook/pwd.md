@@ -32,7 +32,7 @@ Robust products and services are [co-designed with the users](https://snow.idrc.
 ## Key questions
 * Are you building to the Pareto Principle, or the fringe?
 * How are you including a range of disabilities into your consultation process?
-    
+
 ## Related
 * [Do Manual Testing](https://accessibility.civicactions.com/playbook/manual-testing)
 * [Test with Assistive Technology](https://accessibility.civicactions.com/playbook/AT)

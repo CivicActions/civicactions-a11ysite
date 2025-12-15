@@ -5,7 +5,7 @@ title:  "CivicActions wins contract to produce a machine-readable Voluntary Prod
 date:   2021-08-11 06:00:00 -0800
 description: CivicActions is building the foundation for a new way to approach Accessibility Compliance Reporting with our work with the GSA.
 author: mike-gifford
-categories: 
+categories:
 image: card-power.png
 roles:
   - Executive

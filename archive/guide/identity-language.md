@@ -19,7 +19,7 @@ Resources to help you avoid unintentionally offending people:
 
 
 
-*   [List of disability-related terms with negative connotations](https://en.wikipedia.org/wiki/List_of_disability-related_terms_with_negative_connotations) 
+*   [List of disability-related terms with negative connotations](https://en.wikipedia.org/wiki/List_of_disability-related_terms_with_negative_connotations)
 *   [Disability Etiquette Glossary](https://www.mobility-advisor.com/disability-etiquette.html)
 *   [Disability Language Style Guide](https://ncdj.org/style-guide/)
 *   [Disability Terminology: Choosing the Right Words When Talking About Disability](https://hiehelpcenter.org/2018/09/25/disability-terminology-choosing-right-words-talking-disability/)

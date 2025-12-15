@@ -2,8 +2,8 @@
 ---
 layout: guide
 title: History
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Accessibility
@@ -17,7 +17,7 @@ roles:
   - Project manager
   - UX designer
 ---
- 
+
 A brief history of digital accessibility.
 
 

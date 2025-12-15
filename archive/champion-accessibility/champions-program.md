@@ -37,7 +37,7 @@ The CivicActions Accessibility Champions program develops internal accessibility
 
 ### Individual Development
 - Build practical accessibility skills
-- Develop confidence in accessibility advocacy  
+- Develop confidence in accessibility advocacy
 - Create career growth opportunities in accessibility
 - Connect champions with the broader accessibility community
 

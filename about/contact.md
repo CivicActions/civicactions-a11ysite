@@ -62,7 +62,7 @@ For immediate accessibility support or questions:
 ---
 
 **Editorial Notes:**
-- Original author: Jennifer  
+- Original author: Jennifer
 - Assigned editor: Jordan Wood (completed)
 - Format: Transaction page (contact/form functionality)
 - Priority: Normal value content

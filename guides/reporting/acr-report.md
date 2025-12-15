@@ -26,19 +26,19 @@ Product Description: Content Management System
 Contact Information:
 --------------------
 
-Mike Gifford  
-CivicActions  
-3527 Mt Diablo Blvd, Unit 269  
-Lafayette, CA 94549  
-[mike.gifford@civicactions.com](mailto:mike.gifford@civicactions.com)  
+Mike Gifford
+CivicActions
+3527 Mt Diablo Blvd, Unit 269
+Lafayette, CA 94549
+[mike.gifford@civicactions.com](mailto:mike.gifford@civicactions.com)
 (510) 408-7510
 
 Notes:
 ------
 
-Links to the issues identified are included where possible to ensure that this is a living document where outstanding issues are regularly reviewed for compliance. The Authoring tool is evaluated against ATAG 2.0, Part A and B. Incorporating feedback from the Drupal community. 
+Links to the issues identified are included where possible to ensure that this is a living document where outstanding issues are regularly reviewed for compliance. The Authoring tool is evaluated against ATAG 2.0, Part A and B. Incorporating feedback from the Drupal community.
 
-Evaluation Methods Used: 
+Evaluation Methods Used:
 -------------------------
 
 Use of automated tools like WAVE and Accessibility Insights. Manual keyboard only testing. Some testing with JAWS, NVDA and VoiceOver. The evaluation process also includes a review of the Drupal Core accessibility issue queue.
@@ -85,10 +85,10 @@ Note: When reporting on conformance with the WCAG 2.0 Success Criteria, they are
 
 ### Table 1: Success Criteria, Level A
 
-**Notes:** 
-Drupal doesn't make a strong distinction between the front-end & back-end accessibility. Many administration interfaces can be exposed to users in a more interactive site. Generally this report focuses the Conformance Level / Remarks and Explainations so that **Web** comments are about elements that are typically public, while **Authoring Tool** is typically for authors and administrators. The goal of the authoring interface is to support ATAG 2.0 AA (Part A and B). 
+**Notes:**
+Drupal doesn't make a strong distinction between the front-end & back-end accessibility. Many administration interfaces can be exposed to users in a more interactive site. Generally this report focuses the Conformance Level / Remarks and Explainations so that **Web** comments are about elements that are typically public, while **Authoring Tool** is typically for authors and administrators. The goal of the authoring interface is to support ATAG 2.0 AA (Part A and B).
 
-The Drupal community strives to beek up with the latest WCAG recommendation. 
+The Drupal community strives to beek up with the latest WCAG recommendation.
 
 ||||
 |--- |--- |--- |
@@ -121,7 +121,7 @@ The Drupal community strives to beek up with the latest WCAG recommendation.
 
 ### Table 2: Success Criteria, Level AA
 
-**Notes:** 
+**Notes:**
 
 See notes in **Table 1**.
 
@@ -147,7 +147,7 @@ See notes in **Table 1**.
 
 **Notes:**
 
-Where possible the Drupal community strives to exceed AA compliance. 
+Where possible the Drupal community strives to exceed AA compliance.
 
 ||||
 |--- |--- |--- |

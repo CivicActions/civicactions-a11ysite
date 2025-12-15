@@ -41,7 +41,7 @@ The agency's public-facing website served over 2 million visitors annually but h
 ### Compliance Requirements
 As a federal agency, the website needed to meet:
 - **Section 508 compliance** for all public-facing content and functionality
-- **WCAG 2.1 AA standards** as specified in updated Section 508 requirements  
+- **WCAG 2.1 AA standards** as specified in updated Section 508 requirements
 - **Procurement accessibility standards** for any third-party tools or services
 - **Ongoing compliance maintenance** rather than one-time remediation
 
@@ -87,7 +87,7 @@ We tackled the most severe barriers immediately:
 #### Systematic Component Updates
 Rather than ad-hoc fixes, we addressed issues systematically:
 - **Design system updates** fixing accessibility in reusable components
-- **Template improvements** ensuring consistent accessibility across page types  
+- **Template improvements** ensuring consistent accessibility across page types
 - **Content management** guidance for ongoing accessible content creation
 - **Third-party integration** assessment and remediation for external tools
 

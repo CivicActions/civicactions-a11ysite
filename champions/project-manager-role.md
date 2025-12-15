@@ -1,13 +1,13 @@
 ---
 layout: role
 title: Project manager
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Project management
 hero:
-  image: 
+  image:
   callout:
     alt:
     text: "Project manager"
@@ -21,7 +21,7 @@ Project managers keep teams aligned and delivery predictable. Embedding accessib
 
 ## Project manager actions
 
-- Add accessibility tasks to sprint plans and milestones; avoid “phase later” deferrals.
+- Add accessibility tasks to sprint plans and milestones; avoid "phase later" deferrals.
 - Track risks for accessibility regressions and surface them in status reports.
 - Ensure time is allocated for manual checks (keyboard, screen reader smoke tests, zoom/contrast) before release.
 - Coordinate user testing that includes people with disabilities and assistive tech.

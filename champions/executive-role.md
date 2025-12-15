@@ -1,13 +1,13 @@
 ---
 layout: role
 title: Executive
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Executive
 hero:
-  image: 
+  image:
   callout:
     alt:
     text: "Executive"

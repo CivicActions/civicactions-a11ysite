@@ -12,13 +12,13 @@ editor_notes: "Source: https://accessibility.civicactions.com/roles/executive"
 ---
 layout: role
 title: Executive
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Executive
 hero:
-  image: 
+  image:
   callout:
     alt:
     text: "Executive"

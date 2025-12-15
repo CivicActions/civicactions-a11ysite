@@ -17,11 +17,11 @@ audit_action: "Combine with existing"
 content_status: "Migrate"
 http_status: 301
 migration_approved: true
-redirect_sources: 
+redirect_sources:
   - "https://accessibility.civicactions.com/join"
   - "https://accessibility.civicactions.com/about/join"
 
-# Editor Notes  
+# Editor Notes
 recommendations: "Combined content from multiple join-related pages into comprehensive joining guide"
 ---
 
@@ -34,7 +34,7 @@ How to get involved with CivicActions Accessibility, whether you're already part
 ### Become an Accessibility Champion
 Join our internal [Champions Program](/champions/champions-program) to:
 - **Build accessibility expertise** in your practice area
-- **Advocate for inclusive design** on your projects  
+- **Advocate for inclusive design** on your projects
 - **Connect with the accessibility community** beyond CivicActions
 - **Advance your career** in accessibility and inclusive technology
 
@@ -64,7 +64,7 @@ CivicActions is always looking for talented people who share our mission of impr
 
 **Accessibility-related roles we hire for**:
 - **Accessibility Engineers** - Technical implementation and testing
-- **UX Designers** - Inclusive design and user research  
+- **UX Designers** - Inclusive design and user research
 - **Content Strategists** - Plain language and accessible content
 - **Developers** - Full-stack development with accessibility expertise
 - **Project Managers** - Leading accessible digital transformation
@@ -72,14 +72,14 @@ CivicActions is always looking for talented people who share our mission of impr
 ### Contribute to Open Source
 Many of our accessibility resources are **open source** and welcome community contributions:
 
-**CivicActions Accessibility Repository**: 
+**CivicActions Accessibility Repository**:
 [github.com/civicactions/accessibility](https://github.com/civicactions/accessibility)
 - Accessibility guides and checklists
 - Testing tools and workflows
 - Case studies and lessons learned
 
-**This Site**: 
-[github.com/mgifford/civicactions-a11ysite](https://github.com/mgifford/civicactions-a11ysite)  
+**This Site**:
+[github.com/mgifford/civicactions-a11ysite](https://github.com/mgifford/civicactions-a11ysite)
 - Content improvements and corrections
 - New accessibility resources and links
 - Translation and internationalization
@@ -110,7 +110,7 @@ Many of our accessibility resources are **open source** and welcome community co
 - **Include accessibility considerations** in pull request descriptions
 - **Document accessibility decisions** and rationale
 
-### Content Contributions  
+### Content Contributions
 - **Verify links and resources** are current and accurate
 - **Include context** about why resources are recommended
 - **Consider diverse user needs** in examples and recommendations

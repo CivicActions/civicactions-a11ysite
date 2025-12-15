@@ -37,7 +37,7 @@ The people driving accessibility excellence at CivicActions and in the broader c
 
 Leading accessibility strategy and open source accessibility contributions.
 
-### Daniel Mundra  
+### Daniel Mundra
 *Accessibility Engineer*
 
 Daniel works with teams on improving how accessibility testing is included in projects and community. He set up automated testing on the CivicActions Accessibility website using Pa11y CI, cypress, axe, and GitHub actions. Daniel advocates for automated testing and shares solutions with colleagues outside of CivicActions, including the General Services Administration's 18F team.
@@ -45,7 +45,7 @@ Daniel works with teams on improving how accessibility testing is included in pr
 **Connect:** [GitHub](https://github.com/dmundra) • [GitLab](https://gitlab.com/dmundra) • [Drupal](https://drupal.org/u/dmundra) • [Website](https://danielmundra.com/)
 
 ### Jack Haas
-*Accessibility Advocate*  
+*Accessibility Advocate*
 
 Jack champions accessibility awareness and community building at CivicActions.
 

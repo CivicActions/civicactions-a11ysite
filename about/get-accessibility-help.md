@@ -18,7 +18,7 @@ content_status: "Migrate"
 http_status: 301
 migration_approved: true
 
-# Editor Notes  
+# Editor Notes
 recommendations: "Combined help-related content into comprehensive support resource"
 ---
 
@@ -72,7 +72,7 @@ We offer:
 - **Best for**: General accessibility questions and guidance
 - **Expertise level**: Mix of beginners and experts
 
-#### A11y Slack Community  
+#### A11y Slack Community
 - **Join**: [a11y.slack.com](https://web-a11y.herokuapp.com/)
 - **Best for**: Real-time help and community discussion
 - **Channels**: Organized by topic (jobs, general, tools, etc.)

@@ -64,7 +64,7 @@ Files were archived on December 12, 2025 as part of content migration cleanup. T
 
 In production, this directory should either:
 1. Return 404 errors for all requests
-2. Be password protected for internal access only  
+2. Be password protected for internal access only
 3. Be excluded from the web server document root entirely
 
 The content is preserved in Git history and this archive for reference purposes.

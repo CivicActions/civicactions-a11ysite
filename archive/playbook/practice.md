@@ -26,6 +26,6 @@ The BBC is a real leader in this space, building out a [Champions Network](https
 
 ## Key questions
 
-* How can staff reach out to learn from their peers when they run into an issue where there isn't a simple solution? 
+* How can staff reach out to learn from their peers when they run into an issue where there isn't a simple solution?
 * What can be done to include people with disabilities from within the organization?
 * What can be done to build good accessibility and inclusion practices into our teams?

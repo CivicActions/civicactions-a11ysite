@@ -12,13 +12,13 @@ editor_notes: "Source: https://accessibility.civicactions.com/roles/product-mana
 ---
 layout: role
 title: Product manager
-description: 
-excerpt: 
+description:
+excerpt:
 sidenav: docs
 categories:
   - Product management
 hero:
-  image: 
+  image:
   callout:
     alt:
     text: "Product manager"

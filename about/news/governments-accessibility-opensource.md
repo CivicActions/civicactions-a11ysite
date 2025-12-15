@@ -62,8 +62,8 @@ USWDS represents government's most successful open source accessibility project:
 #### Accessibility Features
 ```html
 <!-- USWDS accessible button component -->
-<button class="usa-button usa-button--secondary" 
-        type="button" 
+<button class="usa-button usa-button--secondary"
+        type="button"
         aria-describedby="button-help">
   Submit Application
 </button>
@@ -79,11 +79,11 @@ USWDS represents government's most successful open source accessibility project:
   <span class="usa-error-message" id="email-input-error-message" role="alert">
     Enter a valid email address
   </span>
-  <input class="usa-input usa-input--error" 
-         id="email-input-error" 
-         name="email" 
-         type="email" 
-         aria-describedby="email-input-error-message" 
+  <input class="usa-input usa-input--error"
+         id="email-input-error"
+         name="email"
+         type="email"
+         aria-describedby="email-input-error-message"
          required>
 </div>
 ```
@@ -120,7 +120,7 @@ class AccessibleTwoFactor {
 
     // Keyboard navigation for authentication methods
     this.setupKeyboardNavigation();
-    
+
     // Alternative text for QR codes
     this.addQRCodeAlternatives();
   }
@@ -132,7 +132,7 @@ class AccessibleTwoFactor {
     announcement.className = 'usa-sr-only';
     announcement.textContent = message;
     document.body.appendChild(announcement);
-    
+
     setTimeout(() => document.body.removeChild(announcement), 1000);
   }
 }
@@ -226,28 +226,28 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      
+
       - name: Setup Node.js
         uses: actions/setup-node@v2
         with:
           node-version: '18'
-      
+
       - name: Install dependencies
         run: npm install
-      
+
       - name: Build application
         run: npm run build
-      
+
       - name: Run axe-core accessibility tests
         run: npm run test:a11y
-      
+
       - name: Run Pa11y accessibility scan
         run: |
           npm install -g pa11y
           pa11y --sitemap http://localhost:3000/sitemap.xml \
                 --standard WCAG2AA \
                 --reporter json > accessibility-report.json
-      
+
       - name: Upload accessibility results
         uses: actions/upload-artifact@v2
         with:
@@ -423,7 +423,7 @@ class GovernmentAccessibilityAI:
             'alt_text_generation': self.load_alt_text_model(),
             'form_accessibility': self.load_form_analysis_model()
         }
-    
+
     def analyze_page_accessibility(self, html_content, context='government'):
         """
         Comprehensive accessibility analysis for government web pages
@@ -434,26 +434,26 @@ class GovernmentAccessibilityAI:
             'compliance_status': {},
             'user_impact_assessment': {}
         }
-        
+
         # Content accessibility analysis
         content_issues = self.models['content_analysis'].analyze(
-            html_content, 
+            html_content,
             context=context,
             standards=['WCAG_2.1_AA', 'Section_508', 'Plain_Language_Act']
         )
-        
+
         # Visual accessibility analysis
         visual_issues = self.models['color_contrast'].analyze_contrast(
             html_content,
             government_brand_guidelines=True
         )
-        
+
         # Alternative content analysis
         alt_text_suggestions = self.models['alt_text_generation'].suggest_improvements(
             html_content,
             context='government_services'
         )
-        
+
         return self.compile_accessibility_report(results)
 ```
 
@@ -562,5 +562,5 @@ Success requires sustained commitment, adequate resources, and genuine community
 **Editorial Notes:**
 - Format: Policy and technical analysis with implementation frameworks and code examples
 - Priority: Normal value - demonstrates important connection between open source and government accessibility
-- Action: No changes needed - comprehensive content preserved per audit recommendation  
+- Action: No changes needed - comprehensive content preserved per audit recommendation
 - Shows understanding of both government procurement processes and open source community dynamics

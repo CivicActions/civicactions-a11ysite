@@ -5,7 +5,7 @@ title:  "CivicActions Accessibility Playbook now available"
 date:   2021-04-14 08:00:00 -0800
 description: The first iteration of the CivicActions Accessibility Playbook is now available for public use.
 author: mike-gifford
-categories: 
+categories:
 image: card-power.png
 roles:
   - Executive
