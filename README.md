@@ -1,6 +1,6 @@
 # CivicActions Accessibility Site
 
-A collection of resources about digital accessibility and how it aligns with open source, CivicTech and Digital Transformation.
+A collection of resources about digital accessibility and how it aligns with open source and government technology.
 
 ## 11ty
 
