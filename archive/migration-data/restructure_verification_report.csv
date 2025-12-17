@@ -1,0 +1,155 @@
+destination_url,destination_title_expected,path,exists,title_found,title_matches,stub_detected
+/,CivicActions Accessibility,index.md,True,CivicActions Accessibility,True,False
+/about/agile-product-development,Agile product development,about/agile-product-development.md,True,Agile Product Development with Accessibility,False,False
+/about/contact,Contact us,about/contact.md,True,Contact Us,False,False
+/about/get-accessibility-help,Get accessibility help,about/get-accessibility-help.md,True,Get Accessibility Help,False,False
+/about/join-us,Join us,about/join-us.md,True,Join Us,False,False
+/about/join-us,Join us,about/join-us.md,True,Join Us,False,False
+/about/news,News,about/news/index.md,True,News,True,False
+/about/news,News,about/news/index.md,True,News,True,False
+/about/news/at-banter-podcast,Mike Gifford interviewed on the AT Banter Podcast,about/news/at-banter-podcast.md,True,AT Banter Podcast,False,False
+/about/news/automated-accessibility-testing-github-actions-pa11y-ci-axe,Automated accessibility testing: Leveraging GitHub Actions and pa11y-ci with axe,about/news/automated-accessibility-testing-github-actions-pa11y-ci-axe.md,True,Automated Accessibility Testing: Leveraging GitHub Actions and Pa11y-ci with Axe,False,False
+/about/news/civicactions-creates-open-product-accessibility-template,CivicActions creates Open Product Accessibility Template (OPAT) with the GSA,about/news/civicactions-creates-open-product-accessibility-template.md,True,CivicActions Creates Open Product Accessibility Template,False,False
+/about/news/civicactions-creates-open-product-accessibility-template,CivicActions creates Open Product Accessibility Template (OPAT) with the GSA,about/news/civicactions-creates-open-product-accessibility-template.md,True,CivicActions Creates Open Product Accessibility Template,False,False
+/about/news/community-practice-accessibility-government-services,Launching a community of practice for accessibility in government services,about/news/community-practice-accessibility-government-services.md,True,Launching a Community of Practice for Accessibility in Government Services,False,False
+/about/news/daniel-mundra-diving-into-drupal,Daniel Mundra: Diving into Drupal,about/news/daniel-mundra-diving-into-drupal.md,True,Daniel Mundra: Diving Into Drupal,False,False
+/about/news/delivering-digital-first-turning-21st-century-idea-into-action,Delivering digital first: Turning 21st Century IDEA into action,about/news/delivering-digital-first-turning-21st-century-idea-into-action.md,True,Delivering Digital-First: Turning 21st Century IDEA Into Action,False,False
+/about/news/disabled-veterans-check-in-designing-accessibility-map,Helping disabled veterans check-in: Designing an accessibility map,about/news/disabled-veterans-check-in-designing-accessibility-map.md,True,Helping Disabled Veterans Check-in: Designing an Accessibility Map,False,False
+/about/news/fix-accessibility-bugs,"Treat accessibility issues as bugs, not feature requests",about/news/fix-accessibility-bugs.md,True,Fix Accessibility Bugs,False,False
+/about/news/fosdem-ccessibility-opensource,Mike Gifford gave a presentation at FOSDEM on Accessibility and Open Source,about/news/fosdem-ccessibility-opensource.md,True,fosdem-ccessibility-opensource,False,True
+/about/news/gcn-accessibility-compliance-as-code,GCN: The need for accessibility compliance as code,about/news/gcn-accessibility-compliance-as-code.md,True,GCN: Accessibility Compliance as Code,False,False
+/about/news/government-accessibility-and-the-cms-problem,Government accessibility and the CMS problem,about/news/government-accessibility-and-the-cms-problem.md,True,Government Accessibility and the CMS Problem,False,False
+/about/news/government-website-zero-accessibility-errors,How we helped a government website achieve zero accessibility errors*,about/news/government-website-zero-accessibility-errors.md,True,How We Helped a Government Website Achieve Zero Accessibility Errors,False,False
+/about/news/government-wide-section-508-assessment-criteria,Five reasons to get excited about government-wide Section 508 assessment criteria,about/news/government-wide-section-508-assessment-criteria.md,True,Government-wide Section 508 Assessment Criteria: Five Reasons to Get Excited,False,False
+/about/news/governments-accessibility-opensource,Mike Gifford presented at Inclusive Design and Accessibility Meetup in the Netherlands,about/news/governments-accessibility-opensource.md,True,Government's Accessibility and Open Source: Better Together,False,False
+/about/news/gsa-machine-readable-acr,CivicActions wins contract to produce a machine-readable Voluntary Product Accessibility Template® (VPAT®),about/news/gsa-machine-readable-acr.md,True,GSA Machine-Readable ACR,False,False
+/about/news/heart-accessibility,HEART: Ensuring government digital services accessibility,about/news/heart-accessibility.md,True,Heart: Accessibility,False,False
+/about/news/hello-world,Hello world,about/news/hello-world.md,True,Hello World - Welcome to CivicActions Accessibility,False,False
+/about/news/how-drupal-helps-bake-accessibility-into-every-project,How Drupal helps us bake accessibility into every project,about/news/how-drupal-helps-bake-accessibility-into-every-project.md,True,How Drupal Helps Bake Accessibility Into Every Project,False,True
+/about/news/how-omb-can-improve-gov-accessibility,How OMB can improve .gov accessibility,about/news/how-omb-can-improve-gov-accessibility.md,True,how-omb-can-improve-gov-accessibility,False,True
+/about/news/improve-government-accessibility-through-open-source,4 ways to improve government accessibility through open source,about/news/improve-government-accessibility-through-open-source.md,True,improve-government-accessibility-through-open-source,False,True
+/about/news/improve-government-accessibility-through-open-source,Improving government accessibility through open source,about/news/improve-government-accessibility-through-open-source.md,True,improve-government-accessibility-through-open-source,False,True
+/about/news/measuring-the-impact-of-manual-accessibility-testing,Measuring the impact of manual accessibility testing,about/news/measuring-the-impact-of-manual-accessibility-testing.md,True,measuring-the-impact-of-manual-accessibility-testing,False,True
+/about/news/mvp-guide,CivicActions accessibility guide now available,about/news/mvp-guide.md,True,mvp-guide,False,True
+/about/news/mvp-playbook,CivicActions accessibility playbook now available,about/news/mvp-playbook.md,True,mvp-playbook,False,True
+/about/news/opensource-automated-accessibility-testing,Opensource.com: How I do automated accessibility testing for my website,about/news/opensource-automated-accessibility-testing.md,True,opensource-automated-accessibility-testing,False,True
+/about/news/plain-language-accessibility-guide,Plain language page added to CivicActions accessibility guide,about/news/plain-language-accessibility-guide.md,True,plain-language-accessibility-guide,False,True
+/about/news/pre-gaad-authoring-tools-built-in-accessibility,Pre-GAAD event: Authoring tools with built-in accessibility,about/news/pre-gaad-authoring-tools-built-in-accessibility.md,True,pre-GAAD-Authoring-Tools-Built-in-Accessibility,False,True
+/about/news/prioritizing-accessibility-bugs-for-maximum-impact,Prioritizing accessibility bugs for maximum impact,about/news/prioritizing-accessibility-bugs-for-maximum-impact.md,True,prioritizing-accessibility-bugs-for-maximum-impact,False,True
+/about/news/qa-with-mike-gifford-accessibility-in-civic-tech,Q&A with Mike Gifford: Accessibility in civic tech,about/news/qa-with-mike-gifford-accessibility-in-civic-tech.md,True,qa-with-mike-gifford-accessibility-in-civic-tech,False,True
+/about/news/scale-inclusive-content-automated-testing-open-source-tools,How we scale inclusive website content with automated testing and open source tools,about/news/scale-inclusive-content-automated-testing-open-source-tools.md,True,Scale Inclusive Content Automated Testing Open Source Tools,False,True
+/about/news/scanning-over-two-million-gov-pages,What we learned about accessibility by scanning more than 2 million federal .gov web pages,about/news/scanning-over-two-million-gov-pages.md,True,scanning-over-two-million-gov-pages,False,True
+/about/news/smashingmag-baking-in-accessibility-testing,Smashing Magazine: How to bake layers of accessibility testing into your process,about/news/smashingmag-baking-in-accessibility-testing.md,True,smashingmag-baking-in-accessibility-testing,False,True
+/about/news/social-media-accessibility-guide,Social media page added to CivicActions accessibility guide,about/news/social-media-accessibility-guide.md,True,social-media-accessibility-guide,False,True
+/about/news/talking-drupal-podcast,Mike Gifford and Daniel Mundra interviewed on the Talking Drupal podcast,about/news/talking-drupal-podcast.md,True,Talking-Drupal-Podcast,False,True
+/about/news/talking-drupal-podcast-382,Daniel Mundra interviewed on the Talking Drupal podcast,about/news/talking-drupal-podcast-382.md,True,Talking-Drupal-Podcast-382,False,True
+/about/news/whitehouse-gov-beginning-accessibility-journey,WhiteHouse.gov: Beginning an accessibility journey,about/news/whitehouse-gov-beginning-accessibility-journey.md,True,Whitehouse Gov Beginning Accessibility Journey,False,True
+/about/news/will-biden-transform-government-website-accessibility,Government technology: How will Biden transform government website accessibility,about/news/will-biden-transform-government-website-accessibility.md,True,Will Biden Transform Government Website Accessibility,False,True
+/about/open-work-culture,Open work culture,about/open-work-culture.md,True,Open Work Culture,False,True
+/about/services,Services,about/services.md,True,Services,True,True
+/about,About CivicActions Accessibility,about/index.md,True,About,False,False
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/about/who-we-are,Who we are,about/who-we-are.md,True,Who We Are,False,True
+/champions/accessibility-focused-organizations,Accessibility-focused organizations,champions/accessibility-focused-organizations.md,True,Accessibility-Focused Organizations,False,True
+/champions/accessibility-resources,Accessibility resources,champions/accessibility-resources.md,True,Accessibility Resources,False,True
+/champions/build-community,Build a community of practice,champions/build-community.md,True,Build Community,False,True
+/champions/champions-program,CivicActions' Accessibility Champions program,champions/champions-program.md,True,Champions Program,False,True
+/champions/designer-role,The designer role,champions/designer-role.md,True,Designer Role,False,True
+/champions/designer-role,The designer role,champions/designer-role.md,True,Designer Role,False,True
+/champions/designer-role,The designer role,champions/designer-role.md,True,Designer Role,False,True
+/champions/developer-role,The developer role,champions/developer-role.md,True,Developer Role,False,True
+/champions/executive-role,The executive role,champions/executive-role.md,True,Executive Role,False,True
+/champions/holistic-enterprise-accessibility-review-technique,Holistic Enterprise Accessibility Review Technique (HEART),champions/holistic-enterprise-accessibility-review-technique.md,True,Holistic Enterprise Accessibility Review Technique,False,True
+/champions/identity-language,Identity and language,champions/identity-language.md,True,Identity Language,False,True
+/champions/join-community,Join the global accessibility community,champions/join-community.md,True,Join Community,False,True
+/champions/onboarding-staff,Onboarding staff,champions/onboarding-staff.md,True,Onboarding Staff,False,True
+/champions/operations-role,The operations role,champions/operations-role.md,True,Operations Role,False,True
+/champions/procurement-role,The procurement role,champions/procurement-role.md,True,Procurement Role,False,True
+/champions/product-manager-role,The product manager role,champions/product-manager-role.md,True,Product Manager Role,False,True
+/champions/project-manager-role,The project manager role,champions/project-manager-role.md,True,Project Manager Role,False,True
+/champions/role-based-evaluations,Provide role based evaluations,champions/role-based-evaluations.md,True,Role-Based Evaluations,False,True
+/champions/training-certifications,Training and certifications,champions/training-certifications.md,True,Training and Certifications,False,True
+/guides,CivicActions accessibility guides,guides/index.md,True,Accessibility Guides,False,False
+/guides,CivicActions accessibility guides,guides/index.md,True,Accessibility Guides,False,False
+/guides,CivicActions accessibility guides,guides/index.md,True,Accessibility Guides,False,False
+/guides,CivicActions accessibility guides,guides/index.md,True,Accessibility Guides,False,False
+/guides,CivicActions accessibility guides,guides/index.md,True,Accessibility Guides,False,False
+/guides/design/design-systems,Design systems and accessibility,guides/design/design-systems.md,True,Design Systems,False,True
+/guides/design/documents,Creating accessible documents,guides/design/documents.md,True,Documents,False,True
+/guides/design/documents,Creating accessible documents,guides/design/documents.md,True,Documents,False,True
+/guides/design/pdf,Avoid PDF documents,guides/design/pdf.md,True,PDF,False,True
+/guides/design/plain-language,Plain language,guides/design/plain-language.md,True,Plain Language,False,True
+/guides/design/social-media,Social media,guides/design/social-media.md,True,Social Media,False,True
+/guides/development/authoring,Improve authoring tools,guides/development/authoring.md,True,Authoring Tools,False,True
+/guides/development/automated-testing,Automated testing,guides/development/automated-testing.md,True,Automated Testing,False,True
+/guides/development/defect-priority,Defect priority,guides/development/defect-priority.md,True,Defect Priority,False,True
+/guides/development/manual-testing,How to do manual testing,guides/development/manual-testing.md,True,Manual Testing,False,True
+/guides/development/personalization,Support personalization,guides/development/personalization.md,True,Personalization,False,True
+/guides/development/screen-reader,Screen reader testing,guides/development/screen-reader.md,True,Screen Reader,False,True
+/guides/development/semantic-html,Semantic HTML and accessibility,guides/development/semantic-html.md,True,Semantic HTML,False,True
+/guides/reporting/acr,Accessibility Conformance Reports (ACR),guides/reporting/acr.md,True,Accessibility Conformance Report (ACR),False,True
+/guides/reporting/acr,Accessibility Conformance Reports (ACR),guides/reporting/acr.md,True,Accessibility Conformance Report (ACR),False,True
+/guides/reporting/acr-report,Drupal Accessibility Conformance Report,guides/reporting/acr-report.md,True,ACR Report,False,True
+/guides/reporting/acr-report,Drupal Accessibility Conformance Report,guides/reporting/acr-report.md,True,ACR Report,False,True
+/guides/strategy/ai-and-ia,Consider AI and IA,guides/strategy/ai-and-ia.md,True,AI and IA,False,True
+/guides/strategy/checklists,Using checklists in an accessibility strategy,guides/strategy/checklists.md,True,Checklists,False,True
+/guides/strategy/distributed-teams,Encourage accessible distributed teams,guides/strategy/distributed-teams.md,True,Distributed Teams,False,True
+/guides/strategy/follow-global-initiatives,Follow global initiatives,guides/strategy/follow-global-initiatives.md,True,Follow Global Initiatives,False,True
+/guides/strategy/glossary,Accessibility glossary,guides/strategy/glossary.md,True,Glossary,False,True
+/guides/strategy/history,Web accessibility history,guides/strategy/history.md,True,History,False,True
+/guides/strategy/pwd,Include people with disabilities,guides/strategy/pwd.md,True,Pwd,False,True
+/guides/strategy/recommended-tools,Recommended tools,guides/strategy/recommended-tools.md,True,Recommended Tools,False,True
+/guides/strategy/training,Invest in accessibility training,guides/strategy/training.md,True,Training,False,True
+/guides/strategy/website-statements,Writing accessibility statements,guides/strategy/website-statements.md,True,Website Statements,False,True
+/search,Search,search/index.md,True,Search,True,False
+/site/accessibility-statement,Accessibility statement,site/accessibility-statement.md,True,Accessibility Statement,False,True
+/site/colophon,Colophon,site/colophon.md,True,Colophon,True,True
+/site/license,License,site/license.md,True,License,True,True
+,,index.md,True,CivicActions Accessibility,False,False
+,Drupal contributions,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False
+,,index.md,True,CivicActions Accessibility,False,False

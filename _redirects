@@ -1,0 +1,36 @@
+# Legacy accessibility-guides redirects
+/accessibility-guides                    /guides                              301
+/accessibility-guides/                   /guides/                             301
+/accessibility-guides/plain-language     /guides/design/plain-language        301
+/accessibility-guides/automated-testing  /guides/development/automated-testing 301
+/accessibility-guides/design-systems     /guides/design/design-systems        301
+/accessibility-guides/tools              /guides/strategy/recommended-tools   301
+/accessibility-guides/semantic-html      /guides/development/semantic-html    301
+/accessibility-guides/social-media       /guides/design/social-media          301
+/accessibility-guides/documents          /guides/design/documents             301
+/accessibility-guides/assistive-technology /guides/strategy/recommended-tools 301
+/accessibility-guides/checklists         /guides/strategy/checklists          301
+/accessibility-guides/history            /guides/strategy/history             301
+/accessibility-guides/authoring          /guides/development/authoring        301
+/accessibility-guides/authoring-tools    /guides/development/authoring        301
+
+# Legacy /guide redirects
+/guide/documents    /guides/design/documents   301
+/guide/pdf          /guides/design/pdf         301
+/guide/social-media /guides/design/social-media 301
+/guide/defect-priority /guides/development/defect-priority 301
+/guide/manual-testing  /guides/development/manual-testing 301
+/guide/personalization /guides/development/personalization 301
+/guide/semantic-html   /guides/development/semantic-html 301
+/guide/screen-reader   /guides/development/screen-reader 301
+
+# Legacy /playbook redirects
+/playbook/follow-global-initiatives /guides/strategy/follow-global-initiatives 301
+/playbook/statements   /guides/strategy/website-statements 301
+/playbook/distributed-teams /guides/strategy/distributed-teams 301
+/playbook/pwd          /guides/strategy/pwd 301
+/playbook/community    /champions/build-community 301
+
+# Other legacy redirects
+/open                  /site/colophon 301
+/accessibility         /site/accessibility-statement 301

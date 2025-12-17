@@ -1,0 +1,9 @@
+Action label,Action description
+Update in place,Update in place ASAP
+Update later,Update will make sense after restructure is live
+Delete and redirect,Delete and redirect 301 to an existing URL now - note destination
+Delete and abandon,Delete and serve 410 Gone now because there is no forwarding address
+Combine with existing,Update destination page now then redirect this page to that one - note destination
+Delete and redirect to new,"Create a new page then redirect this one to the new one - create new row, note destination"
+Delete and abandon later,Mark this page for deletion and 410 but do it later because <reasons>
+No changes its perfect,🌈 and 🦄

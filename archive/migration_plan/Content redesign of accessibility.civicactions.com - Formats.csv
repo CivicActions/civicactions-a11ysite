@@ -1,0 +1,13 @@
+Format label,Format description
+Collection,Browse and select from a list.
+Detail,"Informational page on a specific subject. What a detail page should do is inform the user. If the information is how to do a thing, use Guide instead."
+Document,"Usually a non-HTML document such as a PDF, VPAT template, etc. Generally fixed and/or infrequently versioned."
+Guide,Step-by-step instructions on a process or introduction to a topic. What a guide should do is help the user accomplish a task.
+Homepage,
+News,Timely supporting content that ages out of relevance quickly. Its goal is to drive users to evergreen content like guides or into browse contexts like topic pages or collections.
+Person,Bio page about an awesome human of CA. It’s goal is to be a landing page for organic web searches (i.e. Googling a name).
+Policy,"A formal statement of rules, organizational behavior, or principles. Systematically versioned. Usually with managerial and/or legal review."
+Section index,
+Search,
+Topic,Introductory information about a topic followed by a list of links to relevant details/information. What a topic should do is get the user to some place more relevant.
+Transaction,

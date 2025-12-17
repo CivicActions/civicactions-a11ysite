@@ -1,0 +1,155 @@
+▶️ Source URL,📝 Audit notes,🗂️ Category,🎬 Action,🚩 Content status,🔢 HTTP status,📍 Destination URL,🏷️ Destination Title,✅ Approved,💬 Comments
+https://accessibility.civicactions.com/,Homepage,Uncategorized,Update later,Migrate,200,/,CivicActions Accessibility,Yes,
+https://accessibility.civicactions.com/agile,Could this be combined with another page?,About,Combine with existing,Migrate,301,/about/agile-product-development,Agile product development,Yes,
+https://accessibility.civicactions.com/about/contact,,About,Update in place,Migrate,200,/about/contact,Contact us,Yes,
+https://accessibility.civicactions.com/help,Low number of views. Links to internal page.,About,Combine with existing,Migrate,301,/about/get-accessibility-help,Get accessibility help,Yes,
+https://accessibility.civicactions.com/about/join,Low number of views. Links to internal page.,About,Combine with existing,Migrate,301,/about/join-us,Join us,Yes,
+https://accessibility.civicactions.com/join,Low number of views. Links to external article,About,Combine with existing,Migrate,301,/about/join-us,Join us,Yes,
+https://accessibility.civicactions.com/posts/,Long list.,About,Delete and abandon,Delete,301,/about/news,News,Yes,
+https://accessibility.civicactions.com/news/,Long list.,About,Update later,Migrate,301,/about/news,News,Yes,
+https://accessibility.civicactions.com/posts/at-banter-podcast,,About,No changes its perfect,Migrate,301,/about/news/at-banter-podcast,Mike Gifford interviewed on the AT Banter Podcast,Yes,
+https://accessibility.civicactions.com/posts/automated-accessibility-testing-leveraging-github-actions-and-pa11y-ci-with-axe,Consider emphasizing,Accessibility Guides,Update later,Migrate,301,/about/news/automated-accessibility-testing-github-actions-pa11y-ci-axe,Automated accessibility testing: Leveraging GitHub Actions and pa11y-ci with axe,Yes,
+https://accessibility.civicactions.com/posts/CivicActions-Accessibility-Pledge,,About,No changes its perfect,Migrate,301,/about/news/civicactions-creates-open-product-accessibility-template,CivicActions creates Open Product Accessibility Template (OPAT) with the GSA,Yes,
+https://accessibility.civicactions.com/posts/CivicActions-Creates-Open-Product-Accessibility-Template,,About,No changes its perfect,Migrate,301,/about/news/civicactions-creates-open-product-accessibility-template,CivicActions creates Open Product Accessibility Template (OPAT) with the GSA,Yes,
+https://accessibility.civicactions.com/posts/launching-a-community-of-practice-for-accessibility-in-government-services,,About,No changes its perfect,Migrate,301,/about/news/community-practice-accessibility-government-services,Launching a community of practice for accessibility in government services,Yes,
+https://accessibility.civicactions.com/posts/daniel-mundra-diving-into-drupal,,About,No changes its perfect,Migrate,301,/about/news/daniel-mundra-diving-into-drupal,Daniel Mundra: Diving into Drupal,Yes,
+https://accessibility.civicactions.com/posts/delivering-digital-first-turning-21st-century-idea-into-action,,About,No changes its perfect,Migrate,301,/about/news/delivering-digital-first-turning-21st-century-idea-into-action,Delivering digital first: Turning 21st Century IDEA into action,Yes,
+https://accessibility.civicactions.com/posts/helping-disabled-veterans-check-in-designing-an-accessibility-map,,About,No changes its perfect,Migrate,301,/about/news/disabled-veterans-check-in-designing-accessibility-map,Helping disabled veterans check-in: Designing an accessibility map,Yes,Changing /posts to about/news
+https://accessibility.civicactions.com/posts/fix-accessibility-bugs,Links to external article,About,No changes its perfect,Migrate,301,/about/news/fix-accessibility-bugs,"Treat accessibility issues as bugs, not feature requests",Yes,
+https://accessibility.civicactions.com/posts/FOSDEM-ccessibility-OpenSource,,About,No changes its perfect,Migrate,301,/about/news/fosdem-ccessibility-opensource,Mike Gifford gave a presentation at FOSDEM on Accessibility and Open Source,Yes,
+https://accessibility.civicactions.com/posts/gcn-accessibility-compliance-as-code,Links to external article,About,No changes its perfect,Migrate,301,/about/news/gcn-accessibility-compliance-as-code,GCN: The need for accessibility compliance as code,Yes,
+https://accessibility.civicactions.com/posts/government-accessibility-and-the-cms-problem,,About,No changes its perfect,Migrate,301,/about/news/government-accessibility-and-the-cms-problem,Government accessibility and the CMS problem,Yes,
+https://accessibility.civicactions.com/posts/how-we-helped-a-government-website-achieve-zero-accessibility-errors,,About,No changes its perfect,Migrate,301,/about/news/government-website-zero-accessibility-errors,How we helped a government website achieve zero accessibility errors*,Yes,
+https://accessibility.civicactions.com/posts/five-reasons-to-get-excited-about-governmentwide-section-508-assessment-criteria,,About,No changes its perfect,Migrate,301,/about/news/government-wide-section-508-assessment-criteria,Five reasons to get excited about government-wide Section 508 assessment criteria,Yes,
+https://accessibility.civicactions.com/posts/governments-accessibility-opensource,Links to external article,About,No changes its perfect,Migrate,301,/about/news/governments-accessibility-opensource,Mike Gifford presented at Inclusive Design and Accessibility Meetup in the Netherlands,Yes,
+https://accessibility.civicactions.com/posts/gsa-machine-readable-acr,Low number of views.,About,No changes its perfect,Migrate,301,/about/news/gsa-machine-readable-acr,CivicActions wins contract to produce a machine-readable Voluntary Product Accessibility Template® (VPAT®),Yes,
+https://accessibility.civicactions.com/posts/heart-accessibility,Links to external article,About,No changes its perfect,Migrate,301,/about/news/heart-accessibility,HEART: Ensuring government digital services accessibility,Yes,
+https://accessibility.civicactions.com/posts/hello-world,No content,About,No changes its perfect,Migrate,301,/about/news/hello-world,Hello world,Yes,
+https://accessibility.civicactions.com/posts/how-drupal-helps-us-bake-accessibility-into-every-project,Low number of views. Could be combined with contact page.,About,No changes its perfect,Migrate,301,/about/news/how-drupal-helps-bake-accessibility-into-every-project,How Drupal helps us bake accessibility into every project,Yes,
+https://accessibility.civicactions.com/posts/how-omb-can-improve-gov-accessibility,Links to internal page.,About,No changes its perfect,Migrate,301,/about/news/how-omb-can-improve-gov-accessibility,How OMB can improve .gov accessibility,Yes,
+https://accessibility.civicactions.com/posts/4-ways-to-improve-government-accessibility-through-open-source,,About,No changes its perfect,Migrate,301,/about/news/improve-government-accessibility-through-open-source,4 ways to improve government accessibility through open source,Yes,
+https://accessibility.civicactions.com/posts/improve-government-accessibility-through-open-source,Low number of views.,About,No changes its perfect,Migrate,301,/about/news/improve-government-accessibility-through-open-source,Improving government accessibility through open source,Yes,
+https://accessibility.civicactions.com/posts/measuring-the-impact-of-manual-accessibility-testing,,About,No changes its perfect,Migrate,301,/about/news/measuring-the-impact-of-manual-accessibility-testing,Measuring the impact of manual accessibility testing,Yes,
+https://accessibility.civicactions.com/posts/mvp-guide,Low number of views.,About,No changes its perfect,Migrate,301,/about/news/mvp-guide,CivicActions accessibility guide now available,Yes,
+https://accessibility.civicactions.com/posts/mvp-playbook,Low number of views. Links to external article,About,No changes its perfect,Migrate,301,/about/news/mvp-playbook,CivicActions accessibility playbook now available,Yes,
+https://accessibility.civicactions.com/posts/opensource-automated-accessibility-testing,Low number of views. Links to external article,About,No changes its perfect,Migrate,301,/about/news/opensource-automated-accessibility-testing,Opensource.com: How I do automated accessibility testing for my website,Yes,
+https://accessibility.civicactions.com/posts/plain-language-accessibility-guide,Redirects,About,No changes its perfect,Migrate,301,/about/news/plain-language-accessibility-guide,Plain language page added to CivicActions accessibility guide,Yes,
+https://accessibility.civicactions.com/posts/pre-GAAD-Authoring-Tools-Built-in-Accessibility,Low number of views. Links to internal page.,About,No changes its perfect,Migrate,301,/about/news/pre-gaad-authoring-tools-built-in-accessibility,Pre-GAAD event: Authoring tools with built-in accessibility,Yes,
+https://accessibility.civicactions.com/posts/prioritizing-accessibility-bugs-for-maximum-impact,,About,No changes its perfect,Migrate,301,/about/news/prioritizing-accessibility-bugs-for-maximum-impact,Prioritizing accessibility bugs for maximum impact,Yes,
+https://accessibility.civicactions.com/posts/qa-with-mike-gifford-accessibility-in-civic-tech,,About,No changes its perfect,Migrate,301,/about/news/qa-with-mike-gifford-accessibility-in-civic-tech,Q&A with Mike Gifford: Accessibility in civic tech,Yes,
+https://accessibility.civicactions.com/posts/how-we-scale-inclusive-website-content-with-automated-testing-and-open-source-tools,Only linked in sitemap.xml - link from content or remove,About,No changes its perfect,Migrate,301,/about/news/scale-inclusive-content-automated-testing-open-source-tools,How we scale inclusive website content with automated testing and open source tools,Yes,
+https://accessibility.civicactions.com/posts/scanning-over-two-million-gov-pages,Low number of views.,About,No changes its perfect,Migrate,301,/about/news/scanning-over-two-million-gov-pages,What we learned about accessibility by scanning more than 2 million federal .gov web pages,Yes,
+https://accessibility.civicactions.com/posts/smashingmag-baking-in-accessibility-testing,Points to a new page,About,No changes its perfect,Migrate,301,/about/news/smashingmag-baking-in-accessibility-testing,Smashing Magazine: How to bake layers of accessibility testing into your process,Yes,
+https://accessibility.civicactions.com/posts/social-media-accessibility-guide,,About,No changes its perfect,Migrate,301,/about/news/social-media-accessibility-guide,Social media page added to CivicActions accessibility guide,Yes,
+https://accessibility.civicactions.com/posts/Talking-Drupal-Podcast,Links to external article,About,No changes its perfect,Migrate,301,/about/news/talking-drupal-podcast,Mike Gifford and Daniel Mundra interviewed on the Talking Drupal podcast,Yes,
+https://accessibility.civicactions.com/posts/Talking-Drupal-Podcast-382,Links to external article,About,No changes its perfect,Migrate,301,/about/news/talking-drupal-podcast-382,Daniel Mundra interviewed on the Talking Drupal podcast,Yes,
+https://accessibility.civicactions.com/posts/whitehouse.gov-beginning-an-accessibility-journey,Low number of views.,About,No changes its perfect,Migrate,301,/about/news/whitehouse-gov-beginning-accessibility-journey,WhiteHouse.gov: Beginning an accessibility journey,Yes,
+https://accessibility.civicactions.com/posts/govtech-how-will-biden-transform-government-website-accessibility,Links to external article,About,No changes its perfect,Migrate,301,/about/news/will-biden-transform-government-website-accessibility,Government technology: How will Biden transform government website accessibility,Yes,
+https://accessibility.civicactions.com/open,,About,Combine with existing,Migrate,301,/about/open-work-culture,Open work culture,Yes,
+https://accessibility.civicactions.com/services,Could be combined with another page.,About,Update in place,Migrate,301,/about/services,Services,Yes,
+https://accessibility.civicactions.com/about/,Links to external article,About,Combine with existing,Migrate,301,/about,About CivicActions Accessibility,Yes,
+https://accessibility.civicactions.com/about/people/,,About,Combine with existing,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/people,,About,Combine with existing,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/about/people/civicactions,Low click-through rate. Could have more info.,About,Delete and abandon,Delete,301,/about/who-we-are,Who we are,Yes,
+https://accessibility.civicactions.com/about/people/allison-carroll,Low number of views. Heading levels don't seem to be correct.,About,Update in place,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/about/people/daniel-mundra,Structured like people page. Probably shouldn't be.,About,Update in place,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/about/people/jack-haas,Low click-through rate. Could have more info.,About,Update in place,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/about/people/jennifer-houde,Low click-through rate. Could have more info.,About,Update in place,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/about/people/jonathan-bourland,Low click-through rate. Could have more info.,About,Update in place,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/about/people/luke-fretwell,Low click-through rate. Could have more info.,About,Update in place,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/about/people/michelle-kang,Low click-through rate. Could have more info.,About,Update in place,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/about/people/mike-gifford,High number of impressions,About,Update in place,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/about/people/nira-datta,Low click-through rate. Could have more info.,About,Update in place,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/about/people/vanessa-luxen,Low click-through rate. Could have more info.,About,Update in place,Delete,301,/about/who-we-are,Who we are,Yes,Decision was to retire people pages
+https://accessibility.civicactions.com/guide/organizations,,Champion Accessibility,Combine with existing,Migrate,301,/champions/accessibility-focused-organizations,Accessibility-focused organizations,Yes,
+https://accessibility.civicactions.com/guide/resources,,Champion Accessibility,Update in place,Migrate,301,/champions/accessibility-resources,Accessibility resources,Yes,
+https://accessibility.civicactions.com/playbook/practice,Red Meta Desc cell indicates duplicate or missing,Champion Accessibility,Update in place,Migrate,301,/champions/build-community,Build a community of practice,Yes,
+https://accessibility.civicactions.com/guide/champions-program,Lot of info on this page. Consider breaking up.,Champion Accessibility,Update in place,Migrate,301,/champions/champions-program,CivicActions' Accessibility Champions program,Yes,
+https://accessibility.civicactions.com/roles/content-designer,,Champion Accessibility,Delete and redirect,Migrate,301,/champions/designer-role,The designer role,Yes,This now points to /designer
+https://accessibility.civicactions.com/roles/designer,,Champion Accessibility,No changes its perfect,Migrate,301,/champions/designer-role,The designer role,Yes,
+https://accessibility.civicactions.com/roles/ux-designer,,Champion Accessibility,Update in place,Migrate,301,/champions/designer-role,The designer role,Yes,This now points to /designer
+https://accessibility.civicactions.com/roles/developer,,Champion Accessibility,Update in place,Migrate,301,/champions/developer-role,The developer role,Yes,
+https://accessibility.civicactions.com/roles/executive,,Champion Accessibility,Update in place,Migrate,301,/champions/executive-role,The executive role,Yes,
+https://accessibility.civicactions.com/heart,Could be combined with another page.,Champion Accessibility,Update in place,Migrate,301,/champions/holistic-enterprise-accessibility-review-technique,Holistic Enterprise Accessibility Review Technique (HEART),Yes,
+https://accessibility.civicactions.com/guide/identity-language,Links to external article,Champion Accessibility,Combine with existing,Migrate,301,/champions/identity-language,Identity and language,Yes,
+https://accessibility.civicactions.com/playbook/community,,Champion Accessibility,Update in place,Migrate,301,/champions/join-community,Join the global accessibility community,Yes,
+https://accessibility.civicactions.com/guide/onboarding-staff,Lot of info on this page. Consider breaking up.,Champion Accessibility,Update in place,Migrate,301,/champions/onboarding-staff,Onboarding staff,Yes,
+https://accessibility.civicactions.com/roles/operations,,Champion Accessibility,Update in place,Migrate,301,/champions/operations-role,The operations role,Yes,
+https://accessibility.civicactions.com/roles/procurement,,Champion Accessibility,Update in place,Migrate,301,/champions/procurement-role,The procurement role,Yes,
+https://accessibility.civicactions.com/roles/product-manager,,Champion Accessibility,Update in place,Migrate,301,/champions/product-manager-role,The product manager role,Yes,
+https://accessibility.civicactions.com/roles/project-manager,,Champion Accessibility,Update in place,Migrate,301,/champions/project-manager-role,The project manager role,Yes,
+https://accessibility.civicactions.com/playbook/roles,Lot of info on this page. Consider breaking up.,Champion Accessibility,Update in place,Migrate,301,/champions/role-based-evaluations,Provide role based evaluations,Yes,
+https://accessibility.civicactions.com/guide/training,,Champion Accessibility,Update in place,Migrate,301,/champions/training-certifications,Training and certifications,Yes,
+https://accessibility.civicactions.com/topics/tools,Could be combined with another page.,Accessibility Guides,Delete and abandon,Delete,301,/guides,CivicActions accessibility guides,Yes,
+https://accessibility.civicactions.com/guide/,,Accessibility Guides,Update later,Delete,301,/guides,CivicActions accessibility guides,Yes,
+https://accessibility.civicactions.com/guide/introduction,,Accessibility Guides,Update later,Migrate,200,/guides,CivicActions accessibility guides,Yes,
+https://accessibility.civicactions.com/playbook/,,Accessibility Guides,Update later,Delete,301,/guides,CivicActions accessibility guides,Yes,
+https://accessibility.civicactions.com/topics/,Could be combined with another page.,Accessibility Guides,Update later,Delete,301,/guides,CivicActions accessibility guides,Yes,
+https://accessibility.civicactions.com/guide/design,,Accessibility Guides,Update in place,Migrate,301,/guides/design/design-systems,Design systems and accessibility,Yes,
+https://accessibility.civicactions.com/playbook/documents,,Accessibility Guides,Combine with existing,Migrate,301,/guides/design/documents,Creating accessible documents,Yes,
+https://accessibility.civicactions.com/guide/documents,,Accessibility Guides,Update in place,Migrate,301,/guides/design/documents,Creating accessible documents,Yes,
+https://accessibility.civicactions.com/playbook/pdf,Links to external article,Accessibility Guides,Update in place,Migrate,301,/guides/design/pdf,Avoid PDF documents,Yes,
+https://accessibility.civicactions.com/guide/plain-language,Lot of info on this page. Consider breaking up.,Accessibility Guides,Update in place,Migrate,301,/guides/design/plain-language,Plain language,Yes,
+https://accessibility.civicactions.com/guide/social-media,,Accessibility Guides,Update in place,Migrate,301,/guides/design/social-media,Social media,Yes,
+https://accessibility.civicactions.com/playbook/authoring,Questions/headers could be emphasized more,Accessibility Guides,Update in place,Migrate,301,/guides/development/authoring,Improve authoring tools,Yes,
+https://accessibility.civicactions.com/playbook/automated-testing,,Accessibility Guides,Update in place,Migrate,301,/guides/development/automated-testing,Automated testing,Yes,
+https://accessibility.civicactions.com/guide/defect-priority,,Accessibility Guides,No changes its perfect,Migrate,301,/guides/development/defect-priority,Defect priority,Yes,
+https://accessibility.civicactions.com/playbook/manual-testing,,Accessibility Guides,Update in place,Migrate,301,/guides/development/manual-testing,How to do manual testing,Yes,
+https://accessibility.civicactions.com/playbook/personalization,,Accessibility Guides,Update in place,Migrate,301,/guides/development/personalization,Support personalization,Yes,
+https://accessibility.civicactions.com/playbook/AT,,Accessibility Guides,Update in place,Migrate,301,/guides/development/screen-reader,Screen reader testing,Yes,
+https://accessibility.civicactions.com/guide/semantic-html,Redirects,Accessibility Guides,Update in place,Migrate,301,/guides/development/semantic-html,Semantic HTML and accessibility,Yes,
+https://accessibility.civicactions.com/ACR/,,Accessibility Guides,Update in place,Migrate,301,/guides/reporting/acr,Accessibility Conformance Reports (ACR),Yes,
+https://accessibility.civicactions.com/VPAT/,,Accessibility Guides,Update in place,Migrate,301,/guides/reporting/acr,Accessibility Conformance Reports (ACR),Yes,
+https://accessibility.civicactions.com/ACR/Drupal9AccessibilityConformanceReport.html,,Accessibility Guides,Update in place,Migrate,301,/guides/reporting/acr-report,Drupal Accessibility Conformance Report,Yes,
+https://accessibility.civicactions.com/VPAT/Drupal9AccessibilityConformanceReport.html,,Accessibility Guides,Update in place,Migrate,301,/guides/reporting/acr-report,Drupal Accessibility Conformance Report,Yes,
+https://accessibility.civicactions.com/playbook/ai-and-ia,,Accessibility Guides,Update in place,Migrate,301,/guides/strategy/ai-and-ia,Consider AI and IA,Yes,
+https://accessibility.civicactions.com/playbook/checklists,,Accessibility Guides,Update in place,Migrate,301,/guides/strategy/checklists,Using checklists in an accessibility strategy,Yes,
+https://accessibility.civicactions.com/playbook/distributed-teams,,Accessibility Guides,Update in place,Migrate,301,/guides/strategy/distributed-teams,Encourage accessible distributed teams,Yes,
+https://accessibility.civicactions.com/playbook/follow-global-initiatives,,Accessibility Guides,Update in place,Migrate,301,/guides/strategy/follow-global-initiatives,Follow global initiatives,Yes,
+https://accessibility.civicactions.com/guide/glossary,No details on OKRs,Accessibility Guides,No changes its perfect,Migrate,200,/guides/strategy/glossary,Accessibility glossary,Yes,
+https://accessibility.civicactions.com/guide/history,High click-through rate,Accessibility Guides,Update in place,Migrate,301,/guides/strategy/history,Web accessibility history,Yes,Is there a better place for this one?
+https://accessibility.civicactions.com/playbook/pwd,,Accessibility Guides,Update in place,Migrate,301,/guides/strategy/pwd,Include people with disabilities,Yes,
+https://accessibility.civicactions.com/guide/tools,Lot of info on this page. Consider breaking up.,Accessibility Guides,Update in place,Migrate,301,/guides/strategy/recommended-tools,Recommended tools,Yes,Covers tools for dev and design
+https://accessibility.civicactions.com/playbook/training,,Accessibility Guides,Update in place,Migrate,301,/guides/strategy/training,Invest in accessibility training,Yes,Invest in accessibility training
+https://accessibility.civicactions.com/playbook/statements,Links to internal page.,Accessibility Guides,Update in place,Migrate,301,/guides/strategy/website-statements,Writing accessibility statements,Yes,
+https://accessibility.civicactions.com/search,,Uncategorized,Update later,Migrate,200,/search,Search,Yes,
+https://accessibility.civicactions.com/accessibility,Links to external article,About,Combine with existing,Migrate,301,/site/accessibility-statement,Accessibility statement,Yes,Site section
+https://accessibility.civicactions.com/colophon,Low number of views.,About,Combine with existing,Migrate,301,/site/colophon,Colophon,Yes,
+https://accessibility.civicactions.com/license,Possibly outdated. Could be removed.,About,Combine with existing,Migrate,301,/site/license,License,Yes,Site section
+https://accessibility.civicactions.com/guide/events,Low number of views.,Champion Accessibility,Combine with existing,Delete,410,,,Yes,
+https://accessibility.civicactions.com/projects/drupal,Low number of views.,Accessibility Guides,Combine with existing,Delete,410,,Drupal contributions,Yes,Future content idea
+https://accessibility.civicactions.com/projects/uswds,Internal-only and outdated?,Accessibility Guides,Combine with existing,Delete,410,,,Yes,
+https://accessibility.civicactions.com/projects/uswds-color,Low number of views. Heading repeats twice,Accessibility Guides,Combine with existing,Delete,410,,,Yes,
+https://accessibility.civicactions.com/projects,,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/ACR/Drupal9AccessibilityConformanceReport-December2020.html,,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,Should we make a “Guides > Reporting” section?
+https://accessibility.civicactions.com/analytics,,About,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/assets/img/icons/18F_feather/18F-Feather-Icons--all.pdf,Only linked in sitemap.xml - link from content or remove,Uncategorized,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/assets/img/icons/18F_feather/18F-Feather-Icons--top-hits.pdf,Only linked in sitemap.xml - link from content or remove,Uncategorized,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/assets/personas/pdfs/avery.pdf,404 error,Uncategorized,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/assets/personas/pdfs/darcy.pdf,Only linked in sitemap.xml - link from content or remove,Uncategorized,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/assets/personas/pdfs/parker.pdf,Only linked in sitemap.xml - link from content or remove,Uncategorized,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/assets/personas/pdfs/quincy.pdf,Only linked in sitemap.xml - link from content or remove,Uncategorized,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/assets/personas/pdfs/raz.pdf,Only linked in sitemap.xml - link from content or remove,Uncategorized,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/calendar,Low number of views. Links to external article,About,Delete and abandon,Delete,410,,,Yes,Does this info need to move to confluence before we delete?
+https://accessibility.civicactions.com/conduct,Low number of views.,About,Delete and abandon,Delete,410,,,Yes,Deleted in https://github.com/CivicActions/accessibility/pull/839
+https://accessibility.civicactions.com/docs/,No content,Uncategorized,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/documentation,Low number of views.,About,Delete and abandon,Delete,410,,,Yes,Don't think we need this now that we have a Github page explaining this
+https://accessibility.civicactions.com/okrs,Low click-through rate. Could have more info.,About,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/Onboarding.html,Low click-through rate. Could be removed.,Uncategorized,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/personas/,Low number of views. Links to external article,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/personas/accessibility-avery,,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/personas/designer-darcy,Links to external article,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/personas/procurement-parker,,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/personas/qa-quincy,,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/personas/remote-raz,,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/projects/,,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/topics/design,Could be combined with another page.,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/topics/disability-type,No content,Uncategorized,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/topics/process-policies,No content,Uncategorized,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/topics/roles,One link on page. ,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,This should be deleted in favor of making the /playbook/roles page the topic page.
+https://accessibility.civicactions.com/topics/testing,Could be combined with another page.,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/ACR/Drupal9AccessibilityConformanceReport.html,,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,Was “/VPAT/…”
+https://accessibility.civicactions.com/VPAT/Drupal9AccessibilityConformanceReport-December2020.html,Lot of info on this page. Consider breaking up.,Accessibility Guides,Delete and redirect,Delete,410,,,Yes,Should we make a “Guides > Reporting” section?
+https://accessibility.civicactions.com/personas/engineer-emery,,Accessibility Guides,Delete and abandon,Delete,410,,,Yes,
+https://accessibility.civicactions.com/posts/website-analytics,Low number of views.,About,No changes its perfect,Delete,410,,,Yes,We don't need this if we're going to delete the analytics page
+https://accessibility.civicactions.com/roles/,,Champion Accessibility,Update later,Delete,410,,,Yes,

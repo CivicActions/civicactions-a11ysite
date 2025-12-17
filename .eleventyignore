@@ -1,5 +1,9 @@
-.config
+old-site/**
+python/**
+node_modules/**.config
 .github
 .tugboat
 README.md
 LICENSE.md
+tmp/**
+archive/**
