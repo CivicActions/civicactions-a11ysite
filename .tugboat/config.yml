@@ -1,38 +1,42 @@
 services:
-  # What to call the service hosting the site. Because there is only
-  # one service, it is automatically set as the default service, which
-  # does a few things
-  #   1. Clones the git repository into the service container
-  #   2. Exposes port 80 to the Tugboat HTTP proxy
-  #   3. Routes requests to the preview URL to this service
   apache:
-    # Use the available version of Apache by not specifying a version
     image: tugboatqa/httpd:2.4-node-20
+    default: true
+    checkout: true
 
-    # A set of commands to run while building this service
     commands:
-      # Commands that set up the basic preview infrastructure
       init:
-        # Turn on URL rewriting.
-        - a2enmod rewrite
-
-        # Set the webroot for the 11ty public folder.
-        # Change this if you specify a different root for your public site.
+        # Point Apache at the Eleventy build output
         - ln -snf "${TUGBOAT_ROOT}/_site" "${DOCROOT}"
 
-      # Load dependent libraries and assets to prepare the site for build.
+        # Enable mod_rewrite and allow .htaccess overrides in the docroot.
+        # (The official httpd image uses /usr/local/apache2/conf/httpd.conf)
+        - |
+          bash -lc '
+            set -euo pipefail
+            CONF=/usr/local/apache2/conf/httpd.conf
+
+            # Enable rewrite module if commented out
+            sed -i "s/^#LoadModule rewrite_module modules\\/mod_rewrite.so/LoadModule rewrite_module modules\\/mod_rewrite.so/" "$CONF"
+
+            # Ensure AllowOverride is enabled for the standard docroot directory block.
+            # This is intentionally narrow, not global.
+            sed -i "s/AllowOverride None/AllowOverride All/" "$CONF"
+          '
+
       update:
-        # Run the node.js installer to install 11ty and its dependencies.
-        - npm install
+        # Deterministic installs are better in CI
+        - bash -lc 'cd "${TUGBOAT_ROOT}" && npm ci'
 
-      # Run any commands needed to build the site.
       build:
-        # Build the static 11ty site.
-        - npm run build
+        - bash -lc 'cd "${TUGBOAT_ROOT}" && npm run build'
 
-        # Error occurred when implementing Tugboat preview.
-        # Solution: Inject .htaccess file to mimic GitHub pages behavior with URLs.
-        # Solution from: https://serverfault.com/questions/989333/using-apache-rewrite-rules-in-htaccess-to-remove-html-causing-a-500-error.
-        - echo "RewriteEngine On" > _site/.htaccess
-        - echo "RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f" >> _site/.htaccess
-        - echo "RewriteRule "'!'"\.\w{2,4}$ %{REQUEST_URI}.html [L]" >> _site/.htaccess
+        # Write .htaccess in one go (avoid quoting hell)
+        - |
+          bash -lc '
+            cat > "${TUGBOAT_ROOT}/_site/.htaccess" << "EOF"
+RewriteEngine On
+RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f
+RewriteRule !\.\w{2,4}$ %{REQUEST_URI}.html [L]
+EOF
+          '
