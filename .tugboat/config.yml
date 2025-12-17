@@ -6,26 +6,41 @@ services:
 
     commands:
       init:
+        # Install Node.js + npm (required for npm ci / npm run build)
+        - |
+          bash -lc '
+            set -euo pipefail
+
+            if command -v apt-get >/dev/null 2>&1; then
+              apt-get update
+              apt-get install -y --no-install-recommends ca-certificates curl gnupg
+              curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
+              apt-get install -y --no-install-recommends nodejs
+            elif command -v apk >/dev/null 2>&1; then
+              apk add --no-cache nodejs npm
+            else
+              echo "No supported package manager found (apt-get/apk). Cannot install Node." >&2
+              exit 1
+            fi
+
+            node -v
+            npm -v
+          '
+
         # Point Apache at the Eleventy build output
         - ln -snf "${TUGBOAT_ROOT}/_site" "${DOCROOT}"
 
         # Enable mod_rewrite and allow .htaccess overrides in the docroot.
-        # (The official httpd image uses /usr/local/apache2/conf/httpd.conf)
         - |
           bash -lc '
             set -euo pipefail
             CONF=/usr/local/apache2/conf/httpd.conf
 
-            # Enable rewrite module if commented out
-            sed -i "s/^#LoadModule rewrite_module modules\\/mod_rewrite.so/LoadModule rewrite_module modules\\/mod_rewrite.so/" "$CONF"
-
-            # Ensure AllowOverride is enabled for the standard docroot directory block.
-            # This is intentionally narrow, not global.
-            sed -i "s/AllowOverride None/AllowOverride All/" "$CONF"
+            sed -i "s/^#LoadModule rewrite_module modules\\/mod_rewrite.so/LoadModule rewrite_module modules\\/mod_rewrite.so/" "$CONF" || true
+            sed -i "s/AllowOverride None/AllowOverride All/" "$CONF" || true
           '
 
       update:
-        # Deterministic installs are better in CI
         - bash -lc 'cd "${TUGBOAT_ROOT}" && npm ci'
 
       build:
