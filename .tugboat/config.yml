@@ -1,6 +1,6 @@
 services:
   apache:
-    image: tugboatqa/httpd:2.4-node-20
+    image: tugboatqa/httpd:2.4
     default: true
     checkout: true
 
