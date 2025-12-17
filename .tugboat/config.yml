@@ -1,4 +1,4 @@
-services: 
+services:
   apache:
     image: tugboatqa/httpd:2.4
     default: true
