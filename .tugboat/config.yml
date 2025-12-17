@@ -30,13 +30,8 @@ services:
 
       build:
         - bash -lc 'cd "${TUGBOAT_ROOT}" && npm run build'
-
-        # Write .htaccess in one go (avoid quoting hell)
-        - |
-          bash -lc '
-            cat > "${TUGBOAT_ROOT}/_site/.htaccess" << "EOF"
-RewriteEngine On
-RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f
-RewriteRule !\.\w{2,4}$ %{REQUEST_URI}.html [L]
-EOF
-          '
+        - bash -lc 'printf "%s\n" \
+          "RewriteEngine On" \
+          "RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f" \
+          "RewriteRule !\\.\\w{2,4}$ %{REQUEST_URI}.html [L]" \
+          > "${TUGBOAT_ROOT}/_site/.htaccess"'
