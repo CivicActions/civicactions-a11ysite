@@ -5,5 +5,8 @@ node_modules/**.config
 .tugboat
 README.md
 LICENSE.md
+AGENTS.md
+ACCESSIBILITY.md
+STYLES.md
 tmp/**
 archive/**
