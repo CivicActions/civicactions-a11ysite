@@ -4,7 +4,7 @@
   "license": "CC-BY-SA-4.0",
   "description": "CivicActions Accessibility Site: A collection of resources about digital accessibility and how it aligns with open source, CivicTech and Digital Transformation.",
   "dependencies": {
-    "@11ty/eleventy": "^3.1.5"
+    "@11ty/eleventy": "^3.1.6"
   },
   "scripts": {
     "build": "npx @11ty/eleventy",
