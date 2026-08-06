@@ -1,50 +1,52 @@
 services:
-  # What to call the service hosting the site. Because there is only
-  # one service, it is automatically set as the default service, which
-  # does a few things
-  #   1. Clones the git repository into the service container
-  #   2. Exposes port 80 to the Tugboat HTTP proxy
-  #   3. Routes requests to the preview URL to this service
   apache:
-    # Use the available version of Apache by not specifying a version
-    image: tugboatqa/httpd
+    image: tugboatqa/httpd:2.4
+    default: true
+    checkout: true
 
-    # A set of commands to run while building this service
     commands:
-      # Commands that set up the basic preview infrastructure
       init:
-        # Turn on URL rewriting.
-        - sed -i 's/AllowOverride None/AllowOverride All/' /usr/local/apache2/conf/httpd.conf
-        - sed -i 's/#LoadModule rewrite_module modules\/mod_rewrite\.so/LoadModule rewrite_module modules\/mod_rewrite\.so/' /usr/local/apache2/conf/httpd.conf
+        # Install Node.js + npm (required for npm ci / npm run build)
+        - |
+          bash -lc '
+            set -euo pipefail
 
-        # Install node.js version 18.
-        - apt-get update
-        - apt-get install -yq ca-certificates curl gnupg
-        - mkdir -p /etc/apt/keyrings
-        - curl -fsSL https://deb.nodesource.com/gpgkey/nodesource-repo.gpg.key | gpg --dearmor -o
-          /etc/apt/keyrings/nodesource.gpg
-        - echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.com/node_20.x nodistro main" |
-          tee /etc/apt/sources.list.d/nodesource.list
-        - apt-get update
-        - apt-get install -yq nodejs
+            if command -v apt-get >/dev/null 2>&1; then
+              apt-get update
+              apt-get install -y --no-install-recommends ca-certificates curl gnupg
+              curl -fsSL https://deb.nodesource.com/setup_20.x | bash -
+              apt-get install -y --no-install-recommends nodejs
+            elif command -v apk >/dev/null 2>&1; then
+              apk add --no-cache nodejs npm
+            else
+              echo "No supported package manager found (apt-get/apk). Cannot install Node." >&2
+              exit 1
+            fi
 
-        # Set the webroot for the 11ty public folder.
-        # Change this if you specify a different root for your public site.
+            node -v
+            npm -v
+          '
+
+        # Point Apache at the Eleventy build output
         - ln -snf "${TUGBOAT_ROOT}/_site" "${DOCROOT}"
 
-      # Load dependent libraries and assets to prepare the site for build.
+        # Enable mod_rewrite and allow .htaccess overrides in the docroot.
+        - |
+          bash -lc '
+            set -euo pipefail
+            CONF=/usr/local/apache2/conf/httpd.conf
+
+            sed -i "s/^#LoadModule rewrite_module modules\\/mod_rewrite.so/LoadModule rewrite_module modules\\/mod_rewrite.so/" "$CONF" || true
+            sed -i "s/AllowOverride None/AllowOverride All/" "$CONF" || true
+          '
+
       update:
-        # Run the node.js installer to install 11ty and its dependencies.
-        - npm install
+        - bash -lc 'cd "${TUGBOAT_ROOT}" && npm ci'
 
-      # Run any commands needed to build the site.
       build:
-        # Build the static 11ty site.
-        - npm run build
-
-        # Error occurred when implementing Tugboat preview.
-        # Solution: Inject .htaccess file to mimic GitHub pages behavior with URLs.
-        # Solution from: https://serverfault.com/questions/989333/using-apache-rewrite-rules-in-htaccess-to-remove-html-causing-a-500-error.
-        - echo "RewriteEngine On" > _site/.htaccess
-        - echo "RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f" >> _site/.htaccess
-        - echo "RewriteRule "'!'"\.\w{2,4}$ %{REQUEST_URI}.html [L]" >> _site/.htaccess
+        - bash -lc 'cd "${TUGBOAT_ROOT}" && npm run build'
+        - bash -lc 'printf "%s\n" \
+          "RewriteEngine On" \
+          "RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI}.html -f" \
+          "RewriteRule !\\.\\w{2,4}$ %{REQUEST_URI}.html [L]" \
+          > "${TUGBOAT_ROOT}/_site/.htaccess"'
